@@ -1,0 +1,6 @@
+delivery_bucket,orders,repeat_within_30d_pct
+1. < 10 min,2383,78.1
+2. 10-15 min,13235,76.9
+3. 15-20 min,16983,75.7
+4. 20-25 min,5515,58.1
+5. 25+ min,1784,58.3

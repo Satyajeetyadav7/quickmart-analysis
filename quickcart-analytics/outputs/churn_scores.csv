@@ -1,0 +1,2762 @@
+customer_id,city,acquisition_channel,frequency,monetary,recency_days,avg_delivery_min,late_share,churn_risk
+100003,Chennai,Paid Social,1,314.0,19,13.9,0.0,0.43
+100007,Kolkata,Organic,7,3879.0,46,20.8,0.57,0.891
+100017,Chandigarh Tricity,Paid Social,1,747.0,12,20.6,1.0,0.645
+100021,Bengaluru,Paid Social,1,184.0,24,17.7,0.0,0.548
+100027,Chandigarh Tricity,Paid Social,3,1209.0,6,14.9,0.0,0.264
+100033,Jaipur,Influencer,6,4095.0,3,21.2,0.67,0.343
+100035,Mumbai,Influencer,3,1612.0,84,15.8,0.0,0.981
+100037,Hyderabad,Influencer,2,2493.0,59,13.4,0.0,0.91
+100043,Mumbai,Paid Social,20,7403.0,69,15.2,0.1,0.918
+100045,Mumbai,Referral,1,1152.0,14,18.4,0.0,0.398
+100051,Bengaluru,Organic,1,33.0,81,8.9,0.0,0.983
+100052,Mumbai,Paid Social,3,2062.0,25,12.1,0.0,0.553
+100054,Chennai,Organic,7,4481.0,5,16.2,0.29,0.295
+100065,Bengaluru,Organic,8,4789.0,29,13.6,0.12,0.551
+100067,Bengaluru,Organic,6,5793.0,0,16.0,0.33,0.209
+100069,Chandigarh Tricity,Organic,1,514.0,73,32.5,1.0,0.989
+100081,Bengaluru,Google Ads,18,10272.0,1,15.4,0.17,0.168
+100086,Hyderabad,Paid Social,2,739.0,74,23.2,0.5,0.972
+100087,Mumbai,Influencer,6,3445.0,77,17.1,0.17,0.967
+100090,Delhi NCR,Google Ads,7,3203.0,0,14.1,0.0,0.198
+100093,Delhi NCR,Organic,7,5159.0,81,15.9,0.14,0.978
+100097,Delhi NCR,Referral,2,392.0,87,14.1,0.0,0.994
+100107,Delhi NCR,Referral,15,9308.0,0,14.9,0.13,0.139
+100109,Delhi NCR,Paid Social,6,1918.0,13,16.6,0.17,0.324
+100112,Bengaluru,Paid Social,6,3469.0,19,14.8,0.17,0.425
+100117,Bengaluru,Influencer,2,498.0,11,14.2,0.0,0.329
+100118,Bengaluru,Referral,12,3578.0,13,15.2,0.17,0.261
+100121,Bengaluru,Google Ads,1,387.0,18,9.9,0.0,0.494
+100124,Delhi NCR,Organic,4,1963.0,7,14.0,0.0,0.214
+100125,Mumbai,Organic,1,235.0,39,13.0,0.0,0.797
+100126,Chennai,Influencer,4,677.0,42,14.1,0.0,0.748
+100127,Delhi NCR,Organic,11,10717.0,5,15.5,0.09,0.18
+100129,Delhi NCR,Referral,11,4131.0,4,17.0,0.18,0.161
+100132,Bengaluru,Organic,2,1304.0,31,13.0,0.0,0.614
+100136,Bengaluru,Referral,2,1395.0,12,14.8,0.0,0.367
+100137,Hyderabad,Paid Social,2,6826.0,6,14.8,0.0,0.314
+100139,Chandigarh Tricity,Google Ads,1,102.0,15,28.0,1.0,0.752
+100143,Delhi NCR,Paid Social,11,7172.0,3,17.1,0.09,0.123
+100144,Kolkata,Paid Social,2,246.0,14,20.0,0.5,0.532
+100148,Mumbai,Paid Social,25,13594.0,83,14.5,0.12,0.979
+100150,Jaipur,Google Ads,1,311.0,68,24.8,1.0,0.989
+100153,Bengaluru,Referral,3,3425.0,34,16.6,0.0,0.724
+100156,Bengaluru,Organic,6,3873.0,1,15.8,0.0,0.152
+100174,Mumbai,Google Ads,15,7780.0,13,14.9,0.07,0.268
+100176,Delhi NCR,Referral,35,17700.0,42,15.1,0.03,0.662
+100179,Hyderabad,Organic,2,951.0,38,16.0,0.0,0.684
+100181,Chandigarh Tricity,Organic,2,280.0,20,22.0,0.5,0.595
+100184,Pune,Referral,3,466.0,16,21.2,0.67,0.542
+100191,Delhi NCR,Organic,14,6771.0,4,15.7,0.14,0.161
+100192,Hyderabad,Influencer,2,813.0,14,14.6,0.0,0.386
+100194,Chandigarh Tricity,Google Ads,4,2608.0,5,24.5,0.75,0.461
+100197,Hyderabad,Organic,10,5090.0,2,15.2,0.1,0.175
+100201,Hyderabad,Organic,9,8565.0,2,16.0,0.11,0.156
+100202,Chennai,Organic,2,1775.0,3,20.1,0.5,0.356
+100204,Mumbai,Paid Social,13,4611.0,17,15.6,0.08,0.264
+100205,Hyderabad,Influencer,9,6603.0,82,15.3,0.11,0.977
+100206,Delhi NCR,Google Ads,8,4000.0,28,15.7,0.0,0.54
+100207,Kolkata,Organic,2,777.0,33,21.4,1.0,0.878
+100210,Delhi NCR,Organic,63,29611.0,5,15.8,0.05,0.182
+100211,Chandigarh Tricity,Google Ads,1,379.0,7,19.9,0.0,0.374
+100215,Jaipur,Organic,1,734.0,13,19.5,0.0,0.447
+100216,Delhi NCR,Organic,2,793.0,69,19.8,0.5,0.961
+100217,Bengaluru,Paid Social,17,10727.0,1,15.0,0.12,0.128
+100225,Hyderabad,Google Ads,5,4586.0,0,14.8,0.0,0.219
+100232,Chandigarh Tricity,Organic,1,533.0,64,22.1,1.0,0.981
+100233,Kolkata,Paid Social,1,393.0,45,18.6,0.0,0.836
+100237,Delhi NCR,Paid Social,3,3057.0,51,11.9,0.0,0.84
+100240,Chennai,Organic,17,8064.0,81,16.9,0.06,0.962
+100243,Bengaluru,Influencer,2,1307.0,24,14.2,0.0,0.682
+100244,Hyderabad,Organic,58,29121.0,4,15.7,0.12,0.15
+100250,Bengaluru,Organic,8,6071.0,35,12.6,0.0,0.628
+100253,Delhi NCR,Paid Social,2,819.0,79,13.8,0.0,0.97
+100254,Delhi NCR,Organic,59,32582.0,6,15.0,0.08,0.196
+100256,Bengaluru,Google Ads,1,406.0,40,13.4,0.0,0.834
+100258,Bengaluru,Organic,2,486.0,79,20.8,0.5,0.987
+100269,Mumbai,Google Ads,1,408.0,25,18.2,0.0,0.641
+100270,Jaipur,Google Ads,6,2450.0,6,19.8,0.5,0.405
+100271,Pune,Paid Social,1,477.0,48,17.3,0.0,0.872
+100273,Delhi NCR,Paid Social,12,8999.0,4,16.7,0.17,0.197
+100279,Jaipur,Organic,4,2890.0,55,19.8,0.5,0.936
+100281,Jaipur,Referral,3,1824.0,84,17.0,0.0,0.981
+100287,Chandigarh Tricity,Google Ads,1,1862.0,4,26.7,1.0,0.641
+100294,Hyderabad,Paid Social,5,2717.0,69,15.7,0.0,0.939
+100300,Kolkata,Influencer,1,195.0,30,21.3,1.0,0.864
+100312,Chennai,Paid Social,7,4232.0,0,15.9,0.14,0.174
+100316,Hyderabad,Organic,8,6932.0,47,18.0,0.25,0.828
+100321,Chandigarh Tricity,Google Ads,1,195.0,41,11.8,0.0,0.88
+100322,Kolkata,Paid Social,1,174.0,31,15.2,0.0,0.695
+100325,Hyderabad,Referral,1,205.0,73,14.7,0.0,0.969
+100327,Mumbai,Google Ads,1,395.0,4,19.6,0.0,0.308
+100328,Delhi NCR,Organic,13,5015.0,2,16.2,0.15,0.153
+100330,Jaipur,Organic,1,211.0,7,32.4,1.0,0.54
+100334,Hyderabad,Organic,1,167.0,25,10.4,0.0,0.617
+100335,Bengaluru,Google Ads,12,8645.0,77,15.0,0.08,0.972
+100336,Bengaluru,Paid Social,1,1558.0,75,20.8,1.0,0.994
+100342,Mumbai,Paid Social,1,407.0,33,10.9,0.0,0.661
+100343,Mumbai,Paid Social,8,5583.0,4,16.1,0.12,0.205
+100351,Ahmedabad,Influencer,1,91.0,75,15.6,0.0,0.976
+100358,Kolkata,Referral,4,3002.0,42,17.1,0.0,0.753
+100359,Bengaluru,Organic,2,872.0,6,13.7,0.0,0.252
+100361,Mumbai,Google Ads,1,340.0,10,12.0,0.0,0.358
+100365,Bengaluru,Google Ads,16,9298.0,11,15.0,0.06,0.263
+100366,Delhi NCR,Paid Social,2,1463.0,17,16.2,0.0,0.393
+100368,Delhi NCR,Organic,4,1923.0,49,16.4,0.0,0.822
+100369,Delhi NCR,Organic,3,1683.0,81,18.8,0.33,0.981
+100372,Ahmedabad,Referral,23,14120.0,6,19.1,0.39,0.183
+100379,Jaipur,Organic,1,255.0,33,23.2,1.0,0.88
+100384,Delhi NCR,Organic,3,1140.0,37,14.1,0.0,0.659
+100389,Hyderabad,Influencer,13,5705.0,0,14.8,0.08,0.129
+100390,Pune,Organic,9,5839.0,1,15.3,0.0,0.203
+100394,Chennai,Influencer,1,163.0,42,16.8,0.0,0.822
+100407,Pune,Google Ads,3,1196.0,3,17.6,0.0,0.254
+100408,Pune,Paid Social,6,3544.0,7,14.9,0.17,0.307
+100409,Pune,Paid Social,3,1373.0,21,19.7,0.33,0.525
+100412,Bengaluru,Paid Social,5,1128.0,21,14.5,0.0,0.417
+100415,Bengaluru,Paid Social,2,2454.0,36,11.2,0.0,0.745
+100416,Pune,Organic,4,3193.0,2,18.2,0.25,0.265
+100417,Delhi NCR,Organic,1,110.0,26,13.5,0.0,0.597
+100423,Bengaluru,Referral,2,956.0,6,15.1,0.0,0.283
+100428,Bengaluru,Paid Social,16,9308.0,12,16.8,0.12,0.24
+100433,Pune,Influencer,6,2371.0,75,16.7,0.0,0.961
+100434,Delhi NCR,Organic,3,2204.0,41,12.6,0.0,0.757
+100436,Chandigarh Tricity,Google Ads,1,184.0,36,25.9,1.0,0.924
+100440,Chandigarh Tricity,Organic,1,267.0,40,24.6,1.0,0.961
+100444,Pune,Paid Social,2,552.0,68,8.8,0.0,0.951
+100447,Ahmedabad,Organic,5,4323.0,33,19.6,0.4,0.772
+100448,Ahmedabad,Organic,1,136.0,63,20.6,1.0,0.984
+100450,Jaipur,Paid Social,9,4828.0,3,21.2,0.67,0.274
+100451,Chennai,Paid Social,1,521.0,83,11.7,0.0,0.982
+100454,Mumbai,Organic,8,5688.0,0,13.5,0.0,0.155
+100455,Mumbai,Google Ads,4,1270.0,5,15.6,0.0,0.237
+100457,Pune,Organic,2,713.0,82,19.5,0.5,0.983
+100458,Bengaluru,Organic,6,2937.0,38,15.7,0.17,0.757
+100463,Kolkata,Influencer,1,443.0,26,23.6,1.0,0.839
+100465,Delhi NCR,Organic,1,175.0,23,12.2,0.0,0.559
+100466,Delhi NCR,Influencer,2,1098.0,15,22.0,1.0,0.71
+100467,Bengaluru,Paid Social,8,3818.0,31,17.1,0.38,0.674
+100472,Delhi NCR,Referral,42,24095.0,9,16.0,0.12,0.264
+100474,Jaipur,Influencer,1,495.0,60,28.2,1.0,0.98
+100477,Mumbai,Referral,1,104.0,10,18.2,0.0,0.3
+100478,Hyderabad,Referral,18,10074.0,84,14.8,0.06,0.977
+100482,Delhi NCR,Influencer,1,309.0,72,16.0,0.0,0.967
+100486,Pune,Organic,1,1074.0,5,10.3,0.0,0.281
+100499,Chennai,Paid Social,7,5117.0,84,18.8,0.14,0.977
+100503,Mumbai,Paid Social,8,2204.0,7,15.4,0.12,0.236
+100504,Delhi NCR,Referral,12,6874.0,5,16.2,0.25,0.251
+100505,Pune,Organic,2,417.0,1,17.1,0.5,0.307
+100510,Mumbai,Google Ads,1,366.0,34,16.2,0.0,0.73
+100512,Chennai,Organic,1,221.0,53,24.1,1.0,0.965
+100514,Mumbai,Referral,1,1784.0,15,28.2,1.0,0.712
+100516,Delhi NCR,Google Ads,8,2819.0,28,17.2,0.25,0.589
+100517,Chandigarh Tricity,Influencer,1,667.0,81,17.7,0.0,0.983
+100518,Delhi NCR,Organic,1,64.0,29,14.3,0.0,0.639
+100521,Delhi NCR,Referral,5,3450.0,42,14.3,0.0,0.787
+100522,Delhi NCR,Google Ads,12,4496.0,34,14.7,0.0,0.612
+100524,Mumbai,Referral,4,1741.0,59,15.0,0.25,0.927
+100525,Kolkata,Paid Social,1,1714.0,90,14.9,0.0,0.989
+100528,Kolkata,Referral,8,4307.0,47,16.8,0.0,0.735
+100539,Chennai,Organic,3,2408.0,29,18.7,0.33,0.726
+100546,Chennai,Influencer,1,266.0,64,20.1,1.0,0.986
+100548,Delhi NCR,Organic,3,1116.0,9,16.8,0.0,0.244
+100554,Delhi NCR,Organic,17,6620.0,9,14.9,0.06,0.18
+100557,Mumbai,Organic,1,197.0,54,14.8,0.0,0.893
+100559,Jaipur,Google Ads,3,1347.0,89,19.8,0.33,0.994
+100562,Bengaluru,Organic,9,4830.0,8,16.8,0.11,0.208
+100563,Pune,Paid Social,3,1996.0,13,18.2,0.33,0.396
+100564,Bengaluru,Paid Social,2,714.0,18,15.4,0.0,0.462
+100567,Hyderabad,Paid Social,3,703.0,12,15.2,0.0,0.305
+100571,Delhi NCR,Google Ads,4,1712.0,5,14.8,0.0,0.312
+100572,Hyderabad,Google Ads,12,7482.0,0,15.3,0.08,0.136
+100581,Hyderabad,Google Ads,18,6891.0,63,15.9,0.17,0.918
+100583,Hyderabad,Organic,7,5131.0,7,16.8,0.14,0.284
+100587,Bengaluru,Paid Social,17,9991.0,35,16.5,0.29,0.686
+100591,Chandigarh Tricity,Paid Social,7,2625.0,12,20.9,0.57,0.389
+100593,Mumbai,Organic,1,334.0,74,9.3,0.0,0.97
+100595,Delhi NCR,Referral,1,93.0,26,14.5,0.0,0.631
+100597,Hyderabad,Paid Social,2,826.0,41,15.2,0.0,0.761
+100598,Bengaluru,Referral,10,4879.0,84,14.2,0.0,0.972
+100599,Pune,Organic,10,3218.0,56,16.4,0.2,0.897
+100600,Bengaluru,Paid Social,6,2781.0,14,15.2,0.0,0.338
+100604,Delhi NCR,Referral,4,1672.0,21,15.8,0.0,0.436
+100608,Mumbai,Organic,3,1182.0,28,14.5,0.0,0.527
+100613,Bengaluru,Referral,6,2953.0,79,15.3,0.17,0.977
+100617,Delhi NCR,Influencer,9,4851.0,0,16.3,0.11,0.163
+100620,Delhi NCR,Paid Social,1,985.0,8,8.7,0.0,0.301
+100621,Chandigarh Tricity,Referral,1,964.0,15,21.5,1.0,0.774
+100625,Jaipur,Influencer,1,617.0,89,20.8,1.0,0.997
+100626,Delhi NCR,Paid Social,2,304.0,10,12.4,0.0,0.265
+100628,Bengaluru,Organic,5,3100.0,0,16.2,0.2,0.21
+100637,Mumbai,Paid Social,2,754.0,88,14.0,0.0,0.982
+100638,Mumbai,Google Ads,2,1554.0,0,21.8,0.5,0.354
+100639,Hyderabad,Referral,6,1555.0,0,13.7,0.0,0.163
+100644,Chandigarh Tricity,Organic,2,931.0,75,20.8,0.5,0.981
+100646,Mumbai,Paid Social,10,6645.0,43,15.0,0.1,0.762
+100648,Mumbai,Google Ads,9,4477.0,14,16.2,0.0,0.333
+100654,Mumbai,Google Ads,1,350.0,3,20.4,1.0,0.572
+100659,Bengaluru,Referral,4,3761.0,35,17.8,0.0,0.655
+100666,Bengaluru,Organic,2,896.0,84,10.8,0.0,0.979
+100668,Chennai,Google Ads,8,2530.0,3,16.9,0.25,0.21
+100670,Kolkata,Influencer,9,4895.0,63,18.1,0.33,0.941
+100675,Ahmedabad,Organic,3,2959.0,0,22.6,0.67,0.419
+100677,Ahmedabad,Google Ads,8,5436.0,14,19.3,0.38,0.511
+100681,Pune,Paid Social,1,261.0,67,21.9,1.0,0.984
+100682,Hyderabad,Referral,4,2066.0,19,17.4,0.25,0.516
+100686,Mumbai,Paid Social,1,843.0,27,21.5,1.0,0.841
+100693,Hyderabad,Organic,38,16188.0,79,15.2,0.11,0.967
+100695,Delhi NCR,Influencer,3,1193.0,77,17.0,0.33,0.975
+100699,Jaipur,Organic,13,4250.0,39,19.1,0.46,0.718
+100704,Chandigarh Tricity,Referral,1,206.0,5,17.3,0.0,0.324
+100705,Mumbai,Paid Social,3,1626.0,24,11.9,0.0,0.49
+100708,Mumbai,Organic,9,3827.0,4,15.6,0.11,0.244
+100709,Hyderabad,Influencer,5,2326.0,84,12.4,0.0,0.98
+100711,Hyderabad,Paid Social,6,1448.0,54,14.4,0.0,0.841
+100716,Kolkata,Organic,1,429.0,51,22.9,1.0,0.958
+100719,Bengaluru,Paid Social,2,645.0,37,14.2,0.0,0.72
+100721,Delhi NCR,Paid Social,2,1372.0,21,20.0,0.5,0.713
+100731,Hyderabad,Organic,11,7294.0,15,15.8,0.18,0.275
+100733,Delhi NCR,Google Ads,2,433.0,63,22.5,0.5,0.967
+100734,Bengaluru,Google Ads,5,1308.0,76,17.2,0.2,0.972
+100740,Jaipur,Paid Social,1,298.0,12,24.8,1.0,0.691
+100741,Delhi NCR,Paid Social,1,242.0,49,11.6,0.0,0.879
+100743,Chandigarh Tricity,Organic,1,462.0,6,25.7,1.0,0.579
+100744,Pune,Google Ads,19,10281.0,66,16.4,0.11,0.941
+100745,Mumbai,Organic,1,190.0,29,21.3,1.0,0.84
+100748,Hyderabad,Organic,7,3538.0,18,16.9,0.14,0.391
+100750,Jaipur,Paid Social,3,1357.0,40,20.7,0.67,0.875
+100753,Bengaluru,Google Ads,3,1418.0,51,15.0,0.0,0.871
+100754,Ahmedabad,Organic,1,1175.0,60,29.0,1.0,0.977
+100755,Delhi NCR,Organic,2,1210.0,70,13.4,0.0,0.949
+100758,Delhi NCR,Google Ads,4,1721.0,2,17.0,0.25,0.268
+100764,Hyderabad,Influencer,2,707.0,48,18.0,0.5,0.894
+100765,Mumbai,Paid Social,1,1685.0,75,14.4,0.0,0.97
+100769,Bengaluru,Google Ads,3,1305.0,5,17.4,0.33,0.349
+100772,Jaipur,Paid Social,1,271.0,76,25.1,1.0,0.992
+100773,Delhi NCR,Paid Social,4,2692.0,10,18.4,0.25,0.306
+100774,Chandigarh Tricity,Paid Social,2,1236.0,33,16.8,0.0,0.693
+100775,Chennai,Organic,1,390.0,16,28.0,1.0,0.705
+100777,Jaipur,Organic,3,1495.0,7,18.7,0.67,0.469
+100799,Delhi NCR,Google Ads,8,3680.0,13,15.0,0.12,0.374
+100801,Jaipur,Influencer,1,152.0,75,21.2,1.0,0.993
+100803,Hyderabad,Influencer,3,1022.0,28,13.2,0.0,0.544
+100804,Ahmedabad,Influencer,2,355.0,22,15.4,0.0,0.641
+100805,Jaipur,Google Ads,13,8531.0,36,22.0,0.69,0.854
+100806,Bengaluru,Referral,2,1078.0,0,25.8,0.5,0.322
+100809,Delhi NCR,Google Ads,1,618.0,31,13.7,0.0,0.706
+100810,Bengaluru,Google Ads,30,19237.0,64,16.2,0.17,0.95
+100812,Ahmedabad,Paid Social,2,858.0,64,19.3,0.5,0.985
+100813,Hyderabad,Organic,2,892.0,86,25.0,0.5,0.993
+100815,Bengaluru,Organic,3,2115.0,7,18.7,0.33,0.323
+100817,Hyderabad,Influencer,1,513.0,66,11.3,0.0,0.955
+100819,Ahmedabad,Organic,1,158.0,50,33.5,1.0,0.962
+100824,Ahmedabad,Referral,6,2469.0,9,20.0,0.5,0.401
+100826,Kolkata,Influencer,4,1549.0,0,18.2,0.25,0.229
+100834,Chennai,Google Ads,1,123.0,65,15.0,0.0,0.958
+100837,Bengaluru,Google Ads,2,2322.0,14,12.1,0.0,0.431
+100844,Mumbai,Organic,3,1194.0,14,15.2,0.0,0.415
+100849,Bengaluru,Paid Social,4,2147.0,13,15.8,0.0,0.323
+100851,Delhi NCR,Paid Social,2,1401.0,37,15.4,0.0,0.727
+100853,Mumbai,Organic,1,862.0,35,13.9,0.0,0.738
+100855,Mumbai,Paid Social,2,1368.0,85,20.1,0.5,0.989
+100857,Kolkata,Google Ads,2,1009.0,65,19.4,0.5,0.973
+100863,Pune,Paid Social,1,320.0,27,16.0,0.0,0.598
+100864,Bengaluru,Paid Social,2,198.0,14,15.6,0.0,0.477
+100872,Chennai,Google Ads,5,2939.0,0,14.5,0.0,0.21
+100873,Mumbai,Organic,16,12682.0,0,15.2,0.0,0.155
+100880,Chandigarh Tricity,Influencer,2,690.0,28,17.8,0.0,0.627
+100886,Bengaluru,Influencer,2,935.0,21,16.5,0.0,0.489
+100887,Hyderabad,Paid Social,35,17329.0,53,16.1,0.14,0.847
+100892,Mumbai,Influencer,7,2317.0,71,17.9,0.29,0.969
+100893,Mumbai,Paid Social,1,160.0,11,10.8,0.0,0.354
+100895,Bengaluru,Google Ads,22,22709.0,19,14.7,0.05,0.497
+100899,Chennai,Paid Social,1,220.0,88,13.4,0.0,0.984
+100901,Mumbai,Referral,26,11830.0,19,16.7,0.12,0.3
+100902,Kolkata,Paid Social,1,138.0,88,25.3,1.0,0.996
+100905,Mumbai,Influencer,1,510.0,7,15.4,0.0,0.319
+100906,Kolkata,Influencer,1,128.0,0,16.6,0.0,0.339
+100907,Bengaluru,Google Ads,6,2235.0,89,15.8,0.0,0.98
+100912,Bengaluru,Google Ads,7,4216.0,36,15.2,0.0,0.727
+100914,Bengaluru,Google Ads,24,16999.0,5,13.7,0.04,0.199
+100923,Mumbai,Organic,6,2947.0,5,14.2,0.0,0.197
+100927,Hyderabad,Google Ads,12,7739.0,9,16.6,0.17,0.305
+100934,Mumbai,Referral,1,1775.0,75,21.3,1.0,0.991
+100935,Mumbai,Influencer,1,146.0,42,16.0,0.0,0.815
+100936,Mumbai,Google Ads,14,6019.0,9,18.6,0.36,0.29
+100939,Chandigarh Tricity,Referral,1,747.0,50,25.3,1.0,0.959
+100941,Bengaluru,Paid Social,3,1583.0,18,16.0,0.0,0.461
+100944,Jaipur,Organic,1,589.0,88,23.1,1.0,0.996
+100945,Chandigarh Tricity,Organic,1,188.0,85,22.8,1.0,0.995
+100947,Bengaluru,Referral,5,2499.0,38,16.5,0.0,0.707
+100948,Mumbai,Google Ads,1,561.0,3,18.7,0.0,0.282
+100951,Ahmedabad,Paid Social,1,605.0,27,24.0,1.0,0.833
+100966,Ahmedabad,Paid Social,3,1222.0,46,21.2,1.0,0.949
+100967,Delhi NCR,Paid Social,2,740.0,43,18.6,0.5,0.858
+100968,Pune,Influencer,1,97.0,81,21.6,1.0,0.994
+100969,Kolkata,Paid Social,12,7912.0,32,18.0,0.33,0.68
+100970,Bengaluru,Google Ads,3,1328.0,3,12.5,0.0,0.241
+100972,Jaipur,Referral,1,854.0,76,20.5,1.0,0.994
+100975,Mumbai,Paid Social,6,2015.0,64,15.6,0.17,0.909
+100977,Kolkata,Organic,1,159.0,28,23.6,1.0,0.844
+100981,Bengaluru,Referral,3,1429.0,18,12.6,0.0,0.433
+100982,Delhi NCR,Referral,5,2827.0,81,15.1,0.0,0.972
+100983,Hyderabad,Paid Social,2,3208.0,6,11.4,0.0,0.301
+100984,Jaipur,Influencer,2,698.0,56,25.5,1.0,0.97
+100986,Bengaluru,Google Ads,16,9309.0,1,14.7,0.0,0.145
+100991,Chennai,Paid Social,2,1086.0,1,12.8,0.0,0.199
+100993,Bengaluru,Organic,11,7083.0,0,15.9,0.18,0.125
+100994,Bengaluru,Paid Social,5,3211.0,17,15.0,0.0,0.347
+100996,Mumbai,Organic,45,20818.0,13,15.6,0.16,0.233
+100997,Chandigarh Tricity,Referral,2,382.0,7,22.4,1.0,0.549
+100998,Pune,Influencer,11,6525.0,1,17.4,0.09,0.195
+101006,Chennai,Paid Social,3,2069.0,56,18.3,0.33,0.934
+101007,Delhi NCR,Paid Social,1,358.0,74,16.8,0.0,0.972
+101013,Kolkata,Paid Social,1,994.0,3,23.4,1.0,0.537
+101022,Bengaluru,Paid Social,2,233.0,44,13.6,0.0,0.783
+101023,Chandigarh Tricity,Paid Social,1,250.0,14,16.8,0.0,0.429
+101025,Delhi NCR,Google Ads,11,2936.0,72,14.2,0.09,0.946
+101029,Bengaluru,Paid Social,3,2798.0,62,14.9,0.0,0.91
+101031,Chandigarh Tricity,Paid Social,1,378.0,11,13.6,0.0,0.368
+101033,Bengaluru,Organic,2,931.0,7,20.7,0.5,0.416
+101034,Delhi NCR,Organic,2,2776.0,11,14.6,0.0,0.327
+101038,Chennai,Referral,5,2859.0,48,18.7,0.2,0.852
+101040,Kolkata,Influencer,3,2704.0,89,14.0,0.0,0.985
+101045,Hyderabad,Google Ads,1,75.0,18,10.8,0.0,0.583
+101052,Mumbai,Paid Social,2,443.0,30,17.6,0.0,0.568
+101055,Mumbai,Influencer,10,6355.0,3,14.9,0.0,0.164
+101056,Kolkata,Influencer,2,2657.0,8,16.3,0.0,0.342
+101058,Bengaluru,Organic,6,3964.0,33,12.0,0.0,0.624
+101059,Chennai,Organic,6,3984.0,7,16.2,0.17,0.23
+101061,Hyderabad,Organic,3,2678.0,0,15.1,0.0,0.193
+101062,Bengaluru,Google Ads,1,555.0,5,7.5,0.0,0.35
+101071,Jaipur,Google Ads,1,2518.0,32,20.5,1.0,0.91
+101072,Delhi NCR,Influencer,3,927.0,25,14.8,0.0,0.53
+101077,Mumbai,Google Ads,3,2195.0,56,13.9,0.0,0.909
+101082,Bengaluru,Google Ads,3,1094.0,56,12.8,0.0,0.885
+101087,Bengaluru,Organic,5,3077.0,10,15.2,0.2,0.302
+101090,Mumbai,Influencer,5,2409.0,21,18.2,0.2,0.522
+101091,Delhi NCR,Influencer,4,3768.0,88,14.7,0.0,0.987
+101098,Chennai,Paid Social,1,140.0,26,15.8,0.0,0.612
+101101,Chennai,Google Ads,12,7118.0,34,17.3,0.25,0.738
+101104,Hyderabad,Paid Social,9,8672.0,0,18.7,0.33,0.195
+101110,Chennai,Paid Social,2,532.0,78,14.6,0.0,0.963
+101113,Hyderabad,Paid Social,6,3681.0,5,14.6,0.0,0.174
+101117,Bengaluru,Organic,8,6912.0,28,16.4,0.0,0.538
+101120,Bengaluru,Paid Social,1,106.0,13,18.6,0.0,0.384
+101123,Jaipur,Google Ads,1,156.0,89,26.8,1.0,0.997
+101124,Ahmedabad,Influencer,8,4172.0,65,17.0,0.12,0.939
+101127,Delhi NCR,Paid Social,7,2929.0,3,15.9,0.14,0.147
+101131,Delhi NCR,Referral,4,2997.0,18,15.7,0.25,0.46
+101132,Jaipur,Organic,5,3042.0,48,20.6,0.6,0.924
+101135,Kolkata,Paid Social,3,424.0,14,26.2,0.67,0.489
+101141,Hyderabad,Referral,4,1754.0,9,16.2,0.0,0.243
+101142,Chennai,Influencer,9,3875.0,41,15.3,0.11,0.741
+101143,Mumbai,Google Ads,1,150.0,23,14.7,0.0,0.591
+101146,Delhi NCR,Google Ads,15,7680.0,12,16.9,0.07,0.357
+101148,Bengaluru,Organic,15,7697.0,25,15.1,0.13,0.469
+101149,Delhi NCR,Organic,4,6287.0,7,19.5,0.5,0.378
+101154,Chandigarh Tricity,Organic,10,8875.0,61,20.6,0.2,0.945
+101161,Bengaluru,Google Ads,8,7570.0,0,15.8,0.12,0.205
+101163,Bengaluru,Referral,1,77.0,35,15.0,0.0,0.699
+101164,Hyderabad,Influencer,1,190.0,9,9.1,0.0,0.376
+101170,Pune,Google Ads,1,687.0,9,17.2,0.0,0.338
+101171,Pune,Google Ads,3,657.0,86,16.0,0.0,0.985
+101175,Delhi NCR,Influencer,1,235.0,67,12.0,0.0,0.973
+101178,Chennai,Referral,1,412.0,6,25.0,1.0,0.558
+101181,Hyderabad,Organic,3,640.0,14,18.3,0.0,0.372
+101188,Hyderabad,Organic,14,5220.0,4,14.8,0.14,0.114
+101190,Chennai,Referral,2,1012.0,32,15.7,0.0,0.661
+101197,Jaipur,Organic,1,580.0,53,15.9,0.0,0.9
+101202,Delhi NCR,Referral,4,1773.0,1,16.0,0.25,0.227
+101203,Mumbai,Paid Social,3,1167.0,28,13.6,0.0,0.552
+101206,Delhi NCR,Paid Social,2,1162.0,56,14.0,0.0,0.91
+101207,Hyderabad,Paid Social,1,213.0,32,18.7,0.0,0.637
+101211,Pune,Influencer,11,6405.0,90,16.7,0.18,0.987
+101213,Pune,Organic,12,5090.0,6,17.0,0.25,0.234
+101215,Chennai,Google Ads,2,1008.0,89,21.8,0.5,0.991
+101219,Chennai,Paid Social,13,7051.0,1,19.3,0.38,0.209
+101220,Chandigarh Tricity,Influencer,1,242.0,69,18.6,0.0,0.966
+101223,Bengaluru,Paid Social,1,493.0,16,22.1,1.0,0.699
+101232,Ahmedabad,Organic,1,482.0,14,20.2,1.0,0.715
+101234,Hyderabad,Paid Social,2,309.0,8,12.8,0.0,0.265
+101237,Mumbai,Organic,1,259.0,13,15.2,0.0,0.362
+101247,Pune,Paid Social,3,1523.0,69,20.8,1.0,0.981
+101248,Mumbai,Paid Social,16,6736.0,58,14.6,0.19,0.883
+101255,Mumbai,Organic,2,900.0,1,15.4,0.0,0.206
+101258,Hyderabad,Influencer,9,4198.0,0,16.6,0.11,0.142
+101267,Delhi NCR,Referral,35,19487.0,0,15.9,0.14,0.085
+101268,Chandigarh Tricity,Referral,1,209.0,27,20.3,1.0,0.854
+101269,Delhi NCR,Google Ads,10,4427.0,67,15.1,0.1,0.937
+101274,Kolkata,Paid Social,2,781.0,7,23.0,0.5,0.475
+101279,Hyderabad,Paid Social,3,1326.0,67,14.3,0.0,0.926
+101281,Bengaluru,Influencer,6,2205.0,67,12.3,0.0,0.932
+101282,Pune,Google Ads,2,1318.0,42,15.8,0.0,0.769
+101286,Mumbai,Google Ads,3,1283.0,76,20.8,0.33,0.977
+101287,Bengaluru,Paid Social,20,10279.0,3,13.2,0.0,0.187
+101296,Pune,Organic,1,1203.0,16,21.0,1.0,0.734
+101297,Hyderabad,Paid Social,9,3709.0,34,14.2,0.0,0.63
+101299,Kolkata,Google Ads,2,910.0,14,21.2,0.5,0.573
+101301,Delhi NCR,Organic,1,485.0,37,13.0,0.0,0.738
+101306,Bengaluru,Paid Social,3,767.0,8,12.9,0.0,0.277
+101307,Mumbai,Influencer,5,3278.0,77,15.4,0.0,0.966
+101312,Bengaluru,Influencer,17,7558.0,86,14.4,0.06,0.975
+101316,Jaipur,Referral,3,786.0,87,16.0,0.0,0.981
+101317,Delhi NCR,Influencer,1,51.0,89,26.9,1.0,0.997
+101319,Jaipur,Paid Social,3,2632.0,6,19.4,0.0,0.242
+101327,Mumbai,Organic,1,616.0,11,16.3,0.0,0.361
+101330,Chennai,Google Ads,18,9523.0,13,18.0,0.17,0.167
+101331,Delhi NCR,Organic,2,1064.0,21,14.6,0.0,0.568
+101336,Bengaluru,Google Ads,2,383.0,35,16.5,0.5,0.831
+101340,Delhi NCR,Google Ads,1,178.0,49,17.2,0.0,0.871
+101349,Bengaluru,Organic,1,780.0,61,14.6,0.0,0.926
+101351,Ahmedabad,Organic,5,4708.0,31,18.7,0.2,0.675
+101354,Jaipur,Organic,1,219.0,25,20.8,1.0,0.833
+101356,Delhi NCR,Google Ads,9,4761.0,0,16.2,0.22,0.205
+101357,Pune,Paid Social,3,3040.0,25,18.5,0.33,0.617
+101358,Bengaluru,Google Ads,9,6530.0,11,15.1,0.0,0.342
+101360,Mumbai,Paid Social,2,1657.0,1,21.4,0.5,0.338
+101361,Chennai,Paid Social,1,200.0,14,35.0,1.0,0.623
+101363,Bengaluru,Paid Social,2,460.0,50,19.6,0.5,0.906
+101366,Chandigarh Tricity,Paid Social,6,3840.0,90,22.7,0.33,0.988
+101369,Pune,Influencer,6,3296.0,53,19.2,0.33,0.896
+101371,Chandigarh Tricity,Organic,1,360.0,5,22.4,1.0,0.551
+101375,Pune,Influencer,2,1141.0,11,16.6,0.0,0.36
+101376,Delhi NCR,Google Ads,16,7240.0,34,14.9,0.06,0.674
+101377,Bengaluru,Paid Social,20,8986.0,5,14.8,0.1,0.187
+101383,Delhi NCR,Referral,1,127.0,9,15.3,0.0,0.414
+101386,Pune,Google Ads,3,1124.0,14,18.9,0.67,0.545
+101387,Delhi NCR,Influencer,6,2913.0,46,13.4,0.0,0.763
+101388,Delhi NCR,Influencer,12,5694.0,6,15.4,0.08,0.227
+101391,Mumbai,Paid Social,8,4739.0,35,13.7,0.12,0.703
+101400,Delhi NCR,Influencer,2,939.0,61,13.2,0.0,0.929
+101402,Ahmedabad,Google Ads,4,1549.0,31,21.2,0.5,0.79
+101407,Kolkata,Referral,1,401.0,34,20.5,1.0,0.915
+101410,Jaipur,Google Ads,4,1330.0,67,20.6,0.75,0.983
+101411,Delhi NCR,Paid Social,2,1801.0,86,16.8,0.0,0.993
+101415,Bengaluru,Organic,22,11655.0,28,15.6,0.14,0.51
+101425,Delhi NCR,Organic,5,3073.0,4,16.0,0.2,0.244
+101432,Mumbai,Influencer,3,653.0,3,13.9,0.0,0.227
+101435,Mumbai,Referral,3,1145.0,12,15.3,0.0,0.326
+101437,Mumbai,Organic,2,831.0,74,16.4,0.0,0.954
+101438,Bengaluru,Influencer,5,2950.0,0,16.8,0.0,0.183
+101440,Mumbai,Influencer,1,79.0,42,15.2,0.0,0.82
+101442,Jaipur,Organic,2,523.0,24,17.0,0.0,0.567
+101446,Mumbai,Paid Social,2,1867.0,43,18.3,0.0,0.783
+101451,Bengaluru,Influencer,7,4462.0,8,12.3,0.0,0.26
+101453,Bengaluru,Google Ads,1,170.0,59,11.3,0.0,0.938
+101456,Mumbai,Google Ads,1,605.0,6,16.8,0.0,0.317
+101457,Chandigarh Tricity,Organic,1,981.0,41,18.8,0.0,0.803
+101458,Hyderabad,Paid Social,10,5002.0,82,14.4,0.0,0.974
+101459,Bengaluru,Referral,1,376.0,22,12.3,0.0,0.535
+101460,Ahmedabad,Organic,4,1645.0,5,19.7,0.5,0.364
+101461,Bengaluru,Paid Social,8,3920.0,4,17.2,0.38,0.314
+101462,Delhi NCR,Organic,17,14141.0,22,14.7,0.06,0.429
+101464,Delhi NCR,Organic,8,4488.0,16,15.0,0.25,0.45
+101467,Delhi NCR,Organic,20,8486.0,6,16.3,0.15,0.227
+101468,Kolkata,Paid Social,6,2497.0,50,18.2,0.17,0.852
+101472,Chennai,Paid Social,1,138.0,40,17.2,0.0,0.775
+101476,Hyderabad,Referral,1,148.0,51,27.0,1.0,0.964
+101478,Delhi NCR,Organic,10,5693.0,62,14.8,0.1,0.908
+101480,Delhi NCR,Paid Social,12,6377.0,5,16.1,0.08,0.173
+101483,Delhi NCR,Referral,1,282.0,50,13.7,0.0,0.875
+101487,Delhi NCR,Google Ads,2,1291.0,59,12.8,0.0,0.914
+101490,Mumbai,Influencer,2,488.0,78,19.3,0.5,0.99
+101492,Bengaluru,Referral,3,2991.0,18,16.0,0.0,0.425
+101495,Delhi NCR,Paid Social,1,1391.0,15,10.4,0.0,0.45
+101497,Chennai,Referral,23,11899.0,3,16.3,0.17,0.176
+101500,Mumbai,Paid Social,3,1303.0,1,17.8,0.0,0.178
+101504,Chennai,Google Ads,5,2811.0,31,15.2,0.0,0.671
+101506,Chandigarh Tricity,Referral,1,730.0,58,24.8,1.0,0.978
+101507,Mumbai,Referral,1,187.0,19,22.7,1.0,0.749
+101516,Pune,Organic,2,1490.0,22,9.7,0.0,0.512
+101520,Hyderabad,Organic,3,1527.0,4,13.3,0.0,0.238
+101521,Chandigarh Tricity,Organic,1,431.0,10,20.3,1.0,0.644
+101526,Mumbai,Organic,1,875.0,3,12.7,0.0,0.251
+101528,Mumbai,Organic,3,1648.0,20,16.5,0.0,0.406
+101529,Mumbai,Influencer,5,2029.0,1,17.0,0.2,0.228
+101531,Bengaluru,Google Ads,2,1002.0,39,15.6,0.0,0.759
+101532,Chandigarh Tricity,Organic,4,1441.0,25,21.8,0.75,0.735
+101536,Mumbai,Organic,13,5860.0,14,15.8,0.23,0.398
+101537,Bengaluru,Paid Social,3,894.0,30,16.6,0.0,0.645
+101540,Mumbai,Google Ads,1,221.0,15,9.1,0.0,0.46
+101541,Hyderabad,Google Ads,2,2090.0,2,14.6,0.0,0.229
+101550,Hyderabad,Organic,3,1413.0,11,15.4,0.0,0.332
+101551,Delhi NCR,Referral,27,15078.0,84,15.8,0.11,0.978
+101552,Kolkata,Influencer,4,1739.0,47,21.4,0.75,0.923
+101555,Ahmedabad,Referral,15,7504.0,17,19.1,0.4,0.398
+101557,Hyderabad,Organic,2,2833.0,49,12.0,0.0,0.866
+101563,Hyderabad,Organic,28,13683.0,1,15.2,0.07,0.144
+101566,Delhi NCR,Paid Social,8,3576.0,56,14.7,0.0,0.854
+101568,Chandigarh Tricity,Paid Social,2,382.0,26,23.4,0.5,0.699
+101570,Bengaluru,Organic,18,9186.0,17,15.3,0.06,0.274
+101573,Mumbai,Paid Social,20,10785.0,0,16.4,0.15,0.126
+101574,Delhi NCR,Paid Social,10,6780.0,44,16.0,0.0,0.717
+101576,Jaipur,Google Ads,4,887.0,78,19.8,0.5,0.986
+101580,Ahmedabad,Organic,1,676.0,26,20.3,1.0,0.823
+101582,Delhi NCR,Influencer,2,1121.0,75,15.8,0.0,0.973
+101583,Ahmedabad,Referral,6,4291.0,84,22.1,0.67,0.991
+101584,Ahmedabad,Google Ads,1,238.0,27,20.0,0.0,0.666
+101585,Bengaluru,Paid Social,14,6306.0,49,17.3,0.29,0.848
+101587,Mumbai,Paid Social,9,3361.0,69,15.9,0.33,0.96
+101588,Mumbai,Organic,3,1333.0,2,19.0,0.67,0.382
+101593,Delhi NCR,Paid Social,1,640.0,20,21.2,1.0,0.715
+101598,Delhi NCR,Organic,5,3344.0,41,17.8,0.2,0.775
+101606,Bengaluru,Paid Social,2,279.0,37,16.0,0.0,0.69
+101610,Mumbai,Paid Social,5,3844.0,9,15.0,0.2,0.333
+101613,Pune,Google Ads,3,1300.0,44,19.7,0.33,0.831
+101614,Mumbai,Organic,16,4705.0,0,15.6,0.25,0.094
+101615,Bengaluru,Google Ads,2,1054.0,49,14.8,0.5,0.938
+101622,Ahmedabad,Organic,2,495.0,76,11.2,0.0,0.962
+101623,Kolkata,Referral,2,196.0,54,17.6,0.0,0.898
+101628,Mumbai,Google Ads,2,1301.0,37,14.4,0.0,0.747
+101632,Chennai,Google Ads,10,5036.0,7,17.7,0.1,0.26
+101633,Mumbai,Paid Social,2,834.0,61,17.8,0.0,0.925
+101637,Hyderabad,Referral,21,10537.0,30,16.7,0.14,0.547
+101639,Chandigarh Tricity,Organic,6,3533.0,2,18.8,0.33,0.249
+101644,Chandigarh Tricity,Referral,1,482.0,85,22.0,1.0,0.995
+101646,Mumbai,Organic,28,11762.0,81,17.6,0.25,0.971
+101647,Bengaluru,Google Ads,9,7010.0,0,14.9,0.22,0.181
+101648,Bengaluru,Google Ads,3,1072.0,8,11.0,0.0,0.323
+101650,Bengaluru,Influencer,1,101.0,46,10.4,0.0,0.856
+101655,Bengaluru,Organic,8,4960.0,30,14.6,0.12,0.606
+101657,Chennai,Referral,13,5600.0,17,17.2,0.23,0.325
+101659,Bengaluru,Google Ads,16,9161.0,1,15.0,0.19,0.234
+101673,Mumbai,Influencer,3,2381.0,6,15.7,0.0,0.274
+101679,Bengaluru,Organic,6,2414.0,22,14.9,0.33,0.531
+101681,Bengaluru,Organic,32,15855.0,14,15.1,0.06,0.247
+101682,Delhi NCR,Referral,27,15026.0,15,16.9,0.11,0.296
+101683,Chennai,Organic,8,3098.0,67,14.0,0.0,0.923
+101684,Mumbai,Paid Social,2,226.0,50,20.6,0.5,0.895
+101686,Delhi NCR,Referral,8,4512.0,17,13.5,0.12,0.36
+101687,Delhi NCR,Referral,1,444.0,38,21.5,1.0,0.898
+101688,Mumbai,Google Ads,1,1476.0,15,16.7,0.0,0.467
+101698,Kolkata,Referral,3,2026.0,39,17.4,0.0,0.809
+101699,Delhi NCR,Referral,5,2906.0,14,13.9,0.0,0.34
+101701,Pune,Organic,3,2581.0,3,19.8,0.33,0.292
+101703,Mumbai,Google Ads,3,2189.0,14,15.3,0.0,0.37
+101706,Delhi NCR,Google Ads,3,1206.0,77,15.4,0.0,0.968
+101709,Bengaluru,Organic,14,6298.0,5,15.1,0.07,0.121
+101711,Delhi NCR,Google Ads,4,1193.0,50,14.8,0.0,0.852
+101713,Chandigarh Tricity,Organic,3,1757.0,48,19.6,0.33,0.878
+101718,Bengaluru,Organic,7,3501.0,7,12.8,0.0,0.215
+101719,Hyderabad,Organic,7,4120.0,7,16.4,0.0,0.221
+101721,Kolkata,Organic,56,34672.0,3,17.7,0.23,0.182
+101722,Mumbai,Google Ads,2,1824.0,73,20.2,0.5,0.983
+101727,Delhi NCR,Google Ads,2,1326.0,41,14.4,0.0,0.846
+101730,Pune,Paid Social,7,3030.0,25,15.3,0.29,0.495
+101732,Bengaluru,Organic,2,484.0,25,13.4,0.0,0.539
+101736,Mumbai,Organic,5,1826.0,70,14.0,0.0,0.95
+101743,Hyderabad,Referral,9,4591.0,11,15.3,0.22,0.262
+101746,Chandigarh Tricity,Paid Social,1,574.0,10,19.4,0.0,0.361
+101747,Bengaluru,Organic,4,2949.0,3,16.2,0.0,0.225
+101750,Delhi NCR,Referral,2,1785.0,2,15.2,0.0,0.239
+101754,Chennai,Organic,18,10238.0,6,13.7,0.11,0.206
+101763,Bengaluru,Paid Social,18,9993.0,90,14.3,0.06,0.977
+101764,Delhi NCR,Organic,3,1281.0,13,14.1,0.0,0.3
+101766,Hyderabad,Paid Social,11,4358.0,68,14.4,0.0,0.907
+101772,Hyderabad,Paid Social,3,2105.0,12,17.8,0.33,0.385
+101777,Jaipur,Organic,2,379.0,7,14.6,0.0,0.372
+101778,Mumbai,Paid Social,6,2959.0,0,15.4,0.17,0.189
+101784,Delhi NCR,Paid Social,5,3774.0,55,13.2,0.0,0.865
+101792,Delhi NCR,Paid Social,2,364.0,14,18.9,0.0,0.398
+101797,Chennai,Organic,1,653.0,15,19.7,0.0,0.395
+101802,Hyderabad,Referral,8,4096.0,12,16.2,0.0,0.267
+101806,Jaipur,Referral,2,518.0,35,21.0,0.5,0.811
+101818,Pune,Referral,2,1092.0,7,12.6,0.0,0.31
+101825,Hyderabad,Organic,1,1095.0,37,31.1,1.0,0.906
+101826,Chandigarh Tricity,Google Ads,1,543.0,30,26.1,1.0,0.895
+101829,Hyderabad,Referral,4,2165.0,20,14.2,0.0,0.422
+101833,Hyderabad,Referral,7,2345.0,29,14.7,0.0,0.533
+101836,Mumbai,Referral,5,2323.0,53,16.4,0.2,0.89
+101837,Chandigarh Tricity,Referral,1,963.0,43,23.8,1.0,0.939
+101842,Delhi NCR,Organic,1,561.0,32,10.6,0.0,0.706
+101846,Mumbai,Paid Social,8,3069.0,12,15.8,0.12,0.236
+101847,Bengaluru,Paid Social,7,2475.0,14,15.7,0.0,0.315
+101849,Bengaluru,Paid Social,2,1105.0,10,16.6,0.0,0.335
+101851,Mumbai,Google Ads,16,8239.0,20,14.3,0.06,0.383
+101853,Kolkata,Influencer,2,1195.0,0,20.1,0.5,0.345
+101854,Delhi NCR,Organic,7,1921.0,7,17.4,0.29,0.291
+101856,Jaipur,Organic,8,5248.0,87,19.7,0.5,0.991
+101857,Mumbai,Organic,5,1362.0,12,22.6,0.6,0.437
+101858,Delhi NCR,Organic,1,503.0,20,15.1,0.0,0.498
+101863,Bengaluru,Influencer,1,317.0,88,19.2,0.0,0.985
+101866,Delhi NCR,Google Ads,1,118.0,7,14.8,0.0,0.313
+101869,Kolkata,Google Ads,1,294.0,7,16.1,0.0,0.324
+101873,Ahmedabad,Organic,10,4499.0,23,17.4,0.2,0.474
+101878,Delhi NCR,Google Ads,13,4038.0,18,15.1,0.08,0.371
+101879,Delhi NCR,Organic,1,183.0,45,16.1,0.0,0.849
+101880,Bengaluru,Organic,5,2085.0,0,14.6,0.0,0.14
+101885,Bengaluru,Google Ads,11,4570.0,22,14.8,0.0,0.496
+101887,Hyderabad,Organic,2,3329.0,7,15.8,0.0,0.279
+101888,Mumbai,Influencer,8,5827.0,65,14.3,0.12,0.929
+101900,Jaipur,Organic,3,491.0,6,20.0,0.33,0.372
+101901,Hyderabad,Organic,2,925.0,63,13.8,0.0,0.926
+101903,Mumbai,Organic,4,1558.0,19,18.8,0.25,0.463
+101904,Delhi NCR,Paid Social,8,3417.0,50,17.7,0.12,0.846
+101908,Bengaluru,Google Ads,1,1473.0,79,21.7,1.0,0.993
+101909,Bengaluru,Paid Social,3,999.0,1,12.4,0.0,0.182
+101910,Hyderabad,Referral,1,235.0,26,14.4,0.0,0.603
+101916,Hyderabad,Organic,2,569.0,2,17.4,0.5,0.333
+101922,Delhi NCR,Organic,1,1153.0,3,16.5,0.0,0.269
+101923,Bengaluru,Influencer,2,721.0,48,14.8,0.0,0.879
+101932,Delhi NCR,Google Ads,3,1705.0,18,16.9,0.33,0.553
+101933,Delhi NCR,Paid Social,2,479.0,74,17.0,0.0,0.952
+101935,Jaipur,Google Ads,1,506.0,46,24.6,1.0,0.966
+101941,Hyderabad,Organic,2,978.0,36,18.0,0.0,0.749
+101943,Chandigarh Tricity,Organic,7,2848.0,0,18.9,0.29,0.196
+101949,Bengaluru,Referral,5,3047.0,10,14.8,0.0,0.251
+101951,Mumbai,Influencer,1,441.0,32,15.2,0.0,0.714
+101955,Mumbai,Organic,29,11544.0,23,15.9,0.17,0.431
+101956,Chennai,Google Ads,18,7978.0,15,16.5,0.22,0.328
+101957,Chandigarh Tricity,Organic,2,714.0,67,22.5,0.5,0.98
+101958,Pune,Influencer,1,1751.0,50,11.8,0.0,0.889
+101960,Bengaluru,Referral,49,25795.0,16,15.3,0.08,0.311
+101961,Ahmedabad,Organic,9,5100.0,84,18.7,0.22,0.985
+101963,Mumbai,Google Ads,10,4534.0,1,14.3,0.0,0.149
+101966,Mumbai,Paid Social,3,1675.0,63,12.3,0.0,0.949
+101967,Pune,Organic,1,259.0,90,21.1,1.0,0.996
+101977,Kolkata,Google Ads,10,6609.0,1,18.8,0.2,0.143
+101982,Bengaluru,Referral,14,8354.0,8,13.8,0.0,0.194
+101983,Chandigarh Tricity,Organic,1,123.0,27,15.4,0.0,0.621
+101992,Hyderabad,Organic,1,753.0,47,15.1,0.0,0.85
+101993,Bengaluru,Influencer,5,2304.0,81,21.2,0.6,0.989
+102002,Mumbai,Paid Social,4,4530.0,35,17.1,0.25,0.704
+102004,Kolkata,Influencer,1,131.0,51,29.4,1.0,0.965
+102012,Chennai,Google Ads,4,2189.0,12,12.1,0.0,0.362
+102016,Jaipur,Google Ads,1,227.0,6,19.5,0.0,0.37
+102017,Mumbai,Google Ads,6,3938.0,8,12.8,0.17,0.272
+102022,Mumbai,Referral,3,764.0,17,17.5,0.33,0.473
+102027,Mumbai,Referral,2,436.0,20,16.3,0.0,0.436
+102029,Bengaluru,Referral,1,164.0,44,16.9,0.0,0.825
+102030,Mumbai,Paid Social,2,963.0,27,17.9,0.0,0.53
+102035,Mumbai,Paid Social,5,2220.0,73,13.9,0.0,0.956
+102036,Hyderabad,Google Ads,4,1718.0,70,15.4,0.25,0.967
+102037,Mumbai,Paid Social,4,4795.0,21,15.1,0.0,0.557
+102039,Mumbai,Paid Social,9,7841.0,19,16.4,0.22,0.498
+102046,Kolkata,Referral,4,1801.0,0,17.0,0.25,0.19
+102051,Chennai,Paid Social,1,950.0,51,15.1,0.0,0.869
+102054,Bengaluru,Google Ads,1,462.0,67,15.0,0.0,0.958
+102059,Jaipur,Organic,5,1384.0,3,20.9,0.4,0.256
+102060,Chandigarh Tricity,Referral,5,2618.0,17,18.9,0.2,0.43
+102062,Kolkata,Paid Social,3,2383.0,19,20.2,0.67,0.625
+102063,Delhi NCR,Google Ads,5,2108.0,20,15.8,0.2,0.524
+102064,Mumbai,Paid Social,2,1859.0,67,15.8,0.0,0.94
+102065,Chandigarh Tricity,Paid Social,2,851.0,28,17.6,0.0,0.585
+102071,Mumbai,Google Ads,2,1369.0,11,19.6,0.5,0.528
+102076,Jaipur,Google Ads,2,3102.0,33,22.6,1.0,0.921
+102079,Delhi NCR,Referral,1,201.0,22,12.1,0.0,0.486
+102080,Chandigarh Tricity,Paid Social,2,331.0,40,21.2,0.5,0.886
+102084,Delhi NCR,Google Ads,2,700.0,10,12.1,0.0,0.336
+102087,Kolkata,Google Ads,11,4006.0,10,16.2,0.18,0.316
+102090,Delhi NCR,Organic,6,4030.0,22,17.4,0.17,0.493
+102098,Hyderabad,Influencer,1,220.0,83,11.7,0.0,0.984
+102100,Bengaluru,Paid Social,3,787.0,7,16.7,0.33,0.294
+102104,Chennai,Referral,2,1894.0,79,17.0,0.0,0.969
+102107,Chandigarh Tricity,Google Ads,3,1583.0,21,24.5,0.33,0.665
+102109,Chennai,Referral,1,431.0,33,21.4,1.0,0.895
+102111,Kolkata,Influencer,5,2647.0,63,18.5,0.2,0.942
+102113,Bengaluru,Organic,39,18307.0,16,14.8,0.13,0.31
+102114,Mumbai,Referral,3,1450.0,54,13.5,0.0,0.873
+102120,Chandigarh Tricity,Paid Social,11,4677.0,78,20.7,0.55,0.983
+102121,Kolkata,Paid Social,11,4188.0,34,19.1,0.36,0.7
+102122,Chandigarh Tricity,Influencer,2,681.0,3,20.8,0.5,0.401
+102126,Pune,Google Ads,3,2132.0,73,18.4,0.33,0.976
+102129,Bengaluru,Organic,1,155.0,30,14.0,0.0,0.614
+102134,Chandigarh Tricity,Organic,2,1429.0,49,15.3,0.0,0.848
+102135,Jaipur,Organic,4,1502.0,34,24.0,0.75,0.813
+102138,Chandigarh Tricity,Referral,1,115.0,23,17.0,0.0,0.578
+102142,Pune,Organic,1,1005.0,79,16.8,0.0,0.979
+102144,Bengaluru,Referral,3,2282.0,42,12.8,0.0,0.779
+102149,Mumbai,Paid Social,11,6138.0,49,16.2,0.09,0.841
+102151,Pune,Organic,4,1650.0,62,15.8,0.0,0.901
+102153,Hyderabad,Referral,10,6214.0,14,14.4,0.0,0.248
+102157,Delhi NCR,Paid Social,6,2054.0,71,16.1,0.17,0.95
+102161,Hyderabad,Paid Social,3,1044.0,47,13.6,0.0,0.795
+102162,Pune,Google Ads,2,1592.0,3,16.5,0.0,0.298
+102165,Kolkata,Referral,7,4204.0,75,18.5,0.43,0.975
+102170,Delhi NCR,Paid Social,9,4205.0,63,17.5,0.22,0.922
+102171,Bengaluru,Paid Social,2,679.0,4,18.6,0.0,0.214
+102174,Bengaluru,Organic,5,3171.0,47,11.5,0.0,0.793
+102175,Delhi NCR,Paid Social,11,5653.0,3,14.4,0.18,0.222
+102177,Chandigarh Tricity,Google Ads,3,2544.0,70,19.8,0.67,0.984
+102180,Delhi NCR,Google Ads,7,2906.0,5,15.6,0.14,0.303
+102182,Bengaluru,Paid Social,3,972.0,72,15.1,0.0,0.95
+102183,Hyderabad,Organic,12,6102.0,2,16.1,0.08,0.164
+102185,Ahmedabad,Google Ads,1,359.0,11,23.7,1.0,0.679
+102186,Bengaluru,Paid Social,10,5521.0,27,13.9,0.0,0.449
+102188,Delhi NCR,Paid Social,2,933.0,56,15.2,0.0,0.883
+102189,Jaipur,Paid Social,2,832.0,38,20.6,0.5,0.86
+102198,Mumbai,Google Ads,6,2018.0,47,15.6,0.17,0.815
+102203,Bengaluru,Influencer,4,1571.0,56,16.3,0.0,0.909
+102204,Mumbai,Paid Social,2,694.0,0,17.2,0.0,0.195
+102210,Bengaluru,Google Ads,3,2529.0,3,13.8,0.0,0.248
+102211,Hyderabad,Google Ads,12,4618.0,24,15.4,0.17,0.534
+102212,Bengaluru,Paid Social,1,358.0,68,20.0,0.0,0.948
+102220,Chennai,Organic,11,5702.0,0,17.3,0.18,0.171
+102223,Mumbai,Google Ads,2,737.0,39,18.6,0.5,0.866
+102228,Bengaluru,Paid Social,5,4284.0,7,13.7,0.0,0.231
+102229,Delhi NCR,Paid Social,7,3454.0,7,14.7,0.0,0.225
+102232,Mumbai,Referral,6,4645.0,73,17.6,0.17,0.962
+102233,Hyderabad,Paid Social,16,6225.0,9,15.6,0.06,0.219
+102234,Ahmedabad,Organic,1,413.0,28,32.1,1.0,0.83
+102235,Delhi NCR,Organic,2,1473.0,21,15.0,0.0,0.479
+102243,Mumbai,Organic,3,4187.0,0,12.9,0.0,0.218
+102245,Delhi NCR,Paid Social,2,849.0,14,18.2,0.5,0.576
+102246,Delhi NCR,Google Ads,6,3713.0,11,14.3,0.17,0.339
+102248,Hyderabad,Google Ads,16,9762.0,81,15.7,0.12,0.976
+102253,Ahmedabad,Organic,8,3062.0,0,20.4,0.75,0.288
+102257,Jaipur,Organic,4,2213.0,30,23.2,0.5,0.75
+102261,Delhi NCR,Organic,2,1360.0,4,19.1,0.0,0.269
+102265,Mumbai,Influencer,4,2761.0,31,16.6,0.0,0.655
+102273,Delhi NCR,Paid Social,4,2156.0,74,14.9,0.25,0.961
+102275,Hyderabad,Google Ads,16,7888.0,46,14.2,0.0,0.782
+102280,Mumbai,Influencer,12,6596.0,28,17.1,0.33,0.605
+102281,Delhi NCR,Paid Social,1,1156.0,66,19.9,0.0,0.944
+102283,Chandigarh Tricity,Paid Social,2,709.0,63,18.4,0.5,0.96
+102285,Chennai,Google Ads,4,3159.0,28,16.8,0.0,0.582
+102288,Delhi NCR,Paid Social,26,13835.0,7,15.4,0.08,0.188
+102289,Pune,Paid Social,2,281.0,34,15.8,0.0,0.775
+102292,Pune,Referral,1,101.0,8,13.8,0.0,0.288
+102294,Mumbai,Paid Social,2,2127.0,83,14.8,0.5,0.986
+102297,Bengaluru,Google Ads,2,976.0,8,15.2,0.0,0.32
+102300,Pune,Influencer,2,1117.0,40,19.8,0.5,0.859
+102311,Mumbai,Paid Social,1,218.0,23,20.2,1.0,0.766
+102315,Chandigarh Tricity,Google Ads,5,2676.0,7,20.5,0.4,0.407
+102320,Hyderabad,Paid Social,2,2162.0,1,29.2,0.5,0.339
+102321,Bengaluru,Paid Social,3,1613.0,17,13.4,0.0,0.367
+102324,Bengaluru,Paid Social,1,4142.0,4,8.3,0.0,0.307
+102326,Kolkata,Google Ads,2,1434.0,55,15.6,0.0,0.937
+102329,Hyderabad,Organic,3,2446.0,22,11.7,0.0,0.533
+102330,Bengaluru,Organic,7,3656.0,7,14.1,0.0,0.207
+102331,Hyderabad,Organic,2,802.0,49,14.0,0.0,0.833
+102332,Bengaluru,Paid Social,4,2629.0,25,16.6,0.0,0.508
+102350,Delhi NCR,Organic,36,20252.0,75,15.7,0.11,0.963
+102352,Delhi NCR,Organic,3,1478.0,18,15.4,0.33,0.473
+102355,Hyderabad,Paid Social,3,1391.0,57,15.9,0.0,0.868
+102356,Kolkata,Influencer,9,3109.0,33,17.0,0.22,0.685
+102361,Mumbai,Paid Social,1,502.0,70,12.1,0.0,0.969
+102362,Pune,Organic,3,1352.0,87,17.2,0.33,0.986
+102367,Hyderabad,Referral,27,19276.0,12,16.3,0.04,0.192
+102375,Chennai,Google Ads,4,2324.0,2,19.5,0.5,0.318
+102376,Bengaluru,Influencer,6,3202.0,10,14.9,0.17,0.312
+102381,Chennai,Organic,4,1879.0,5,16.5,0.0,0.214
+102383,Delhi NCR,Influencer,4,980.0,61,18.9,0.25,0.935
+102390,Bengaluru,Paid Social,1,391.0,20,12.0,0.0,0.505
+102398,Bengaluru,Paid Social,14,12418.0,28,15.9,0.14,0.556
+102399,Bengaluru,Organic,18,10294.0,11,15.0,0.11,0.27
+102402,Hyderabad,Google Ads,5,3066.0,0,20.8,0.4,0.307
+102403,Delhi NCR,Google Ads,1,376.0,82,23.2,1.0,0.995
+102404,Bengaluru,Paid Social,9,4904.0,0,15.3,0.0,0.174
+102409,Mumbai,Organic,5,3258.0,5,15.4,0.0,0.265
+102412,Mumbai,Google Ads,27,10040.0,6,15.1,0.07,0.209
+102419,Kolkata,Google Ads,22,10191.0,7,18.7,0.36,0.233
+102424,Bengaluru,Referral,2,391.0,42,15.2,0.0,0.82
+102427,Mumbai,Paid Social,2,1122.0,39,16.4,0.5,0.832
+102431,Mumbai,Google Ads,13,4410.0,42,15.5,0.08,0.784
+102433,Bengaluru,Influencer,1,563.0,6,10.0,0.0,0.306
+102434,Chennai,Organic,2,2220.0,31,15.9,0.0,0.686
+102442,Bengaluru,Google Ads,7,4986.0,0,16.3,0.14,0.15
+102446,Bengaluru,Influencer,8,2647.0,66,14.8,0.0,0.925
+102447,Delhi NCR,Influencer,7,4214.0,0,15.6,0.29,0.187
+102454,Hyderabad,Organic,3,1824.0,4,14.8,0.0,0.225
+102456,Chandigarh Tricity,Google Ads,1,1038.0,79,19.8,0.0,0.985
+102469,Chennai,Google Ads,21,8974.0,12,15.8,0.1,0.272
+102470,Pune,Google Ads,2,478.0,81,18.8,0.5,0.988
+102471,Pune,Paid Social,4,4734.0,0,16.6,0.25,0.249
+102477,Bengaluru,Google Ads,3,1341.0,50,18.2,0.33,0.895
+102479,Pune,Organic,1,349.0,53,17.6,0.0,0.887
+102480,Mumbai,Paid Social,7,2609.0,12,17.5,0.14,0.266
+102486,Delhi NCR,Referral,5,5364.0,58,13.2,0.0,0.892
+102487,Bengaluru,Paid Social,1,1852.0,46,10.7,0.0,0.842
+102492,Hyderabad,Referral,5,1837.0,71,15.1,0.2,0.956
+102495,Ahmedabad,Influencer,1,123.0,8,24.1,1.0,0.664
+102498,Delhi NCR,Referral,5,1463.0,34,13.9,0.0,0.646
+102499,Delhi NCR,Paid Social,1,150.0,46,19.7,0.0,0.823
+102500,Chennai,Influencer,23,11198.0,29,17.1,0.09,0.565
+102505,Mumbai,Paid Social,16,8544.0,12,14.4,0.06,0.232
+102507,Delhi NCR,Paid Social,1,38.0,17,18.0,0.0,0.407
+102509,Delhi NCR,Organic,1,250.0,13,18.8,0.0,0.368
+102511,Pune,Organic,18,8831.0,4,15.6,0.06,0.151
+102515,Bengaluru,Google Ads,12,5341.0,62,14.0,0.0,0.91
+102519,Delhi NCR,Google Ads,3,1826.0,69,15.9,0.0,0.953
+102522,Delhi NCR,Paid Social,4,1737.0,15,13.7,0.25,0.375
+102525,Bengaluru,Influencer,6,3757.0,85,14.1,0.0,0.98
+102527,Jaipur,Paid Social,4,2684.0,59,22.0,1.0,0.964
+102528,Delhi NCR,Organic,1,1049.0,41,15.6,0.0,0.804
+102531,Pune,Organic,13,10269.0,30,15.7,0.0,0.518
+102534,Delhi NCR,Organic,6,2311.0,0,17.0,0.33,0.185
+102536,Jaipur,Google Ads,3,1783.0,72,21.0,0.33,0.975
+102538,Chennai,Referral,1,174.0,48,31.1,1.0,0.948
+102539,Jaipur,Google Ads,1,425.0,76,19.1,0.0,0.977
+102540,Pune,Influencer,1,400.0,31,20.5,1.0,0.889
+102542,Chandigarh Tricity,Google Ads,1,471.0,24,29.5,1.0,0.833
+102545,Mumbai,Referral,17,8855.0,79,15.9,0.18,0.975
+102546,Ahmedabad,Referral,5,3451.0,10,22.9,0.6,0.416
+102548,Mumbai,Influencer,2,1754.0,14,15.5,0.0,0.448
+102550,Delhi NCR,Paid Social,2,2563.0,22,16.5,0.0,0.53
+102552,Chennai,Organic,2,616.0,62,16.5,0.0,0.917
+102554,Delhi NCR,Organic,10,5211.0,2,16.2,0.1,0.186
+102558,Hyderabad,Organic,10,4556.0,1,16.1,0.1,0.153
+102561,Mumbai,Organic,2,674.0,14,20.7,0.5,0.494
+102563,Delhi NCR,Organic,4,3741.0,1,15.4,0.0,0.206
+102564,Delhi NCR,Google Ads,9,5051.0,16,15.0,0.11,0.397
+102566,Chennai,Paid Social,14,8304.0,54,17.2,0.21,0.874
+102575,Delhi NCR,Organic,22,11055.0,8,13.9,0.0,0.151
+102579,Hyderabad,Influencer,1,70.0,44,15.6,0.0,0.832
+102581,Chennai,Organic,2,1816.0,12,17.2,0.0,0.365
+102586,Bengaluru,Paid Social,5,2738.0,73,15.4,0.2,0.954
+102591,Kolkata,Organic,10,6682.0,3,19.3,0.5,0.285
+102601,Delhi NCR,Influencer,1,1464.0,32,9.6,0.0,0.736
+102602,Jaipur,Paid Social,3,1510.0,15,21.1,0.67,0.599
+102604,Mumbai,Influencer,19,11195.0,29,15.8,0.16,0.576
+102605,Bengaluru,Paid Social,5,4293.0,63,14.3,0.0,0.909
+102607,Hyderabad,Organic,4,3359.0,1,17.0,0.25,0.208
+102611,Hyderabad,Google Ads,3,1405.0,10,12.2,0.0,0.383
+102613,Kolkata,Paid Social,8,5993.0,1,18.6,0.25,0.238
+102615,Mumbai,Referral,9,2950.0,7,17.7,0.22,0.205
+102616,Jaipur,Organic,2,1526.0,66,19.5,0.5,0.976
+102622,Delhi NCR,Paid Social,12,6927.0,0,16.8,0.25,0.202
+102624,Hyderabad,Referral,1,220.0,83,17.6,0.0,0.985
+102625,Delhi NCR,Paid Social,3,1003.0,63,15.0,0.0,0.909
+102626,Delhi NCR,Referral,7,5908.0,2,19.3,0.43,0.229
+102630,Bengaluru,Paid Social,3,1256.0,24,13.3,0.0,0.46
+102633,Chennai,Organic,6,2033.0,14,16.2,0.17,0.326
+102634,Jaipur,Organic,7,4617.0,17,19.9,0.57,0.516
+102639,Chennai,Organic,1,484.0,4,18.7,0.0,0.251
+102645,Delhi NCR,Paid Social,8,4034.0,48,17.1,0.25,0.843
+102653,Mumbai,Paid Social,4,3031.0,53,13.1,0.0,0.862
+102655,Mumbai,Referral,1,129.0,12,18.1,0.0,0.363
+102656,Mumbai,Paid Social,1,115.0,25,16.2,0.0,0.543
+102658,Hyderabad,Organic,9,4897.0,9,13.6,0.0,0.23
+102662,Chennai,Influencer,1,598.0,28,13.4,0.0,0.653
+102667,Bengaluru,Google Ads,11,7271.0,49,14.3,0.0,0.836
+102670,Chennai,Paid Social,1,1028.0,36,20.1,1.0,0.893
+102672,Delhi NCR,Referral,5,1754.0,38,16.1,0.2,0.737
+102676,Ahmedabad,Influencer,4,1862.0,9,16.7,0.25,0.383
+102678,Hyderabad,Organic,2,644.0,0,15.9,0.0,0.194
+102682,Chennai,Paid Social,8,3762.0,88,17.3,0.25,0.986
+102684,Delhi NCR,Google Ads,7,3452.0,9,15.6,0.43,0.325
+102686,Delhi NCR,Google Ads,14,7279.0,19,16.7,0.14,0.426
+102689,Kolkata,Referral,1,115.0,9,20.1,1.0,0.595
+102693,Chandigarh Tricity,Organic,5,1787.0,25,17.6,0.4,0.673
+102696,Ahmedabad,Organic,34,18570.0,21,19.8,0.38,0.539
+102697,Bengaluru,Paid Social,1,140.0,32,35.2,1.0,0.881
+102704,Bengaluru,Paid Social,1,203.0,21,29.2,1.0,0.708
+102708,Delhi NCR,Organic,2,753.0,6,16.1,0.0,0.229
+102718,Delhi NCR,Google Ads,10,3632.0,19,15.4,0.0,0.417
+102719,Bengaluru,Google Ads,4,4616.0,0,14.1,0.0,0.191
+102723,Mumbai,Organic,1,508.0,2,20.5,1.0,0.519
+102728,Hyderabad,Organic,2,1178.0,90,18.2,0.0,0.986
+102729,Hyderabad,Paid Social,1,590.0,51,17.0,0.0,0.875
+102730,Bengaluru,Influencer,3,1559.0,25,14.6,0.0,0.55
+102731,Bengaluru,Influencer,21,13239.0,52,15.7,0.1,0.859
+102732,Pune,Influencer,10,8300.0,25,17.3,0.2,0.617
+102733,Pune,Organic,1,216.0,90,15.2,0.0,0.987
+102737,Delhi NCR,Organic,21,10039.0,28,14.8,0.14,0.492
+102739,Delhi NCR,Organic,2,2179.0,1,23.2,0.5,0.293
+102742,Delhi NCR,Organic,20,9242.0,31,14.4,0.1,0.501
+102750,Bengaluru,Google Ads,5,2304.0,0,14.0,0.0,0.205
+102751,Pune,Referral,3,1398.0,15,14.9,0.0,0.419
+102753,Ahmedabad,Google Ads,2,1413.0,10,12.2,0.0,0.374
+102758,Jaipur,Paid Social,8,3190.0,47,22.5,0.38,0.86
+102764,Pune,Organic,9,6527.0,2,16.4,0.0,0.132
+102770,Chandigarh Tricity,Influencer,4,1502.0,82,18.0,0.25,0.986
+102775,Delhi NCR,Google Ads,4,1603.0,12,15.9,0.0,0.356
+102782,Pune,Influencer,8,2265.0,49,18.6,0.38,0.861
+102783,Kolkata,Organic,7,5172.0,7,14.6,0.29,0.26
+102788,Pune,Google Ads,1,582.0,35,20.3,1.0,0.905
+102794,Ahmedabad,Influencer,2,969.0,73,19.2,0.0,0.967
+102803,Bengaluru,Organic,11,5647.0,87,15.9,0.09,0.983
+102807,Bengaluru,Paid Social,14,4839.0,67,14.0,0.0,0.913
+102808,Delhi NCR,Google Ads,3,2582.0,61,12.4,0.0,0.931
+102811,Bengaluru,Organic,3,1180.0,6,13.3,0.0,0.242
+102814,Bengaluru,Paid Social,8,3658.0,21,14.4,0.0,0.442
+102818,Delhi NCR,Paid Social,1,547.0,5,14.2,0.0,0.241
+102823,Ahmedabad,Referral,1,382.0,5,28.0,1.0,0.595
+102824,Delhi NCR,Paid Social,3,1665.0,1,24.8,0.33,0.241
+102831,Kolkata,Paid Social,7,1879.0,6,17.6,0.29,0.25
+102832,Hyderabad,Referral,32,15349.0,13,14.7,0.06,0.282
+102833,Bengaluru,Organic,3,1184.0,5,12.7,0.0,0.205
+102835,Jaipur,Organic,3,1444.0,63,20.2,0.67,0.971
+102836,Mumbai,Paid Social,1,260.0,20,10.8,0.0,0.449
+102837,Mumbai,Organic,6,4200.0,49,16.8,0.33,0.872
+102844,Ahmedabad,Influencer,1,516.0,38,21.3,1.0,0.95
+102845,Hyderabad,Google Ads,1,1281.0,5,26.5,1.0,0.615
+102848,Chandigarh Tricity,Organic,1,297.0,57,33.9,1.0,0.973
+102855,Mumbai,Organic,2,663.0,16,18.9,0.5,0.56
+102857,Delhi NCR,Organic,1,337.0,81,20.4,1.0,0.993
+102864,Mumbai,Organic,27,11218.0,34,15.2,0.07,0.602
+102870,Chennai,Google Ads,1,113.0,57,22.8,1.0,0.977
+102874,Pune,Paid Social,1,731.0,15,14.4,0.0,0.422
+102875,Bengaluru,Paid Social,6,2636.0,4,15.0,0.17,0.209
+102876,Jaipur,Organic,1,179.0,19,20.9,1.0,0.765
+102877,Chennai,Organic,6,3457.0,20,14.8,0.0,0.383
+102881,Chennai,Paid Social,10,4674.0,14,17.3,0.2,0.335
+102882,Hyderabad,Google Ads,3,780.0,11,14.0,0.0,0.38
+102884,Hyderabad,Organic,5,2589.0,45,13.0,0.0,0.763
+102885,Chennai,Organic,1,492.0,74,15.3,0.0,0.97
+102897,Delhi NCR,Google Ads,33,21598.0,13,17.0,0.15,0.312
+102899,Delhi NCR,Google Ads,5,3352.0,53,14.0,0.0,0.876
+102906,Chandigarh Tricity,Referral,2,2050.0,4,18.9,0.5,0.393
+102908,Chandigarh Tricity,Organic,3,2369.0,2,18.2,0.33,0.297
+102909,Bengaluru,Google Ads,3,598.0,21,15.5,0.33,0.576
+102915,Chandigarh Tricity,Referral,4,2595.0,5,19.9,0.5,0.356
+102916,Chandigarh Tricity,Google Ads,3,2226.0,65,17.3,0.33,0.96
+102917,Hyderabad,Referral,1,440.0,60,18.2,0.0,0.935
+102932,Chandigarh Tricity,Google Ads,12,3904.0,22,19.9,0.5,0.619
+102935,Bengaluru,Google Ads,3,986.0,0,18.2,0.33,0.268
+102944,Chennai,Organic,4,1879.0,0,13.8,0.25,0.18
+102945,Delhi NCR,Google Ads,49,22266.0,1,15.6,0.1,0.126
+102948,Mumbai,Google Ads,1,700.0,27,13.7,0.0,0.63
+102953,Mumbai,Google Ads,10,3632.0,9,14.7,0.2,0.307
+102960,Delhi NCR,Paid Social,12,7002.0,14,15.0,0.08,0.298
+102962,Chandigarh Tricity,Influencer,1,243.0,28,22.1,1.0,0.872
+102966,Bengaluru,Paid Social,25,11730.0,7,15.4,0.12,0.196
+102967,Delhi NCR,Influencer,3,2175.0,0,17.5,0.0,0.205
+102974,Bengaluru,Referral,10,12621.0,74,13.9,0.0,0.964
+102976,Pune,Paid Social,5,2650.0,47,16.0,0.0,0.779
+102977,Bengaluru,Organic,1,312.0,46,20.4,1.0,0.938
+102981,Pune,Paid Social,3,1246.0,6,16.6,0.0,0.287
+102982,Mumbai,Google Ads,6,2409.0,3,14.6,0.0,0.192
+102989,Chandigarh Tricity,Google Ads,6,2322.0,63,16.6,0.17,0.942
+102996,Delhi NCR,Referral,3,3120.0,0,18.2,0.33,0.269
+102998,Hyderabad,Influencer,7,3947.0,4,13.0,0.0,0.174
+103001,Delhi NCR,Paid Social,1,368.0,17,17.0,0.0,0.418
+103002,Kolkata,Organic,5,1882.0,29,20.4,0.2,0.566
+103003,Bengaluru,Paid Social,3,932.0,14,13.7,0.0,0.373
+103005,Hyderabad,Google Ads,1,431.0,29,11.9,0.0,0.655
+103008,Kolkata,Referral,7,4664.0,53,16.9,0.0,0.819
+103010,Delhi NCR,Referral,6,2955.0,1,15.6,0.17,0.185
+103011,Chennai,Influencer,1,176.0,13,13.5,0.0,0.412
+103012,Mumbai,Organic,7,1771.0,13,18.5,0.14,0.258
+103014,Bengaluru,Organic,15,6399.0,6,15.6,0.07,0.203
+103025,Delhi NCR,Organic,5,2124.0,21,15.5,0.0,0.418
+103027,Ahmedabad,Referral,19,11905.0,19,18.6,0.37,0.565
+103031,Mumbai,Google Ads,30,14707.0,0,14.8,0.0,0.139
+103036,Mumbai,Organic,5,2161.0,30,18.7,0.2,0.59
+103037,Hyderabad,Influencer,3,1529.0,28,22.8,0.33,0.693
+103040,Kolkata,Referral,13,5469.0,70,20.0,0.23,0.944
+103043,Hyderabad,Paid Social,1,605.0,48,16.5,0.0,0.848
+103046,Chennai,Influencer,21,11056.0,40,17.8,0.33,0.749
+103048,Mumbai,Organic,1,57.0,35,14.2,0.0,0.723
+103049,Mumbai,Organic,5,2225.0,5,15.2,0.0,0.198
+103052,Bengaluru,Paid Social,28,12914.0,70,13.7,0.07,0.932
+103053,Jaipur,Referral,2,1856.0,5,18.0,0.5,0.495
+103055,Mumbai,Paid Social,2,1160.0,46,13.8,0.0,0.794
+103056,Delhi NCR,Referral,1,625.0,33,21.1,1.0,0.888
+103057,Hyderabad,Google Ads,9,4749.0,13,18.3,0.11,0.279
+103064,Delhi NCR,Paid Social,4,3594.0,11,17.2,0.5,0.384
+103070,Delhi NCR,Referral,3,1074.0,14,18.1,0.33,0.468
+103075,Chennai,Organic,9,3968.0,3,15.9,0.11,0.192
+103077,Chennai,Organic,2,5105.0,5,15.2,0.5,0.405
+103082,Chennai,Google Ads,3,1260.0,47,16.7,0.0,0.818
+103093,Bengaluru,Paid Social,2,556.0,2,16.8,0.5,0.309
+103095,Chennai,Paid Social,13,8242.0,18,16.3,0.0,0.326
+103098,Hyderabad,Organic,4,1266.0,20,13.2,0.0,0.416
+103101,Jaipur,Influencer,24,11666.0,56,19.2,0.46,0.935
+103106,Bengaluru,Influencer,2,1387.0,75,13.8,0.0,0.975
+103109,Hyderabad,Google Ads,1,318.0,13,15.9,0.0,0.425
+103113,Chandigarh Tricity,Referral,8,3994.0,65,22.1,0.38,0.962
+103120,Mumbai,Influencer,2,381.0,30,17.1,0.0,0.64
+103125,Delhi NCR,Referral,99,58123.0,1,16.3,0.12,0.168
+103132,Hyderabad,Organic,1,1215.0,60,15.7,0.0,0.943
+103136,Ahmedabad,Google Ads,1,793.0,90,22.9,1.0,0.997
+103138,Pune,Paid Social,1,174.0,15,25.9,1.0,0.658
+103144,Chennai,Google Ads,1,401.0,14,19.7,0.0,0.448
+103146,Delhi NCR,Organic,16,10001.0,80,14.0,0.06,0.974
+103150,Hyderabad,Google Ads,3,1622.0,13,11.2,0.0,0.391
+103152,Jaipur,Paid Social,5,2993.0,42,19.8,0.4,0.822
+103153,Delhi NCR,Paid Social,10,6847.0,16,15.7,0.1,0.301
+103157,Bengaluru,Organic,6,3074.0,39,14.4,0.0,0.718
+103158,Delhi NCR,Google Ads,7,2952.0,69,14.6,0.0,0.954
+103162,Pune,Influencer,8,9539.0,28,19.5,0.25,0.659
+103163,Kolkata,Organic,2,2023.0,4,16.2,0.0,0.24
+103165,Bengaluru,Paid Social,2,995.0,13,13.0,0.0,0.339
+103166,Delhi NCR,Influencer,5,1582.0,18,14.6,0.2,0.44
+103167,Bengaluru,Paid Social,3,1397.0,69,19.0,0.33,0.959
+103169,Delhi NCR,Organic,25,16222.0,17,15.0,0.08,0.257
+103172,Pune,Influencer,9,3808.0,6,15.8,0.0,0.176
+103173,Pune,Influencer,3,1279.0,5,17.5,0.0,0.257
+103176,Hyderabad,Paid Social,2,1445.0,4,15.9,0.0,0.227
+103177,Delhi NCR,Paid Social,17,11432.0,6,18.2,0.29,0.215
+103178,Hyderabad,Organic,9,4809.0,60,14.1,0.0,0.887
+103182,Mumbai,Influencer,3,1732.0,0,12.4,0.0,0.195
+103188,Hyderabad,Organic,21,13036.0,15,15.5,0.0,0.297
+103193,Bengaluru,Organic,2,388.0,6,11.8,0.0,0.288
+103194,Ahmedabad,Paid Social,2,412.0,45,23.2,0.5,0.903
+103195,Pune,Organic,7,3432.0,68,15.1,0.14,0.942
+103196,Mumbai,Referral,2,1459.0,88,15.8,0.0,0.995
+103199,Mumbai,Organic,1,488.0,76,21.3,1.0,0.992
+103201,Mumbai,Organic,26,13856.0,35,16.7,0.23,0.641
+103204,Kolkata,Google Ads,3,4079.0,6,18.6,0.33,0.393
+103207,Pune,Referral,15,11025.0,6,14.7,0.13,0.217
+103212,Chennai,Google Ads,6,1975.0,32,14.8,0.0,0.588
+103213,Chennai,Paid Social,4,1530.0,60,15.7,0.0,0.901
+103217,Bengaluru,Influencer,4,1991.0,9,13.2,0.0,0.261
+103222,Kolkata,Organic,8,3557.0,26,18.9,0.12,0.524
+103236,Mumbai,Influencer,1,131.0,6,16.9,0.0,0.308
+103238,Delhi NCR,Organic,13,5759.0,77,16.8,0.08,0.959
+103243,Jaipur,Organic,6,3673.0,84,21.7,0.83,0.991
+103248,Chennai,Referral,41,23132.0,22,16.7,0.2,0.43
+103257,Pune,Paid Social,19,8474.0,47,14.9,0.0,0.751
+103259,Hyderabad,Organic,6,2226.0,18,14.1,0.0,0.349
+103264,Delhi NCR,Paid Social,4,2613.0,12,17.7,0.25,0.359
+103265,Bengaluru,Referral,1,186.0,41,18.2,0.0,0.779
+103268,Chennai,Paid Social,4,1598.0,41,20.7,0.25,0.763
+103270,Mumbai,Organic,4,3680.0,38,13.5,0.0,0.747
+103271,Pune,Influencer,1,824.0,2,16.3,0.0,0.25
+103274,Hyderabad,Referral,20,9630.0,0,15.2,0.15,0.109
+103276,Hyderabad,Google Ads,21,13383.0,2,16.0,0.14,0.247
+103283,Hyderabad,Paid Social,3,3332.0,37,25.9,0.67,0.83
+103285,Mumbai,Paid Social,7,4664.0,84,15.0,0.14,0.973
+103287,Chandigarh Tricity,Influencer,8,5037.0,21,21.6,0.5,0.592
+103295,Ahmedabad,Google Ads,3,411.0,13,19.1,0.0,0.39
+103296,Hyderabad,Google Ads,1,755.0,7,12.2,0.0,0.389
+103297,Hyderabad,Google Ads,3,2132.0,54,16.9,0.33,0.917
+103302,Bengaluru,Referral,16,9924.0,45,14.9,0.12,0.82
+103304,Mumbai,Paid Social,1,275.0,53,10.3,0.0,0.87
+103305,Delhi NCR,Referral,7,3749.0,13,14.0,0.0,0.252
+103310,Delhi NCR,Google Ads,30,19771.0,85,16.6,0.2,0.984
+103314,Chandigarh Tricity,Organic,1,50.0,52,17.6,0.0,0.888
+103315,Bengaluru,Paid Social,3,1309.0,0,18.6,0.33,0.209
+103316,Mumbai,Referral,2,536.0,61,13.3,0.0,0.928
+103317,Jaipur,Organic,14,6206.0,31,20.1,0.57,0.717
+103322,Jaipur,Organic,14,7467.0,5,20.8,0.57,0.295
+103331,Delhi NCR,Paid Social,3,1684.0,23,14.6,0.0,0.489
+103332,Mumbai,Google Ads,2,1324.0,18,16.6,0.5,0.603
+103333,Delhi NCR,Organic,21,8457.0,12,15.3,0.0,0.25
+103335,Delhi NCR,Referral,11,4860.0,78,16.3,0.09,0.974
+103338,Hyderabad,Paid Social,3,3025.0,2,16.0,0.0,0.24
+103343,Delhi NCR,Google Ads,5,1999.0,60,13.4,0.0,0.899
+103353,Mumbai,Organic,3,788.0,0,13.9,0.0,0.195
+103359,Bengaluru,Organic,9,7371.0,3,16.3,0.11,0.164
+103360,Bengaluru,Paid Social,9,5796.0,0,14.0,0.0,0.155
+103364,Bengaluru,Paid Social,3,2445.0,54,18.4,0.0,0.864
+103367,Mumbai,Paid Social,1,190.0,56,9.8,0.0,0.912
+103370,Hyderabad,Google Ads,12,4397.0,34,15.3,0.08,0.629
+103379,Delhi NCR,Organic,2,737.0,35,14.2,0.0,0.668
+103383,Mumbai,Google Ads,1,394.0,14,13.6,0.0,0.477
+103385,Chennai,Organic,1,180.0,36,19.5,0.0,0.734
+103386,Bengaluru,Influencer,4,3801.0,55,14.5,0.25,0.914
+103388,Bengaluru,Google Ads,10,3882.0,13,14.8,0.1,0.342
+103392,Pune,Referral,5,1908.0,78,16.3,0.2,0.976
+103394,Mumbai,Organic,12,7059.0,19,14.5,0.0,0.355
+103395,Ahmedabad,Referral,28,12354.0,52,17.7,0.25,0.893
+103400,Delhi NCR,Organic,15,9712.0,20,14.3,0.0,0.396
+103401,Mumbai,Paid Social,14,9079.0,0,17.0,0.14,0.122
+103403,Chandigarh Tricity,Paid Social,4,1883.0,39,21.4,0.75,0.858
+103419,Mumbai,Referral,4,1335.0,39,14.5,0.0,0.742
+103422,Bengaluru,Organic,10,4605.0,10,14.1,0.0,0.229
+103434,Ahmedabad,Organic,2,2476.0,0,20.0,0.5,0.344
+103439,Delhi NCR,Organic,5,2730.0,9,17.0,0.2,0.324
+103442,Pune,Google Ads,1,276.0,9,13.1,0.0,0.346
+103443,Hyderabad,Paid Social,5,3004.0,1,15.3,0.0,0.193
+103450,Hyderabad,Google Ads,1,1164.0,73,13.2,0.0,0.973
+103459,Bengaluru,Paid Social,2,1517.0,19,15.0,0.0,0.421
+103460,Bengaluru,Referral,1,645.0,23,18.9,0.0,0.534
+103461,Bengaluru,Google Ads,4,1744.0,14,16.7,0.0,0.357
+103464,Pune,Paid Social,1,680.0,22,17.7,0.0,0.469
+103466,Bengaluru,Organic,11,6558.0,2,15.8,0.09,0.107
+103468,Hyderabad,Referral,8,6811.0,31,16.6,0.12,0.612
+103472,Chennai,Paid Social,1,496.0,13,25.9,1.0,0.676
+103476,Bengaluru,Referral,1,193.0,7,11.8,0.0,0.287
+103478,Kolkata,Organic,1,224.0,74,34.8,1.0,0.988
+103481,Bengaluru,Paid Social,2,1387.0,33,13.6,0.0,0.679
+103484,Bengaluru,Google Ads,8,3079.0,7,14.0,0.0,0.287
+103485,Mumbai,Paid Social,1,771.0,32,13.9,0.0,0.694
+103486,Jaipur,Organic,3,507.0,36,18.1,0.33,0.797
+103491,Delhi NCR,Organic,1,140.0,33,25.1,1.0,0.875
+103492,Hyderabad,Paid Social,2,1600.0,80,14.8,0.0,0.971
+103493,Mumbai,Paid Social,1,911.0,17,14.1,0.0,0.455
+103495,Ahmedabad,Organic,2,454.0,49,19.8,0.5,0.934
+103497,Pune,Paid Social,1,616.0,27,19.1,0.0,0.58
+103500,Mumbai,Organic,1,629.0,43,15.4,0.0,0.824
+103501,Delhi NCR,Influencer,3,1597.0,48,11.1,0.0,0.852
+103502,Mumbai,Organic,1,211.0,15,14.2,0.0,0.469
+103504,Chennai,Referral,3,2579.0,11,18.0,0.33,0.389
+103506,Mumbai,Paid Social,13,9327.0,1,16.0,0.08,0.114
+103509,Mumbai,Paid Social,2,1031.0,29,16.6,0.0,0.603
+103510,Mumbai,Referral,11,5926.0,18,16.1,0.18,0.359
+103511,Bengaluru,Organic,30,20107.0,0,15.3,0.07,0.076
+103517,Hyderabad,Paid Social,3,2173.0,33,18.2,0.33,0.727
+103520,Hyderabad,Influencer,5,3238.0,77,15.9,0.0,0.968
+103521,Delhi NCR,Paid Social,5,3176.0,5,20.2,0.4,0.293
+103523,Delhi NCR,Google Ads,3,1534.0,9,16.6,0.0,0.303
+103524,Mumbai,Influencer,4,1232.0,34,17.0,0.0,0.671
+103527,Bengaluru,Organic,11,8685.0,2,15.2,0.0,0.195
+103534,Hyderabad,Google Ads,2,661.0,33,14.1,0.0,0.688
+103535,Mumbai,Organic,6,2244.0,32,17.2,0.17,0.62
+103537,Chennai,Organic,5,2994.0,23,15.9,0.2,0.534
+103541,Hyderabad,Organic,7,3423.0,0,17.9,0.29,0.186
+103542,Hyderabad,Google Ads,2,791.0,12,9.6,0.0,0.375
+103547,Delhi NCR,Influencer,6,1410.0,5,16.8,0.17,0.272
+103550,Ahmedabad,Google Ads,1,582.0,58,20.6,1.0,0.98
+103552,Delhi NCR,Organic,3,1036.0,58,14.2,0.0,0.886
+103560,Bengaluru,Referral,27,14157.0,7,14.3,0.04,0.226
+103564,Delhi NCR,Organic,2,2135.0,67,14.8,0.0,0.945
+103570,Chennai,Referral,5,2814.0,3,18.6,0.2,0.241
+103573,Delhi NCR,Influencer,1,458.0,9,13.3,0.0,0.36
+103579,Delhi NCR,Referral,3,1963.0,0,17.2,0.33,0.232
+103597,Delhi NCR,Google Ads,5,3858.0,13,14.7,0.0,0.323
+103608,Mumbai,Influencer,8,3538.0,55,14.6,0.12,0.882
+103609,Mumbai,Organic,9,5787.0,39,15.0,0.0,0.723
+103611,Bengaluru,Influencer,22,13796.0,9,17.1,0.14,0.262
+103612,Chandigarh Tricity,Influencer,1,71.0,45,30.4,1.0,0.953
+103617,Delhi NCR,Organic,4,2173.0,49,14.8,0.0,0.822
+103618,Bengaluru,Referral,19,7807.0,82,15.8,0.16,0.974
+103619,Hyderabad,Organic,2,834.0,89,15.2,0.0,0.986
+103623,Mumbai,Paid Social,9,3965.0,7,18.4,0.33,0.256
+103625,Bengaluru,Influencer,6,2345.0,13,13.1,0.0,0.294
+103627,Chandigarh Tricity,Organic,6,2253.0,48,18.8,0.33,0.872
+103632,Mumbai,Paid Social,1,92.0,42,13.6,0.0,0.795
+103633,Kolkata,Google Ads,7,3912.0,22,17.4,0.29,0.515
+103640,Bengaluru,Google Ads,5,2842.0,0,20.2,0.4,0.293
+103650,Chandigarh Tricity,Influencer,7,3588.0,5,18.1,0.29,0.314
+103659,Hyderabad,Organic,3,1048.0,17,14.3,0.33,0.464
+103669,Mumbai,Influencer,1,901.0,56,30.2,1.0,0.973
+103671,Delhi NCR,Organic,19,10402.0,74,15.1,0.0,0.949
+103672,Hyderabad,Influencer,5,1251.0,2,14.9,0.0,0.201
+103673,Bengaluru,Organic,5,2599.0,1,14.8,0.0,0.178
+103675,Pune,Referral,1,1087.0,44,20.2,1.0,0.946
+103681,Hyderabad,Referral,4,3065.0,6,15.2,0.0,0.225
+103683,Kolkata,Referral,1,788.0,11,22.3,1.0,0.626
+103685,Mumbai,Organic,5,1746.0,33,16.7,0.0,0.606
+103695,Ahmedabad,Google Ads,1,1443.0,90,17.2,0.0,0.992
+103699,Mumbai,Referral,24,11574.0,3,15.6,0.08,0.165
+103701,Delhi NCR,Referral,1,602.0,55,17.2,0.0,0.91
+103707,Delhi NCR,Organic,8,3813.0,60,16.3,0.0,0.902
+103709,Bengaluru,Organic,3,682.0,7,17.7,0.33,0.337
+103711,Ahmedabad,Paid Social,4,3486.0,6,18.6,0.5,0.362
+103719,Delhi NCR,Paid Social,1,577.0,7,14.2,0.0,0.257
+103720,Chandigarh Tricity,Paid Social,8,3605.0,68,18.3,0.5,0.969
+103722,Jaipur,Organic,2,1534.0,35,17.6,0.5,0.819
+103735,Mumbai,Paid Social,9,4914.0,76,17.5,0.11,0.963
+103748,Bengaluru,Organic,2,694.0,5,12.7,0.0,0.286
+103749,Mumbai,Organic,7,2813.0,37,14.7,0.0,0.638
+103755,Hyderabad,Influencer,7,2423.0,29,13.6,0.0,0.552
+103756,Bengaluru,Paid Social,6,4192.0,3,16.0,0.17,0.271
+103757,Chennai,Influencer,1,1183.0,6,18.8,0.0,0.325
+103758,Hyderabad,Paid Social,2,607.0,28,17.7,0.5,0.699
+103764,Delhi NCR,Google Ads,16,5313.0,14,13.7,0.06,0.295
+103768,Delhi NCR,Referral,8,3587.0,26,16.5,0.12,0.532
+103769,Bengaluru,Paid Social,5,5357.0,2,13.4,0.0,0.166
+103773,Mumbai,Google Ads,8,3361.0,69,17.7,0.25,0.961
+103776,Mumbai,Paid Social,2,806.0,9,12.6,0.0,0.265
+103777,Delhi NCR,Organic,6,3167.0,77,17.3,0.33,0.98
+103781,Kolkata,Referral,1,550.0,8,15.5,0.0,0.332
+103783,Delhi NCR,Referral,1,403.0,75,13.7,0.0,0.968
+103784,Delhi NCR,Organic,2,606.0,5,12.8,0.0,0.251
+103785,Hyderabad,Google Ads,5,1952.0,56,18.3,0.2,0.911
+103795,Delhi NCR,Influencer,1,156.0,5,10.0,0.0,0.301
+103796,Bengaluru,Influencer,25,17037.0,1,14.2,0.04,0.165
+103809,Ahmedabad,Paid Social,6,2287.0,3,22.5,0.5,0.294
+103813,Mumbai,Organic,5,3525.0,83,18.1,0.2,0.98
+103817,Jaipur,Paid Social,2,774.0,45,25.2,1.0,0.933
+103820,Hyderabad,Organic,1,1727.0,73,23.2,1.0,0.989
+103824,Delhi NCR,Google Ads,12,5543.0,79,16.5,0.25,0.978
+103828,Bengaluru,Google Ads,14,8082.0,11,13.9,0.07,0.371
+103831,Delhi NCR,Organic,8,4264.0,20,14.7,0.12,0.385
+103836,Ahmedabad,Paid Social,2,606.0,7,14.4,0.0,0.282
+103837,Bengaluru,Paid Social,8,6859.0,1,11.8,0.0,0.162
+103840,Mumbai,Google Ads,3,1100.0,4,13.9,0.0,0.272
+103841,Pune,Google Ads,5,3019.0,4,21.5,0.6,0.348
+103849,Bengaluru,Organic,2,700.0,26,13.4,0.0,0.582
+103850,Chandigarh Tricity,Referral,16,7451.0,38,19.2,0.31,0.76
+103852,Kolkata,Referral,5,3252.0,39,16.0,0.2,0.763
+103853,Delhi NCR,Organic,1,637.0,18,14.6,0.0,0.513
+103855,Hyderabad,Influencer,5,2565.0,42,16.2,0.0,0.79
+103861,Mumbai,Google Ads,3,958.0,62,13.4,0.0,0.919
+103862,Mumbai,Organic,6,3138.0,1,19.5,0.5,0.233
+103871,Mumbai,Paid Social,3,1467.0,28,12.9,0.0,0.527
+103873,Bengaluru,Paid Social,10,4512.0,1,15.6,0.1,0.135
+103877,Hyderabad,Referral,18,7322.0,22,12.9,0.06,0.4
+103881,Bengaluru,Paid Social,2,1998.0,22,15.6,0.0,0.558
+103882,Mumbai,Referral,1,864.0,81,14.4,0.0,0.981
+103883,Bengaluru,Organic,5,4443.0,27,12.9,0.0,0.587
+103885,Bengaluru,Google Ads,3,1239.0,7,11.4,0.0,0.292
+103890,Chennai,Organic,5,1536.0,13,22.2,0.4,0.388
+103893,Pune,Organic,2,1898.0,25,24.8,1.0,0.766
+103894,Bengaluru,Google Ads,11,7506.0,3,14.4,0.09,0.264
+103897,Bengaluru,Organic,9,2800.0,64,14.9,0.0,0.901
+103898,Pune,Organic,10,4759.0,18,15.5,0.0,0.325
+103907,Delhi NCR,Influencer,2,381.0,28,17.2,0.0,0.652
+103911,Bengaluru,Paid Social,12,3969.0,85,17.1,0.17,0.977
+103916,Delhi NCR,Organic,6,3623.0,51,16.0,0.17,0.844
+103917,Pune,Paid Social,1,406.0,10,15.6,0.0,0.326
+103922,Chennai,Google Ads,2,1592.0,0,22.1,0.5,0.358
+103923,Chennai,Influencer,1,507.0,9,28.2,1.0,0.637
+103924,Delhi NCR,Paid Social,2,367.0,69,19.6,0.5,0.987
+103926,Jaipur,Organic,10,6144.0,58,21.0,0.6,0.932
+103928,Bengaluru,Paid Social,2,650.0,4,15.0,0.0,0.213
+103929,Kolkata,Referral,3,1757.0,68,16.6,0.0,0.952
+103933,Delhi NCR,Organic,31,15448.0,1,16.5,0.16,0.124
+103936,Bengaluru,Referral,6,4479.0,16,14.6,0.0,0.311
+103937,Chandigarh Tricity,Organic,6,3653.0,67,16.1,0.0,0.94
+103940,Chandigarh Tricity,Google Ads,6,3250.0,35,19.4,0.17,0.709
+103942,Kolkata,Referral,34,16501.0,2,17.6,0.21,0.12
+103943,Delhi NCR,Influencer,3,2279.0,0,14.7,0.0,0.239
+103945,Delhi NCR,Referral,7,4047.0,2,19.1,0.29,0.216
+103947,Kolkata,Organic,7,3755.0,38,20.3,0.43,0.746
+103952,Mumbai,Google Ads,2,822.0,20,17.8,0.5,0.643
+103953,Ahmedabad,Paid Social,2,532.0,25,12.5,0.0,0.605
+103954,Pune,Paid Social,15,8134.0,8,14.3,0.0,0.156
+103960,Bengaluru,Paid Social,5,2673.0,6,17.5,0.2,0.272
+103962,Mumbai,Referral,10,4424.0,21,15.9,0.2,0.372
+103964,Bengaluru,Referral,26,10187.0,38,17.1,0.15,0.671
+103966,Pune,Google Ads,11,10208.0,3,15.9,0.09,0.193
+103970,Pune,Organic,7,5869.0,44,15.2,0.0,0.736
+103971,Bengaluru,Paid Social,15,7466.0,18,15.3,0.07,0.392
+103973,Bengaluru,Influencer,1,220.0,51,10.4,0.0,0.933
+103974,Delhi NCR,Referral,15,18560.0,0,16.3,0.07,0.248
+103980,Bengaluru,Influencer,4,1198.0,2,16.8,0.0,0.187
+103981,Bengaluru,Organic,1,77.0,43,15.7,0.0,0.784
+103985,Hyderabad,Paid Social,2,590.0,65,12.2,0.0,0.933
+103992,Chandigarh Tricity,Paid Social,2,456.0,8,16.8,0.5,0.428
+103994,Bengaluru,Influencer,7,2851.0,28,15.2,0.0,0.572
+103995,Bengaluru,Google Ads,4,1345.0,19,12.9,0.0,0.446
+103996,Bengaluru,Organic,3,693.0,7,17.0,0.33,0.359
+103998,Bengaluru,Influencer,2,1698.0,24,18.7,0.0,0.61
+103999,Bengaluru,Organic,18,10398.0,6,15.3,0.11,0.159
+104000,Pune,Paid Social,9,5116.0,23,17.6,0.33,0.547
+104002,Bengaluru,Organic,35,15269.0,18,14.6,0.2,0.322
+104003,Pune,Organic,11,4529.0,18,18.6,0.27,0.412
+104006,Bengaluru,Organic,3,2115.0,44,17.8,0.33,0.869
+104008,Mumbai,Referral,14,6479.0,7,15.8,0.07,0.196
+104012,Ahmedabad,Paid Social,3,1512.0,19,18.4,0.0,0.455
+104013,Bengaluru,Paid Social,1,468.0,4,16.4,0.0,0.277
+104014,Bengaluru,Organic,12,3495.0,21,14.6,0.17,0.432
+104015,Mumbai,Google Ads,2,591.0,5,18.4,0.5,0.458
+104018,Delhi NCR,Organic,14,9404.0,41,14.3,0.14,0.752
+104019,Delhi NCR,Referral,20,8925.0,51,14.6,0.05,0.782
+104020,Mumbai,Referral,16,8979.0,8,15.2,0.06,0.238
+104022,Chandigarh Tricity,Influencer,1,210.0,14,22.3,1.0,0.7
+104023,Delhi NCR,Google Ads,2,1508.0,4,18.5,0.5,0.459
+104024,Hyderabad,Google Ads,1,1429.0,63,33.8,1.0,0.98
+104027,Ahmedabad,Google Ads,2,797.0,72,20.0,0.5,0.976
+104030,Hyderabad,Paid Social,6,3177.0,27,17.7,0.17,0.52
+104033,Bengaluru,Influencer,2,305.0,14,12.8,0.0,0.374
+104035,Bengaluru,Paid Social,1,466.0,23,16.8,0.0,0.548
+104039,Bengaluru,Organic,2,1567.0,7,12.6,0.0,0.301
+104040,Pune,Google Ads,1,2098.0,5,13.0,0.0,0.353
+104045,Chandigarh Tricity,Organic,3,3628.0,13,20.4,0.67,0.562
+104046,Ahmedabad,Organic,10,4438.0,13,18.6,0.3,0.386
+104047,Delhi NCR,Organic,1,187.0,8,16.3,0.0,0.308
+104049,Chennai,Paid Social,3,2243.0,22,15.8,0.0,0.443
+104054,Chandigarh Tricity,Referral,6,2307.0,27,19.0,0.33,0.595
+104060,Mumbai,Organic,19,11734.0,0,17.5,0.11,0.128
+104063,Mumbai,Referral,12,6762.0,70,16.7,0.25,0.957
+104064,Hyderabad,Organic,5,2182.0,7,13.9,0.0,0.206
+104066,Jaipur,Influencer,6,2825.0,45,20.0,0.67,0.906
+104067,Mumbai,Referral,1,139.0,72,11.6,0.0,0.968
+104068,Bengaluru,Organic,5,3121.0,0,14.9,0.0,0.195
+104069,Mumbai,Google Ads,2,648.0,65,20.2,0.5,0.968
+104076,Kolkata,Organic,12,7691.0,33,17.7,0.25,0.662
+104080,Hyderabad,Paid Social,5,1753.0,27,14.4,0.0,0.522
+104081,Bengaluru,Organic,3,1130.0,0,14.6,0.0,0.165
+104082,Bengaluru,Paid Social,7,2584.0,64,15.0,0.0,0.908
+104083,Hyderabad,Organic,6,5023.0,7,13.9,0.0,0.224
+104084,Mumbai,Google Ads,3,1885.0,70,17.0,0.0,0.961
+104087,Hyderabad,Organic,4,2566.0,3,16.2,0.0,0.19
+104088,Bengaluru,Paid Social,2,1123.0,0,11.2,0.0,0.18
+104089,Hyderabad,Paid Social,7,5405.0,4,17.3,0.14,0.211
+104094,Hyderabad,Organic,6,2887.0,41,15.0,0.0,0.744
+104099,Bengaluru,Paid Social,2,918.0,21,11.9,0.0,0.418
+104101,Chennai,Paid Social,19,10234.0,0,17.7,0.21,0.097
+104106,Bengaluru,Google Ads,4,2299.0,38,14.1,0.0,0.741
+104109,Bengaluru,Paid Social,1,600.0,76,10.7,0.0,0.967
+104114,Chandigarh Tricity,Organic,2,919.0,74,25.2,1.0,0.989
+104115,Delhi NCR,Google Ads,9,4263.0,78,16.6,0.33,0.978
+104118,Mumbai,Influencer,6,1165.0,64,16.8,0.17,0.936
+104121,Hyderabad,Influencer,7,2925.0,0,17.7,0.29,0.219
+104122,Mumbai,Influencer,1,200.0,18,17.9,0.0,0.499
+104124,Delhi NCR,Organic,4,1135.0,56,16.4,0.25,0.907
+104125,Ahmedabad,Google Ads,1,2689.0,16,21.2,1.0,0.83
+104127,Mumbai,Google Ads,24,13576.0,46,16.8,0.21,0.817
+104129,Mumbai,Referral,9,4130.0,41,15.7,0.11,0.73
+104130,Mumbai,Paid Social,8,2964.0,21,16.0,0.38,0.463
+104137,Mumbai,Referral,4,1713.0,7,17.6,0.25,0.302
+104138,Delhi NCR,Google Ads,41,20518.0,24,14.2,0.05,0.405
+104139,Mumbai,Google Ads,7,2540.0,13,14.2,0.0,0.368
+104146,Bengaluru,Referral,43,26876.0,14,14.9,0.07,0.241
+104150,Jaipur,Paid Social,1,316.0,72,12.1,0.0,0.981
+104151,Chandigarh Tricity,Paid Social,3,797.0,63,17.8,0.33,0.96
+104152,Bengaluru,Google Ads,16,8993.0,73,13.8,0.0,0.95
+104155,Pune,Paid Social,1,185.0,6,14.5,0.0,0.281
+104158,Bengaluru,Organic,4,3410.0,34,13.8,0.0,0.67
+104160,Bengaluru,Organic,2,833.0,9,19.3,0.5,0.423
+104161,Bengaluru,Paid Social,15,7837.0,8,16.5,0.2,0.259
+104165,Chennai,Google Ads,5,1218.0,52,18.3,0.2,0.898
+104166,Mumbai,Referral,3,3113.0,70,14.5,0.0,0.954
+104169,Mumbai,Google Ads,6,2270.0,26,15.6,0.17,0.572
+104170,Kolkata,Google Ads,10,6576.0,4,17.4,0.1,0.207
+104173,Hyderabad,Referral,2,1038.0,37,17.0,0.5,0.816
+104176,Hyderabad,Organic,2,1178.0,15,10.1,0.0,0.434
+104177,Pune,Paid Social,2,1966.0,3,15.0,0.0,0.326
+104178,Mumbai,Paid Social,10,4361.0,25,16.0,0.2,0.508
+104182,Bengaluru,Google Ads,3,1693.0,22,12.4,0.0,0.506
+104183,Mumbai,Paid Social,1,258.0,36,15.4,0.0,0.689
+104188,Pune,Referral,15,9171.0,12,16.0,0.07,0.22
+104189,Chennai,Paid Social,1,182.0,50,13.3,0.0,0.865
+104194,Kolkata,Referral,4,2829.0,9,21.8,0.5,0.402
+104195,Ahmedabad,Organic,6,3582.0,34,16.5,0.0,0.693
+104196,Hyderabad,Organic,2,1064.0,46,16.1,0.0,0.803
+104197,Bengaluru,Organic,3,2432.0,0,16.2,0.0,0.182
+104198,Pune,Google Ads,6,4237.0,31,12.5,0.0,0.641
+104202,Delhi NCR,Paid Social,6,2926.0,16,17.3,0.17,0.384
+104204,Delhi NCR,Google Ads,2,694.0,28,16.6,0.0,0.702
+104214,Delhi NCR,Influencer,6,1236.0,14,15.2,0.0,0.306
+104217,Chennai,Google Ads,7,1806.0,5,17.4,0.29,0.26
+104219,Delhi NCR,Referral,14,9419.0,2,17.1,0.29,0.159
+104224,Delhi NCR,Google Ads,1,113.0,53,14.0,0.0,0.903
+104232,Bengaluru,Google Ads,2,537.0,72,12.0,0.0,0.957
+104241,Hyderabad,Organic,6,2884.0,14,15.9,0.0,0.272
+104242,Bengaluru,Organic,4,2290.0,69,12.7,0.0,0.945
+104244,Mumbai,Paid Social,2,1306.0,50,20.4,0.5,0.908
+104246,Delhi NCR,Paid Social,16,6819.0,7,17.2,0.06,0.174
+104255,Jaipur,Organic,2,868.0,52,19.0,0.5,0.93
+104256,Bengaluru,Influencer,1,296.0,33,12.5,0.0,0.719
+104258,Mumbai,Influencer,1,1119.0,6,12.8,0.0,0.3
+104259,Bengaluru,Google Ads,4,3031.0,29,14.2,0.0,0.6
+104262,Bengaluru,Referral,5,3098.0,7,11.4,0.2,0.273
+104265,Kolkata,Google Ads,1,1521.0,44,18.4,0.0,0.897
+104266,Mumbai,Referral,4,3852.0,3,15.8,0.0,0.183
+104267,Bengaluru,Paid Social,6,4321.0,7,13.6,0.0,0.22
+104270,Chennai,Organic,1,137.0,54,14.0,0.0,0.889
+104272,Chandigarh Tricity,Referral,3,1207.0,26,25.8,0.67,0.7
+104274,Pune,Google Ads,7,4614.0,12,16.3,0.14,0.392
+104276,Delhi NCR,Paid Social,1,552.0,11,9.5,0.0,0.333
+104280,Bengaluru,Influencer,3,1705.0,1,21.4,0.33,0.308
+104284,Ahmedabad,Referral,7,2948.0,68,24.0,0.86,0.976
+104290,Mumbai,Paid Social,1,304.0,5,13.4,0.0,0.231
+104293,Mumbai,Referral,2,1356.0,49,19.0,0.0,0.868
+104294,Chennai,Paid Social,3,2174.0,15,14.9,0.33,0.443
+104298,Kolkata,Google Ads,1,624.0,48,14.2,0.0,0.876
+104301,Delhi NCR,Referral,27,13371.0,5,15.3,0.07,0.2
+104303,Chennai,Referral,9,5488.0,11,17.2,0.11,0.266
+104304,Pune,Paid Social,2,2504.0,15,17.6,0.5,0.559
+104317,Chennai,Paid Social,7,2415.0,34,15.1,0.14,0.642
+104318,Bengaluru,Influencer,9,5303.0,35,12.7,0.11,0.706
+104319,Jaipur,Paid Social,1,398.0,8,20.4,1.0,0.61
+104321,Bengaluru,Paid Social,14,6310.0,58,14.3,0.0,0.825
+104323,Bengaluru,Referral,12,7111.0,2,14.2,0.0,0.147
+104326,Delhi NCR,Influencer,1,582.0,19,13.1,0.0,0.471
+104327,Delhi NCR,Organic,1,1796.0,4,17.3,0.0,0.284
+104329,Bengaluru,Google Ads,7,4976.0,27,13.2,0.0,0.551
+104330,Bengaluru,Paid Social,4,997.0,25,11.2,0.0,0.491
+104339,Chandigarh Tricity,Google Ads,1,1465.0,70,17.0,0.0,0.972
+104340,Hyderabad,Organic,4,3355.0,48,19.6,0.25,0.857
+104342,Mumbai,Organic,5,7034.0,4,13.2,0.0,0.262
+104352,Pune,Organic,5,2421.0,5,19.5,0.2,0.256
+104359,Mumbai,Referral,22,15311.0,58,14.8,0.05,0.886
+104368,Chennai,Paid Social,4,2282.0,10,16.9,0.0,0.255
+104370,Delhi NCR,Organic,5,4287.0,2,14.2,0.0,0.188
+104371,Mumbai,Paid Social,6,6269.0,7,14.8,0.33,0.387
+104375,Mumbai,Paid Social,11,3868.0,35,14.8,0.18,0.673
+104381,Bengaluru,Referral,24,10534.0,1,14.8,0.08,0.105
+104383,Mumbai,Referral,1,305.0,50,13.5,0.0,0.866
+104387,Chandigarh Tricity,Organic,12,4691.0,14,18.2,0.33,0.293
+104389,Pune,Referral,7,6865.0,16,16.1,0.14,0.4
+104391,Hyderabad,Referral,2,664.0,12,18.0,0.5,0.461
+104393,Bengaluru,Paid Social,6,2873.0,39,14.0,0.0,0.684
+104395,Delhi NCR,Paid Social,14,6671.0,0,18.5,0.29,0.163
+104397,Chandigarh Tricity,Paid Social,2,1223.0,21,20.8,1.0,0.776
+104399,Hyderabad,Google Ads,3,1094.0,14,14.7,0.0,0.401
+104405,Chennai,Referral,2,578.0,69,16.4,0.0,0.94
+104406,Bengaluru,Google Ads,2,863.0,67,29.8,1.0,0.984
+104407,Delhi NCR,Paid Social,1,797.0,68,20.3,1.0,0.99
+104410,Bengaluru,Paid Social,5,2544.0,38,17.9,0.4,0.783
+104411,Jaipur,Organic,1,132.0,42,18.1,0.0,0.824
+104412,Bengaluru,Influencer,5,2667.0,27,16.7,0.2,0.585
+104414,Delhi NCR,Google Ads,20,9158.0,68,14.0,0.0,0.948
+104422,Hyderabad,Google Ads,8,2086.0,10,14.6,0.0,0.292
+104429,Delhi NCR,Referral,6,3520.0,12,13.8,0.0,0.26
+104430,Ahmedabad,Google Ads,1,363.0,41,8.7,0.0,0.873
+104431,Hyderabad,Google Ads,1,218.0,5,14.3,0.0,0.41
+104432,Pune,Influencer,6,4305.0,9,18.1,0.33,0.436
+104439,Mumbai,Google Ads,2,1436.0,8,18.0,0.0,0.318
+104443,Delhi NCR,Referral,4,1547.0,68,18.7,0.5,0.96
+104446,Delhi NCR,Google Ads,16,9552.0,0,14.4,0.0,0.145
+104447,Hyderabad,Organic,2,489.0,62,19.8,0.5,0.949
+104450,Ahmedabad,Paid Social,1,286.0,21,20.7,1.0,0.778
+104451,Mumbai,Referral,6,2948.0,0,16.7,0.33,0.191
+104456,Mumbai,Google Ads,35,18133.0,12,15.0,0.09,0.287
+104458,Bengaluru,Influencer,1,793.0,17,17.9,0.0,0.463
+104462,Pune,Paid Social,2,293.0,28,25.5,0.5,0.681
+104463,Pune,Organic,1,309.0,59,20.9,1.0,0.984
+104469,Hyderabad,Influencer,16,8063.0,20,18.8,0.19,0.472
+104473,Bengaluru,Organic,1,349.0,34,22.9,1.0,0.876
+104477,Hyderabad,Google Ads,5,3175.0,5,13.5,0.0,0.276
+104479,Ahmedabad,Organic,1,1721.0,82,16.0,0.0,0.986
+104481,Ahmedabad,Organic,1,638.0,47,15.5,0.0,0.857
+104484,Delhi NCR,Paid Social,5,3778.0,13,15.0,0.0,0.278
+104497,Delhi NCR,Influencer,3,1469.0,28,12.5,0.0,0.553
+104499,Mumbai,Google Ads,2,566.0,14,19.8,0.5,0.503
+104504,Bengaluru,Organic,1,127.0,68,14.5,0.0,0.955
+104505,Chandigarh Tricity,Paid Social,15,6272.0,73,20.5,0.33,0.967
+104508,Bengaluru,Paid Social,5,2523.0,82,17.2,0.2,0.979
+104513,Mumbai,Influencer,2,473.0,17,16.2,0.0,0.427
+104515,Bengaluru,Paid Social,5,2359.0,31,14.9,0.0,0.575
+104516,Pune,Organic,2,611.0,82,14.4,0.0,0.976
+104521,Delhi NCR,Paid Social,7,2420.0,55,15.7,0.14,0.863
+104524,Mumbai,Paid Social,4,2127.0,79,18.5,0.25,0.977
+104528,Delhi NCR,Paid Social,9,7554.0,20,17.3,0.33,0.458
+104532,Mumbai,Google Ads,11,6722.0,7,15.6,0.0,0.246
+104535,Bengaluru,Paid Social,2,1390.0,60,16.4,0.0,0.907
+104536,Chennai,Paid Social,4,2813.0,19,16.2,0.0,0.426
+104540,Delhi NCR,Organic,15,10264.0,26,15.7,0.2,0.53
+104542,Bengaluru,Google Ads,4,1211.0,0,17.3,0.0,0.196
+104544,Mumbai,Google Ads,2,507.0,90,17.8,0.0,0.986
+104545,Hyderabad,Organic,5,4978.0,4,14.5,0.0,0.246
+104549,Pune,Referral,7,3778.0,83,19.2,0.14,0.981
+104551,Chandigarh Tricity,Organic,1,176.0,64,12.7,0.0,0.964
+104552,Delhi NCR,Referral,28,15704.0,13,14.8,0.07,0.232
+104556,Hyderabad,Organic,1,343.0,21,20.6,1.0,0.772
+104557,Pune,Paid Social,6,4392.0,46,13.6,0.0,0.776
+104560,Chandigarh Tricity,Influencer,1,919.0,20,19.4,0.0,0.547
+104562,Mumbai,Organic,5,2323.0,4,16.1,0.2,0.245
+104565,Hyderabad,Google Ads,6,3845.0,10,15.8,0.0,0.271
+104569,Mumbai,Paid Social,1,520.0,79,15.9,0.0,0.977
+104570,Delhi NCR,Influencer,3,2032.0,29,16.3,0.0,0.624
+104571,Delhi NCR,Organic,5,3357.0,0,17.4,0.2,0.188
+104573,Ahmedabad,Influencer,4,2494.0,0,18.0,0.25,0.295
+104575,Delhi NCR,Organic,13,6136.0,40,15.7,0.08,0.685
+104581,Mumbai,Referral,2,772.0,50,15.3,0.0,0.836
+104582,Mumbai,Influencer,1,738.0,49,14.3,0.0,0.887
+104587,Hyderabad,Referral,6,3604.0,2,16.2,0.17,0.208
+104591,Mumbai,Influencer,1,319.0,90,7.7,0.0,0.99
+104593,Delhi NCR,Referral,1,259.0,18,22.1,1.0,0.711
+104595,Bengaluru,Referral,30,17583.0,6,13.7,0.07,0.259
+104597,Ahmedabad,Organic,7,3606.0,22,19.1,0.43,0.597
+104599,Mumbai,Organic,3,1059.0,64,16.7,0.0,0.911
+104602,Bengaluru,Influencer,5,1951.0,42,14.1,0.0,0.748
+104604,Mumbai,Paid Social,4,1308.0,62,15.7,0.0,0.902
+104605,Hyderabad,Organic,5,1227.0,11,13.8,0.2,0.292
+104608,Bengaluru,Paid Social,4,3378.0,14,19.6,0.5,0.474
+104609,Bengaluru,Organic,4,1140.0,14,14.6,0.0,0.358
+104610,Mumbai,Referral,2,2152.0,3,17.5,0.0,0.225
+104611,Pune,Google Ads,9,3543.0,6,15.2,0.0,0.275
+104614,Delhi NCR,Organic,2,1006.0,36,13.6,0.0,0.692
+104615,Kolkata,Google Ads,1,890.0,42,17.1,0.0,0.816
+104620,Chennai,Influencer,6,2509.0,6,14.7,0.0,0.261
+104629,Chandigarh Tricity,Organic,1,434.0,69,20.7,1.0,0.989
+104635,Mumbai,Google Ads,1,556.0,5,16.2,0.0,0.283
+104646,Jaipur,Google Ads,3,1269.0,7,21.8,0.67,0.549
+104648,Jaipur,Paid Social,8,4876.0,42,21.3,0.62,0.842
+104649,Mumbai,Paid Social,6,3857.0,12,15.7,0.17,0.32
+104653,Hyderabad,Organic,2,760.0,42,14.0,0.0,0.803
+104655,Hyderabad,Referral,2,653.0,49,14.2,0.0,0.852
+104661,Hyderabad,Influencer,25,13689.0,12,16.1,0.16,0.268
+104662,Jaipur,Organic,1,610.0,47,28.4,1.0,0.959
+104663,Bengaluru,Referral,24,13824.0,7,15.4,0.12,0.157
+104673,Bengaluru,Influencer,1,340.0,29,13.2,0.0,0.702
+104675,Bengaluru,Referral,11,4975.0,21,16.7,0.09,0.379
+104683,Ahmedabad,Paid Social,2,2462.0,14,19.4,0.5,0.601
+104684,Mumbai,Paid Social,1,606.0,88,16.7,0.0,0.986
+104687,Pune,Paid Social,11,4362.0,78,16.4,0.09,0.955
+104688,Chandigarh Tricity,Influencer,3,1249.0,67,28.0,0.67,0.979
+104689,Delhi NCR,Referral,10,5336.0,26,15.5,0.2,0.516
+104693,Ahmedabad,Organic,5,2117.0,3,18.6,0.4,0.253
+104697,Chennai,Google Ads,26,19452.0,36,17.2,0.23,0.74
+104698,Bengaluru,Organic,9,4084.0,79,13.7,0.22,0.974
+104705,Bengaluru,Google Ads,3,2537.0,1,21.1,0.67,0.376
+104717,Chennai,Paid Social,1,1090.0,75,15.5,0.0,0.976
+104719,Pune,Organic,4,1030.0,18,17.8,0.5,0.563
+104721,Ahmedabad,Paid Social,8,3885.0,61,19.5,0.38,0.936
+104729,Ahmedabad,Google Ads,3,1939.0,71,21.3,0.33,0.976
+104734,Kolkata,Influencer,3,2428.0,1,20.4,0.67,0.351
+104735,Bengaluru,Influencer,5,3218.0,27,14.8,0.0,0.534
+104736,Delhi NCR,Paid Social,5,1586.0,69,15.4,0.4,0.955
+104742,Bengaluru,Referral,7,2201.0,22,15.2,0.14,0.399
+104746,Bengaluru,Google Ads,3,1686.0,32,12.2,0.0,0.699
+104749,Bengaluru,Organic,3,854.0,2,16.3,0.33,0.271
+104751,Kolkata,Paid Social,1,245.0,4,18.3,0.0,0.254
+104752,Delhi NCR,Google Ads,8,3741.0,68,14.8,0.0,0.941
+104756,Hyderabad,Paid Social,8,3371.0,5,13.9,0.0,0.161
+104757,Mumbai,Google Ads,5,1752.0,0,17.2,0.2,0.195
+104760,Mumbai,Paid Social,1,1131.0,88,24.9,1.0,0.996
+104778,Bengaluru,Organic,9,4217.0,53,15.2,0.0,0.824
+104786,Mumbai,Influencer,3,1167.0,9,13.3,0.0,0.285
+104792,Jaipur,Organic,10,7213.0,0,19.9,0.3,0.169
+104795,Hyderabad,Paid Social,12,5966.0,0,13.8,0.0,0.124
+104796,Mumbai,Referral,7,2172.0,5,14.2,0.0,0.161
+104800,Chennai,Organic,11,5824.0,61,16.7,0.09,0.914
+104801,Delhi NCR,Paid Social,8,4171.0,31,14.6,0.0,0.555
+104802,Kolkata,Organic,2,5101.0,10,18.3,0.5,0.49
+104807,Kolkata,Paid Social,2,265.0,27,22.2,0.5,0.715
+104809,Chennai,Organic,4,1498.0,79,17.2,0.25,0.973
+104811,Bengaluru,Referral,3,1561.0,26,13.9,0.0,0.53
+104815,Mumbai,Paid Social,1,232.0,2,14.7,0.0,0.258
+104816,Delhi NCR,Paid Social,9,3701.0,13,13.8,0.11,0.343
+104817,Hyderabad,Influencer,1,911.0,24,13.6,0.0,0.587
+104818,Chennai,Organic,8,3773.0,8,17.4,0.38,0.277
+104819,Delhi NCR,Google Ads,17,6459.0,10,15.5,0.12,0.296
+104824,Bengaluru,Google Ads,3,1585.0,81,14.7,0.0,0.979
+104827,Delhi NCR,Google Ads,8,4177.0,6,16.8,0.25,0.315
+104834,Hyderabad,Referral,3,2301.0,44,12.8,0.0,0.83
+104835,Delhi NCR,Influencer,2,722.0,15,17.5,0.5,0.56
+104838,Ahmedabad,Organic,4,1754.0,21,21.6,0.75,0.66
+104839,Bengaluru,Organic,27,15914.0,0,14.8,0.07,0.142
+104847,Delhi NCR,Paid Social,1,182.0,64,13.3,0.0,0.942
+104852,Chandigarh Tricity,Organic,11,3799.0,26,24.8,0.64,0.621
+104853,Delhi NCR,Paid Social,14,7157.0,42,13.8,0.0,0.704
+104856,Bengaluru,Paid Social,9,4511.0,0,14.8,0.11,0.172
+104858,Bengaluru,Influencer,7,2363.0,12,14.9,0.14,0.314
+104862,Jaipur,Influencer,1,177.0,9,13.2,0.0,0.387
+104863,Bengaluru,Organic,12,8685.0,3,13.8,0.0,0.153
+104866,Delhi NCR,Organic,1,993.0,78,16.9,0.0,0.975
+104867,Mumbai,Influencer,3,1828.0,4,16.5,0.0,0.268
+104870,Chandigarh Tricity,Paid Social,2,2001.0,67,20.2,0.5,0.978
+104871,Mumbai,Paid Social,5,1665.0,28,15.7,0.2,0.599
+104872,Delhi NCR,Paid Social,3,1253.0,7,15.7,0.0,0.253
+104873,Mumbai,Organic,10,4721.0,9,13.9,0.0,0.246
+104879,Bengaluru,Paid Social,2,365.0,7,16.1,0.0,0.259
+104882,Delhi NCR,Google Ads,2,1432.0,50,13.0,0.0,0.935
+104884,Delhi NCR,Organic,4,1404.0,0,15.2,0.0,0.171
+104886,Mumbai,Referral,6,3440.0,3,13.5,0.17,0.232
+104888,Mumbai,Organic,4,1611.0,4,16.0,0.25,0.234
+104893,Bengaluru,Influencer,4,1691.0,16,13.8,0.0,0.371
+104896,Bengaluru,Organic,4,4781.0,85,13.9,0.0,0.981
+104907,Hyderabad,Influencer,1,183.0,10,21.2,1.0,0.644
+104911,Bengaluru,Google Ads,4,1503.0,64,19.4,0.25,0.95
+104920,Pune,Google Ads,14,7917.0,37,16.4,0.21,0.724
+104922,Bengaluru,Organic,2,514.0,53,8.6,0.0,0.847
+104926,Ahmedabad,Google Ads,2,931.0,25,20.3,0.5,0.772
+104930,Ahmedabad,Paid Social,8,2580.0,12,19.2,0.38,0.427
+104937,Delhi NCR,Referral,22,13438.0,0,15.3,0.05,0.096
+104940,Bengaluru,Google Ads,26,17367.0,9,15.2,0.12,0.292
+104946,Pune,Paid Social,2,999.0,6,18.0,0.0,0.272
+104947,Mumbai,Referral,5,3394.0,60,15.9,0.0,0.91
+104953,Bengaluru,Referral,20,8886.0,2,15.0,0.1,0.096
+104959,Delhi NCR,Influencer,1,533.0,21,16.5,0.0,0.576
+104960,Hyderabad,Organic,2,971.0,6,15.0,0.0,0.28
+104962,Ahmedabad,Organic,7,2893.0,56,20.6,0.57,0.93
+104964,Hyderabad,Google Ads,3,1458.0,34,19.4,0.33,0.756
+104970,Hyderabad,Influencer,3,2313.0,12,13.7,0.0,0.356
+104971,Hyderabad,Paid Social,1,242.0,86,15.1,0.0,0.984
+104975,Chennai,Influencer,2,2308.0,86,20.5,0.5,0.994
+104982,Mumbai,Referral,3,1914.0,2,16.2,0.33,0.285
+104985,Delhi NCR,Organic,11,4337.0,62,16.3,0.27,0.896
+104988,Pune,Influencer,12,6601.0,29,18.5,0.33,0.681
+104991,Hyderabad,Organic,9,4234.0,57,14.9,0.11,0.879
+104995,Bengaluru,Google Ads,20,10024.0,18,15.0,0.0,0.312
+104997,Delhi NCR,Organic,24,12434.0,0,13.6,0.0,0.116
+104998,Mumbai,Paid Social,5,2542.0,28,15.1,0.0,0.496
+105002,Bengaluru,Paid Social,3,2113.0,0,15.0,0.0,0.181
+105005,Hyderabad,Influencer,3,974.0,34,11.5,0.0,0.689
+105009,Mumbai,Paid Social,4,2878.0,0,18.5,0.25,0.193
+105012,Hyderabad,Referral,1,600.0,17,22.4,1.0,0.746
+105013,Delhi NCR,Paid Social,6,2607.0,10,14.5,0.17,0.253
+105015,Bengaluru,Paid Social,1,107.0,7,17.2,0.0,0.291
+105016,Chandigarh Tricity,Google Ads,4,2828.0,4,19.0,0.5,0.424
+105017,Mumbai,Organic,2,849.0,36,18.9,0.5,0.813
+105018,Hyderabad,Google Ads,7,4385.0,29,17.5,0.14,0.607
+105022,Ahmedabad,Influencer,1,816.0,76,24.9,1.0,0.993
+105025,Chennai,Organic,7,2786.0,4,14.5,0.0,0.161
+105029,Delhi NCR,Google Ads,1,752.0,14,19.3,0.0,0.424
+105032,Bengaluru,Organic,2,421.0,19,12.7,0.0,0.407
+105035,Chandigarh Tricity,Organic,3,943.0,13,19.5,0.67,0.612
+105037,Chandigarh Tricity,Organic,18,8806.0,7,19.0,0.28,0.21
+105045,Mumbai,Paid Social,3,1511.0,35,18.1,0.33,0.75
+105046,Chandigarh Tricity,Influencer,5,3376.0,46,18.1,0.2,0.861
+105049,Hyderabad,Paid Social,1,678.0,76,12.9,0.0,0.973
+105051,Delhi NCR,Influencer,1,317.0,7,15.0,0.0,0.316
+105057,Delhi NCR,Organic,3,1644.0,40,19.6,0.67,0.846
+105058,Hyderabad,Paid Social,10,5254.0,36,14.7,0.0,0.646
+105059,Chandigarh Tricity,Organic,1,131.0,29,21.8,1.0,0.88
+105062,Delhi NCR,Organic,10,4679.0,76,17.8,0.2,0.962
+105073,Chandigarh Tricity,Referral,1,187.0,9,15.8,0.0,0.332
+105074,Delhi NCR,Google Ads,27,16424.0,18,16.3,0.11,0.399
+105075,Hyderabad,Paid Social,5,3766.0,56,12.5,0.0,0.879
+105076,Kolkata,Organic,5,2996.0,5,20.0,0.4,0.314
+105079,Pune,Organic,8,2100.0,10,15.1,0.12,0.269
+105080,Delhi NCR,Paid Social,1,83.0,31,18.2,0.0,0.683
+105081,Bengaluru,Organic,7,3211.0,0,14.1,0.0,0.135
+105084,Delhi NCR,Organic,4,2035.0,7,14.5,0.0,0.263
+105085,Delhi NCR,Referral,10,6030.0,6,15.2,0.0,0.222
+105089,Chandigarh Tricity,Google Ads,12,7383.0,14,21.5,0.5,0.463
+105090,Kolkata,Organic,8,5466.0,22,18.4,0.12,0.421
+105096,Bengaluru,Paid Social,11,3350.0,16,15.2,0.09,0.281
+105097,Chandigarh Tricity,Organic,6,2754.0,81,19.8,0.33,0.979
+105100,Delhi NCR,Paid Social,2,1184.0,7,14.4,0.0,0.257
+105103,Pune,Google Ads,26,15159.0,14,16.8,0.19,0.312
+105104,Ahmedabad,Referral,1,176.0,5,21.6,1.0,0.547
+105108,Kolkata,Paid Social,3,743.0,8,17.0,0.33,0.337
+105111,Delhi NCR,Paid Social,2,750.0,24,16.3,0.0,0.496
+105115,Jaipur,Influencer,6,1492.0,39,20.2,0.33,0.818
+105119,Chennai,Influencer,4,2323.0,0,19.0,0.25,0.249
+105122,Delhi NCR,Organic,35,15682.0,11,16.0,0.11,0.146
+105124,Bengaluru,Organic,8,2998.0,37,17.8,0.12,0.657
+105128,Chennai,Google Ads,5,2658.0,23,17.0,0.2,0.522
+105129,Ahmedabad,Organic,3,2455.0,82,21.1,0.67,0.99
+105133,Hyderabad,Google Ads,18,10510.0,68,16.2,0.17,0.954
+105138,Bengaluru,Google Ads,15,10202.0,0,15.4,0.0,0.139
+105141,Delhi NCR,Organic,10,4527.0,3,16.2,0.1,0.162
+105144,Chennai,Influencer,17,8080.0,84,18.8,0.41,0.983
+105147,Jaipur,Paid Social,8,2394.0,84,21.8,0.38,0.982
+105150,Bengaluru,Organic,3,3971.0,0,15.0,0.0,0.193
+105155,Mumbai,Google Ads,13,6122.0,54,16.0,0.15,0.858
+105157,Pune,Paid Social,2,329.0,65,17.9,0.5,0.96
+105160,Kolkata,Referral,8,3771.0,34,17.1,0.0,0.624
+105167,Hyderabad,Paid Social,11,8255.0,3,14.8,0.09,0.138
+105168,Chennai,Referral,3,613.0,7,16.4,0.33,0.363
+105170,Mumbai,Google Ads,8,4387.0,11,17.9,0.25,0.396
+105172,Chennai,Google Ads,1,133.0,21,20.0,0.0,0.533
+105174,Delhi NCR,Google Ads,1,497.0,51,16.3,0.0,0.901
+105190,Mumbai,Google Ads,3,2063.0,3,15.9,0.0,0.245
+105192,Pune,Paid Social,12,7405.0,0,15.0,0.0,0.12
+105196,Pune,Google Ads,10,2922.0,56,17.9,0.2,0.897
+105198,Bengaluru,Influencer,2,769.0,0,17.9,0.0,0.296
+105199,Pune,Organic,22,9472.0,82,17.5,0.18,0.978
+105203,Hyderabad,Referral,3,1014.0,8,15.0,0.0,0.28
+105205,Bengaluru,Organic,5,2554.0,51,16.1,0.0,0.828
+105206,Mumbai,Organic,9,4791.0,17,15.0,0.11,0.338
+105209,Hyderabad,Google Ads,6,2661.0,26,13.8,0.0,0.502
+105211,Chandigarh Tricity,Organic,2,1686.0,72,23.0,1.0,0.99
+105214,Delhi NCR,Organic,11,5811.0,56,14.1,0.0,0.856
+105215,Kolkata,Organic,15,8128.0,5,17.5,0.07,0.139
+105217,Chandigarh Tricity,Paid Social,4,2860.0,0,20.9,0.5,0.322
+105219,Bengaluru,Organic,32,21457.0,9,14.7,0.19,0.16
+105220,Delhi NCR,Paid Social,1,323.0,18,12.9,0.0,0.439
+105224,Hyderabad,Organic,4,1512.0,5,14.6,0.0,0.236
+105229,Chennai,Organic,5,1539.0,12,18.3,0.2,0.364
+105230,Pune,Organic,1,151.0,5,14.1,0.0,0.28
+105233,Chennai,Organic,4,2311.0,43,19.0,0.5,0.842
+105237,Bengaluru,Influencer,1,1157.0,15,11.2,0.0,0.474
+105240,Delhi NCR,Referral,23,7946.0,4,17.1,0.17,0.126
+105245,Bengaluru,Paid Social,10,3913.0,0,13.9,0.1,0.104
+105246,Bengaluru,Organic,13,8921.0,3,13.3,0.0,0.148
+105248,Kolkata,Organic,1,1189.0,36,12.9,0.0,0.729
+105254,Chandigarh Tricity,Paid Social,1,248.0,37,17.7,0.0,0.763
+105265,Delhi NCR,Google Ads,1,754.0,20,18.4,0.0,0.541
+105269,Kolkata,Referral,1,551.0,17,16.5,0.0,0.43
+105270,Mumbai,Referral,6,1745.0,42,11.3,0.0,0.715
+105272,Pune,Paid Social,7,2936.0,5,16.9,0.29,0.196
+105277,Delhi NCR,Referral,15,8748.0,6,14.2,0.07,0.145
+105281,Hyderabad,Organic,3,2766.0,12,15.3,0.0,0.343
+105282,Kolkata,Paid Social,2,656.0,53,16.6,0.0,0.861
+105283,Kolkata,Organic,17,18599.0,15,17.5,0.24,0.397
+105285,Bengaluru,Google Ads,32,17068.0,12,14.5,0.06,0.265
+105291,Delhi NCR,Paid Social,3,993.0,0,11.0,0.0,0.184
+105295,Delhi NCR,Referral,13,5009.0,28,15.2,0.0,0.435
+105297,Bengaluru,Organic,1,358.0,62,42.4,1.0,0.98
+105301,Hyderabad,Organic,2,991.0,3,16.2,0.0,0.229
+105305,Chandigarh Tricity,Organic,2,1945.0,40,22.6,0.5,0.855
+105309,Kolkata,Organic,11,5346.0,45,17.7,0.09,0.782
+105311,Bengaluru,Google Ads,10,7181.0,0,12.2,0.0,0.196
+105312,Delhi NCR,Organic,8,4729.0,48,16.0,0.12,0.804
+105313,Pune,Google Ads,2,1453.0,31,15.7,0.0,0.696
+105315,Pune,Google Ads,10,4528.0,15,16.6,0.3,0.399
+105316,Bengaluru,Paid Social,5,3217.0,6,14.8,0.0,0.25
+105320,Mumbai,Paid Social,4,1731.0,1,19.4,0.25,0.255
+105324,Pune,Influencer,1,738.0,56,21.6,1.0,0.976
+105326,Delhi NCR,Organic,1,552.0,26,8.0,0.0,0.588
+105327,Delhi NCR,Organic,2,2597.0,1,15.2,0.0,0.241
+105329,Bengaluru,Influencer,16,9417.0,15,16.4,0.06,0.418
+105335,Kolkata,Influencer,5,2998.0,22,17.7,0.6,0.672
+105345,Pune,Google Ads,1,696.0,46,12.5,0.0,0.851
+105348,Kolkata,Influencer,2,509.0,7,16.4,0.0,0.318
+105349,Bengaluru,Paid Social,6,1383.0,3,13.9,0.0,0.171
+105353,Mumbai,Referral,14,6724.0,0,14.5,0.07,0.103
+105355,Mumbai,Paid Social,1,190.0,14,8.8,0.0,0.411
+105357,Pune,Organic,2,632.0,25,17.2,0.0,0.525
+105360,Hyderabad,Paid Social,5,3153.0,12,10.9,0.0,0.275
+105377,Chennai,Referral,1,670.0,79,15.9,0.0,0.977
+105381,Delhi NCR,Influencer,5,4048.0,10,16.1,0.0,0.285
+105385,Ahmedabad,Referral,15,5655.0,13,19.8,0.33,0.35
+105386,Jaipur,Paid Social,2,715.0,70,23.8,0.5,0.97
+105387,Chandigarh Tricity,Influencer,6,1774.0,0,21.3,0.5,0.242
+105389,Chandigarh Tricity,Paid Social,7,2958.0,5,16.6,0.0,0.184
+105405,Mumbai,Paid Social,1,1476.0,23,15.3,0.0,0.561
+105414,Bengaluru,Paid Social,3,2306.0,68,12.1,0.0,0.947
+105415,Mumbai,Influencer,7,4894.0,9,15.5,0.14,0.349
+105417,Hyderabad,Paid Social,1,230.0,75,18.7,0.0,0.967
+105420,Delhi NCR,Paid Social,2,544.0,21,13.2,0.0,0.482
+105427,Mumbai,Influencer,2,940.0,6,13.8,0.0,0.317
+105428,Delhi NCR,Google Ads,4,1507.0,16,14.6,0.0,0.414
+105429,Mumbai,Organic,12,6507.0,8,15.1,0.17,0.177
+105430,Bengaluru,Google Ads,3,2307.0,0,14.1,0.33,0.323
+105432,Mumbai,Paid Social,1,158.0,84,17.4,0.0,0.982
+105434,Bengaluru,Organic,11,5029.0,4,15.8,0.18,0.194
+105443,Mumbai,Paid Social,27,15976.0,48,16.0,0.19,0.828
+105444,Delhi NCR,Paid Social,4,4404.0,56,17.2,0.0,0.869
+105457,Delhi NCR,Paid Social,3,1100.0,15,14.6,0.0,0.337
+105458,Hyderabad,Organic,4,1918.0,9,14.8,0.0,0.257
+105462,Delhi NCR,Paid Social,6,5708.0,2,15.9,0.17,0.255
+105467,Bengaluru,Referral,3,2505.0,18,16.4,0.0,0.454
+105468,Chandigarh Tricity,Paid Social,3,3016.0,1,19.6,0.33,0.3
+105470,Mumbai,Google Ads,13,6543.0,27,14.7,0.08,0.521
+105472,Jaipur,Google Ads,7,5643.0,65,22.2,0.71,0.97
+105476,Delhi NCR,Organic,3,1679.0,86,17.0,0.33,0.986
+105482,Mumbai,Organic,45,26889.0,0,15.9,0.11,0.109
+105489,Bengaluru,Paid Social,16,9643.0,7,15.6,0.12,0.185
+105495,Delhi NCR,Google Ads,5,3047.0,6,17.3,0.2,0.291
+105496,Bengaluru,Paid Social,20,8288.0,32,15.9,0.05,0.518
+105505,Mumbai,Referral,1,234.0,15,13.3,0.0,0.41
+105506,Bengaluru,Google Ads,25,13982.0,53,14.3,0.0,0.85
+105508,Delhi NCR,Organic,4,1376.0,41,16.2,0.25,0.8
+105510,Hyderabad,Referral,2,808.0,67,15.8,0.0,0.942
+105511,Pune,Organic,8,3736.0,33,16.1,0.0,0.666
+105513,Bengaluru,Influencer,2,536.0,2,18.2,0.0,0.253
+105514,Ahmedabad,Referral,7,3108.0,89,17.4,0.29,0.99
+105515,Chennai,Influencer,13,6376.0,41,15.2,0.0,0.696
+105516,Kolkata,Organic,2,549.0,53,18.9,0.5,0.96
+105519,Bengaluru,Organic,20,11474.0,17,14.8,0.05,0.34
+105522,Mumbai,Referral,25,17515.0,1,15.9,0.16,0.173
+105525,Ahmedabad,Organic,10,6811.0,16,20.1,0.6,0.487
+105528,Bengaluru,Paid Social,2,1024.0,65,15.8,0.0,0.931
+105530,Chandigarh Tricity,Google Ads,5,2835.0,77,19.0,0.6,0.987
+105531,Pune,Organic,2,833.0,38,16.5,0.0,0.734
+105532,Hyderabad,Organic,1,282.0,5,17.2,0.0,0.263
+105535,Pune,Paid Social,2,520.0,37,16.8,0.0,0.7
+105540,Mumbai,Organic,24,10365.0,5,16.2,0.12,0.171
+105544,Mumbai,Google Ads,4,986.0,20,12.9,0.0,0.507
+105551,Chennai,Google Ads,4,3187.0,10,17.4,0.25,0.417
+105557,Delhi NCR,Referral,9,3587.0,13,17.5,0.33,0.32
+105558,Bengaluru,Referral,5,4637.0,49,16.8,0.2,0.87
+105560,Delhi NCR,Google Ads,2,331.0,0,16.6,0.5,0.348
+105561,Mumbai,Paid Social,2,899.0,66,13.2,0.0,0.941
+105564,Mumbai,Organic,3,1394.0,46,13.9,0.0,0.797
+105565,Jaipur,Google Ads,17,8018.0,0,19.3,0.47,0.213
+105567,Mumbai,Referral,1,248.0,14,19.1,0.0,0.447
+105568,Hyderabad,Paid Social,11,7443.0,8,15.1,0.09,0.197
+105570,Delhi NCR,Organic,5,1903.0,6,17.6,0.2,0.232
+105573,Bengaluru,Paid Social,2,1838.0,9,13.4,0.5,0.442
+105577,Chennai,Organic,2,695.0,27,16.8,0.0,0.545
+105579,Hyderabad,Paid Social,3,3736.0,0,11.5,0.0,0.21
+105581,Delhi NCR,Google Ads,3,1150.0,0,17.3,0.33,0.305
+105582,Hyderabad,Google Ads,13,10043.0,5,14.3,0.0,0.217
+105583,Pune,Paid Social,1,193.0,27,17.8,0.0,0.593
+105585,Mumbai,Google Ads,1,598.0,5,17.5,0.0,0.31
+105587,Bengaluru,Paid Social,3,1557.0,1,14.0,0.0,0.193
+105589,Delhi NCR,Google Ads,11,4992.0,74,15.7,0.18,0.967
+105606,Pune,Google Ads,13,6600.0,8,17.3,0.23,0.225
+105614,Hyderabad,Google Ads,28,17305.0,79,14.4,0.07,0.974
+105615,Mumbai,Organic,6,4024.0,40,18.3,0.33,0.743
+105616,Chandigarh Tricity,Paid Social,2,668.0,57,24.3,1.0,0.968
+105622,Pune,Paid Social,5,2484.0,4,14.5,0.0,0.18
+105633,Kolkata,Organic,4,4795.0,37,19.4,0.5,0.801
+105634,Delhi NCR,Organic,8,2964.0,29,16.2,0.25,0.615
+105638,Hyderabad,Organic,1,1020.0,4,14.7,0.0,0.239
+105645,Delhi NCR,Influencer,2,706.0,85,13.3,0.0,0.978
+105650,Chandigarh Tricity,Organic,4,1917.0,7,17.8,0.25,0.33
+105652,Mumbai,Influencer,4,3222.0,7,14.6,0.0,0.245
+105653,Jaipur,Organic,6,2750.0,85,19.3,0.5,0.987
+105657,Ahmedabad,Organic,1,553.0,55,20.6,1.0,0.983
+105661,Kolkata,Organic,2,838.0,8,18.5,0.0,0.287
+105662,Kolkata,Organic,3,1338.0,89,24.2,1.0,0.995
+105664,Bengaluru,Organic,2,1529.0,4,15.2,0.0,0.244
+105669,Delhi NCR,Organic,6,4847.0,28,15.4,0.17,0.584
+105671,Delhi NCR,Paid Social,1,395.0,5,16.4,0.0,0.245
+105677,Chandigarh Tricity,Influencer,1,419.0,20,26.0,1.0,0.781
+105679,Delhi NCR,Paid Social,8,3928.0,80,13.7,0.0,0.966
+105682,Hyderabad,Paid Social,1,374.0,36,15.7,0.0,0.717
+105686,Bengaluru,Paid Social,10,5188.0,42,14.9,0.2,0.762
+105687,Mumbai,Google Ads,7,2966.0,16,14.3,0.14,0.341
+105689,Delhi NCR,Organic,12,6136.0,1,15.4,0.17,0.146
+105690,Hyderabad,Influencer,2,919.0,45,9.8,0.0,0.852
+105699,Mumbai,Google Ads,4,2948.0,25,14.9,0.0,0.508
+105703,Bengaluru,Organic,20,12466.0,82,13.1,0.05,0.971
+105704,Delhi NCR,Influencer,2,385.0,67,13.8,0.0,0.936
+105705,Chennai,Google Ads,2,1482.0,83,20.8,0.5,0.987
+105721,Mumbai,Referral,3,956.0,64,15.6,0.0,0.923
+105727,Pune,Google Ads,40,26106.0,69,15.5,0.15,0.959
+105730,Chandigarh Tricity,Paid Social,5,2119.0,6,19.1,0.4,0.342
+105740,Bengaluru,Paid Social,5,4179.0,54,13.1,0.0,0.851
+105744,Bengaluru,Referral,7,4133.0,54,16.6,0.14,0.87
+105745,Mumbai,Influencer,5,1854.0,15,15.4,0.2,0.429
+105747,Chandigarh Tricity,Organic,17,12450.0,3,18.2,0.29,0.185
+105748,Pune,Influencer,1,465.0,15,16.4,0.0,0.426
+105751,Chandigarh Tricity,Google Ads,5,2739.0,77,22.7,0.8,0.987
+105753,Delhi NCR,Organic,10,5568.0,13,16.9,0.0,0.283
+105758,Bengaluru,Paid Social,4,3516.0,50,12.0,0.0,0.823
+105759,Delhi NCR,Google Ads,4,949.0,39,14.4,0.0,0.74
+105763,Delhi NCR,Organic,6,2464.0,19,15.9,0.17,0.419
+105766,Delhi NCR,Referral,7,4924.0,20,15.8,0.14,0.497
+105768,Delhi NCR,Organic,1,115.0,53,14.2,0.0,0.887
+105773,Bengaluru,Organic,7,2896.0,36,13.2,0.0,0.648
+105774,Pune,Referral,17,12257.0,3,15.2,0.12,0.143
+105776,Delhi NCR,Influencer,3,971.0,18,14.3,0.0,0.463
+105777,Chennai,Paid Social,2,337.0,18,17.8,0.5,0.568
+105779,Ahmedabad,Paid Social,1,474.0,34,24.2,1.0,0.898
+105780,Hyderabad,Organic,3,778.0,89,15.3,0.0,0.981
+105781,Delhi NCR,Organic,1,358.0,21,15.8,0.0,0.603
+105782,Mumbai,Google Ads,11,6138.0,25,15.6,0.09,0.499
+105784,Chandigarh Tricity,Referral,1,631.0,81,18.6,0.0,0.982
+105793,Mumbai,Paid Social,1,170.0,24,9.7,0.0,0.555
+105799,Ahmedabad,Paid Social,1,563.0,83,20.6,1.0,0.994
+105803,Bengaluru,Google Ads,1,609.0,79,20.7,1.0,0.995
+105808,Chandigarh Tricity,Paid Social,4,2136.0,28,17.8,0.25,0.638
+105816,Bengaluru,Referral,4,2404.0,85,15.6,0.0,0.979
+105817,Bengaluru,Paid Social,2,841.0,3,16.0,0.0,0.204
+105818,Mumbai,Influencer,1,640.0,63,12.7,0.0,0.948
+105821,Chennai,Influencer,1,490.0,9,14.2,0.0,0.321
+105823,Chennai,Referral,5,1949.0,5,14.1,0.0,0.207
+105828,Chennai,Paid Social,1,1368.0,36,24.9,1.0,0.895
+105829,Bengaluru,Organic,8,6279.0,46,14.2,0.25,0.813
+105831,Chandigarh Tricity,Organic,4,1288.0,14,14.7,0.0,0.406
+105842,Kolkata,Referral,20,7652.0,2,18.8,0.3,0.15
+105845,Bengaluru,Referral,8,3570.0,9,15.8,0.12,0.298
+105846,Chennai,Organic,3,1168.0,25,14.3,0.0,0.493
+105848,Chandigarh Tricity,Google Ads,2,245.0,14,19.6,0.5,0.558
+105849,Chennai,Organic,22,12857.0,0,16.6,0.18,0.123
+105850,Jaipur,Organic,1,745.0,79,19.9,0.0,0.986
+105853,Pune,Google Ads,3,1196.0,18,13.3,0.0,0.483
+105864,Mumbai,Referral,15,13627.0,19,16.7,0.13,0.296
+105867,Bengaluru,Influencer,1,68.0,36,11.8,0.0,0.776
+105868,Hyderabad,Referral,7,5088.0,9,16.5,0.14,0.256
+105872,Ahmedabad,Influencer,1,193.0,62,17.2,0.0,0.947
+105875,Hyderabad,Referral,26,15831.0,14,19.5,0.31,0.256
+105880,Delhi NCR,Organic,13,4284.0,1,15.9,0.15,0.18
+105889,Bengaluru,Organic,2,1158.0,75,16.5,0.5,0.978
+105890,Bengaluru,Paid Social,14,8177.0,73,18.2,0.21,0.958
+105896,Bengaluru,Influencer,19,14134.0,2,14.3,0.0,0.166
+105898,Chennai,Organic,1,712.0,58,15.3,0.0,0.925
+105899,Delhi NCR,Influencer,1,220.0,9,14.4,0.0,0.333
+105900,Mumbai,Paid Social,9,4340.0,19,14.5,0.0,0.31
+105912,Delhi NCR,Google Ads,4,2418.0,10,14.2,0.25,0.399
+105915,Bengaluru,Paid Social,17,7371.0,2,17.0,0.12,0.129
+105919,Delhi NCR,Paid Social,1,554.0,56,32.6,1.0,0.963
+105922,Chandigarh Tricity,Influencer,1,604.0,55,19.6,0.0,0.934
+105927,Mumbai,Influencer,3,830.0,6,17.6,0.33,0.344
+105938,Pune,Organic,16,8402.0,18,16.2,0.0,0.292
+105940,Mumbai,Google Ads,6,2222.0,12,15.7,0.0,0.274
+105941,Pune,Referral,9,7312.0,16,16.2,0.11,0.341
+105944,Jaipur,Google Ads,2,916.0,37,17.8,0.5,0.899
+105946,Kolkata,Organic,7,5043.0,2,20.1,0.43,0.256
+105951,Bengaluru,Paid Social,1,211.0,19,9.8,0.0,0.499
+105956,Bengaluru,Google Ads,10,5539.0,14,11.4,0.0,0.269
+105959,Kolkata,Google Ads,1,369.0,63,19.4,0.0,0.95
+105962,Bengaluru,Organic,7,4171.0,14,15.1,0.0,0.326
+105966,Delhi NCR,Organic,4,2526.0,41,16.5,0.25,0.816
+105969,Delhi NCR,Organic,3,2168.0,84,14.6,0.0,0.973
+105973,Bengaluru,Google Ads,4,1961.0,31,17.8,0.5,0.746
+105974,Delhi NCR,Organic,2,1079.0,69,25.6,0.5,0.97
+105977,Bengaluru,Referral,2,552.0,10,18.6,0.0,0.303
+105981,Delhi NCR,Paid Social,1,558.0,60,13.2,0.0,0.929
+105983,Chandigarh Tricity,Organic,1,1024.0,5,18.3,0.0,0.286
+105984,Bengaluru,Organic,4,2566.0,18,14.6,0.25,0.468
+105995,Pune,Referral,9,4092.0,23,18.4,0.33,0.557
+105997,Delhi NCR,Google Ads,2,752.0,42,20.8,0.5,0.922
+105999,Hyderabad,Influencer,3,2024.0,46,13.4,0.0,0.832
+106000,Kolkata,Paid Social,2,679.0,1,21.2,0.5,0.355
+106002,Delhi NCR,Paid Social,2,801.0,28,17.1,0.0,0.554
+106005,Mumbai,Referral,2,850.0,34,17.2,0.5,0.799
+106008,Bengaluru,Referral,31,16815.0,84,15.5,0.19,0.981
+106009,Bengaluru,Organic,13,5747.0,20,16.7,0.31,0.383
+106015,Bengaluru,Organic,6,4305.0,7,21.3,0.5,0.325
+106016,Pune,Google Ads,13,6342.0,68,16.0,0.15,0.95
+106017,Jaipur,Paid Social,2,196.0,27,24.5,0.5,0.708
+106018,Pune,Paid Social,3,3171.0,66,14.6,0.0,0.932
+106021,Mumbai,Google Ads,6,2885.0,29,12.6,0.0,0.572
+106022,Hyderabad,Organic,3,732.0,7,12.9,0.0,0.252
+106026,Bengaluru,Influencer,5,1891.0,1,14.1,0.0,0.166
+106032,Kolkata,Paid Social,6,4729.0,3,18.2,0.17,0.188
+106036,Mumbai,Paid Social,6,4956.0,63,17.1,0.17,0.923
+106038,Hyderabad,Paid Social,1,350.0,15,18.2,0.0,0.37
+106039,Mumbai,Google Ads,13,11384.0,0,13.9,0.0,0.135
+106042,Mumbai,Paid Social,2,1527.0,5,13.9,0.0,0.229
+106046,Pune,Paid Social,2,1974.0,55,12.8,0.0,0.953
+106048,Hyderabad,Organic,1,45.0,32,16.9,0.0,0.679
+106055,Mumbai,Influencer,1,125.0,27,12.0,0.0,0.629
+106059,Kolkata,Paid Social,3,1370.0,30,20.0,0.67,0.793
+106070,Mumbai,Paid Social,9,3642.0,8,16.3,0.11,0.228
+106074,Hyderabad,Referral,8,5395.0,22,16.1,0.0,0.429
+106077,Chandigarh Tricity,Referral,4,3149.0,18,19.6,0.5,0.606
+106079,Pune,Paid Social,3,1172.0,17,17.6,0.0,0.407
+106082,Chennai,Organic,2,884.0,4,19.6,0.5,0.359
+106085,Mumbai,Paid Social,3,1698.0,16,16.8,0.0,0.361
+106088,Mumbai,Paid Social,1,467.0,90,10.7,0.0,0.986
+106089,Delhi NCR,Paid Social,1,197.0,13,15.5,0.0,0.335
+106090,Mumbai,Influencer,1,433.0,50,33.2,1.0,0.962
+106091,Mumbai,Organic,11,6544.0,5,17.0,0.27,0.174
+106092,Delhi NCR,Referral,3,1647.0,77,19.5,0.33,0.972
+106096,Kolkata,Referral,5,2241.0,42,18.3,0.6,0.826
+106098,Chandigarh Tricity,Organic,3,2089.0,84,16.3,0.0,0.984
+106107,Mumbai,Google Ads,13,9000.0,66,16.4,0.23,0.951
+106110,Delhi NCR,Organic,1,681.0,73,19.0,0.0,0.966
+106113,Hyderabad,Paid Social,10,4884.0,74,12.3,0.0,0.952
+106115,Pune,Referral,16,9797.0,56,16.5,0.06,0.868
+106123,Chandigarh Tricity,Organic,8,3992.0,2,20.8,0.5,0.205
+106126,Delhi NCR,Referral,1,984.0,4,17.6,0.0,0.274
+106131,Pune,Referral,6,4811.0,0,15.5,0.0,0.15
+106133,Mumbai,Paid Social,3,4147.0,8,13.3,0.0,0.31
+106134,Kolkata,Google Ads,10,5407.0,31,17.4,0.3,0.646
+106137,Hyderabad,Organic,24,14342.0,35,14.9,0.04,0.624
+106138,Mumbai,Paid Social,1,575.0,30,18.8,0.0,0.665
+106144,Mumbai,Google Ads,12,7446.0,22,17.3,0.25,0.521
+106148,Hyderabad,Google Ads,1,530.0,8,22.8,1.0,0.617
+106154,Chennai,Google Ads,1,174.0,36,15.8,0.0,0.759
+106155,Chandigarh Tricity,Paid Social,8,3862.0,5,19.4,0.25,0.217
+106159,Hyderabad,Organic,25,11487.0,29,16.0,0.12,0.462
+106160,Pune,Referral,1,825.0,58,14.8,0.0,0.927
+106173,Jaipur,Organic,4,3232.0,28,19.8,0.25,0.627
+106175,Kolkata,Organic,3,1063.0,0,15.1,0.33,0.22
+106176,Delhi NCR,Paid Social,1,370.0,5,16.4,0.0,0.269
+106180,Mumbai,Organic,1,514.0,69,6.0,0.0,0.965
+106185,Jaipur,Paid Social,9,3195.0,20,20.4,0.44,0.48
+106186,Pune,Paid Social,1,647.0,86,38.8,1.0,0.995
+106191,Hyderabad,Google Ads,2,1783.0,15,15.7,0.0,0.44
+106194,Hyderabad,Paid Social,3,2084.0,19,18.5,0.0,0.415
+106203,Pune,Influencer,1,229.0,69,23.5,1.0,0.985
+106209,Bengaluru,Organic,1,179.0,77,18.7,0.0,0.974
+106212,Bengaluru,Referral,24,13172.0,0,14.1,0.0,0.128
+106214,Bengaluru,Influencer,3,1188.0,1,21.9,0.33,0.285
+106218,Chennai,Paid Social,1,896.0,56,19.9,0.0,0.913
+106221,Bengaluru,Influencer,4,1463.0,9,14.8,0.0,0.262
+106223,Bengaluru,Organic,21,13379.0,26,15.5,0.1,0.447
+106224,Bengaluru,Paid Social,3,1232.0,82,9.4,0.0,0.973
+106226,Bengaluru,Referral,7,4378.0,30,16.1,0.29,0.594
+106227,Ahmedabad,Influencer,1,187.0,30,15.9,0.0,0.703
+106236,Pune,Organic,1,946.0,25,16.6,0.0,0.583
+106238,Mumbai,Organic,3,1468.0,29,15.0,0.0,0.57
+106240,Bengaluru,Influencer,1,430.0,18,11.6,0.0,0.532
+106241,Mumbai,Paid Social,1,219.0,89,14.2,0.0,0.987
+106246,Delhi NCR,Organic,6,3631.0,88,14.9,0.0,0.98
+106251,Jaipur,Google Ads,1,3578.0,64,22.8,1.0,0.99
+106254,Hyderabad,Influencer,20,14297.0,36,15.8,0.1,0.677
+106258,Delhi NCR,Referral,10,6061.0,15,14.9,0.0,0.247
+106259,Bengaluru,Paid Social,2,831.0,14,12.7,0.0,0.352
+106267,Hyderabad,Referral,2,929.0,77,15.6,0.0,0.971
+106268,Pune,Paid Social,2,1113.0,32,22.4,0.5,0.795
+106271,Kolkata,Organic,4,2143.0,0,13.8,0.0,0.15
+106273,Kolkata,Organic,6,2327.0,19,17.0,0.17,0.434
+106274,Jaipur,Referral,3,1146.0,21,20.4,0.33,0.597
+106276,Chennai,Influencer,2,892.0,25,17.5,0.0,0.601
+106277,Hyderabad,Paid Social,1,731.0,59,18.6,0.0,0.93
+106278,Pune,Organic,1,260.0,12,15.3,0.0,0.39
+106279,Chennai,Paid Social,17,7968.0,76,17.5,0.24,0.951
+106281,Chandigarh Tricity,Organic,15,4970.0,29,19.1,0.33,0.575
+106284,Bengaluru,Organic,15,8557.0,89,13.6,0.0,0.979
+106314,Chennai,Organic,1,475.0,70,8.6,0.0,0.957
+106316,Hyderabad,Google Ads,1,352.0,39,8.7,0.0,0.826
+106318,Delhi NCR,Google Ads,3,1379.0,18,14.7,0.0,0.446
+106320,Chennai,Google Ads,1,272.0,25,19.2,0.0,0.604
+106322,Bengaluru,Paid Social,6,2969.0,2,15.0,0.0,0.145
+106324,Mumbai,Referral,5,4868.0,39,15.4,0.2,0.737
+106325,Ahmedabad,Organic,1,579.0,7,17.4,0.0,0.283
+106326,Mumbai,Paid Social,4,656.0,52,13.4,0.25,0.878
+106327,Delhi NCR,Google Ads,1,297.0,87,8.5,0.0,0.988
+106328,Hyderabad,Paid Social,6,3699.0,6,14.1,0.17,0.212
+106330,Delhi NCR,Referral,1,213.0,77,14.3,0.0,0.972
+106333,Delhi NCR,Organic,8,3903.0,16,15.1,0.25,0.338
+106334,Hyderabad,Organic,45,27721.0,59,14.7,0.07,0.893
+106335,Hyderabad,Google Ads,2,454.0,45,23.8,0.5,0.943
+106336,Kolkata,Referral,2,445.0,10,23.2,0.5,0.44
+106337,Mumbai,Paid Social,2,1336.0,12,17.4,0.0,0.324
+106338,Bengaluru,Paid Social,3,2398.0,75,20.3,0.33,0.971
+106340,Hyderabad,Google Ads,1,187.0,29,16.1,0.0,0.688
+106344,Kolkata,Organic,8,7119.0,28,17.6,0.38,0.625
+106346,Jaipur,Organic,1,406.0,84,18.4,0.0,0.985
+106348,Bengaluru,Paid Social,2,735.0,70,11.8,0.0,0.944
+106349,Chennai,Organic,1,136.0,46,21.7,1.0,0.949
+106353,Delhi NCR,Google Ads,13,7925.0,0,15.0,0.0,0.179
+106356,Delhi NCR,Organic,7,3037.0,58,14.0,0.14,0.884
+106365,Chennai,Google Ads,3,666.0,57,13.3,0.0,0.897
+106369,Hyderabad,Organic,13,6747.0,15,15.4,0.0,0.248
+106376,Delhi NCR,Referral,3,552.0,4,17.0,0.0,0.206
+106381,Jaipur,Organic,14,10889.0,0,22.0,0.64,0.218
+106385,Hyderabad,Influencer,8,3559.0,61,13.1,0.0,0.905
+106387,Jaipur,Paid Social,2,483.0,0,21.4,0.5,0.31
+106395,Chandigarh Tricity,Google Ads,2,1267.0,18,18.8,0.0,0.556
+106396,Delhi NCR,Influencer,1,1017.0,7,9.5,0.0,0.32
+106398,Bengaluru,Organic,11,6360.0,57,13.0,0.0,0.897
+106399,Delhi NCR,Referral,5,3100.0,0,13.8,0.0,0.16
+106402,Delhi NCR,Organic,2,3170.0,27,17.2,0.0,0.638
+106406,Pune,Influencer,3,2114.0,61,17.0,0.33,0.939
+106413,Bengaluru,Referral,3,938.0,61,13.5,0.0,0.917
+106414,Hyderabad,Influencer,1,969.0,12,15.5,0.0,0.433
+106417,Bengaluru,Google Ads,37,20350.0,54,16.1,0.05,0.861
+106423,Delhi NCR,Paid Social,4,1233.0,23,16.0,0.0,0.475
+106425,Mumbai,Google Ads,12,5027.0,14,14.8,0.0,0.345
+106426,Delhi NCR,Google Ads,1,640.0,21,14.6,0.0,0.635
+106429,Delhi NCR,Referral,5,1988.0,65,15.2,0.2,0.938
+106434,Mumbai,Referral,11,2441.0,13,17.0,0.09,0.29
+106435,Chennai,Organic,1,864.0,26,13.0,0.0,0.558
+106437,Bengaluru,Google Ads,4,4276.0,2,15.4,0.0,0.235
+106439,Hyderabad,Referral,12,5531.0,0,16.8,0.17,0.119
+106440,Kolkata,Paid Social,1,234.0,12,13.9,0.0,0.355
+106442,Bengaluru,Organic,4,1330.0,2,15.5,0.0,0.211
+106455,Bengaluru,Referral,1,132.0,11,19.2,0.0,0.362
+106456,Mumbai,Organic,7,3473.0,3,16.5,0.0,0.182
+106463,Bengaluru,Organic,4,1818.0,6,15.0,0.25,0.272
+106464,Bengaluru,Referral,21,11297.0,30,17.0,0.24,0.539
+106465,Delhi NCR,Influencer,12,3932.0,0,15.0,0.0,0.141
+106468,Hyderabad,Referral,16,9656.0,83,15.8,0.12,0.976
+106470,Bengaluru,Google Ads,3,664.0,26,16.2,0.0,0.558
+106487,Delhi NCR,Influencer,12,4704.0,55,16.1,0.08,0.88
+106490,Bengaluru,Google Ads,3,1830.0,75,17.5,0.33,0.978
+106494,Chandigarh Tricity,Referral,1,1011.0,10,24.5,1.0,0.694
+106497,Pune,Influencer,1,461.0,30,9.7,0.0,0.683
+106498,Delhi NCR,Referral,9,5047.0,4,16.0,0.0,0.202
+106502,Delhi NCR,Influencer,2,862.0,87,19.0,0.5,0.991
+106508,Chennai,Organic,14,5408.0,32,18.1,0.14,0.577
+106510,Chandigarh Tricity,Paid Social,1,276.0,78,35.0,1.0,0.994
+106512,Bengaluru,Organic,14,10754.0,0,14.7,0.07,0.132
+106513,Chennai,Organic,1,261.0,48,22.1,1.0,0.944
+106516,Hyderabad,Organic,8,3437.0,23,15.0,0.0,0.349
+106518,Jaipur,Referral,2,1855.0,70,21.7,1.0,0.987
+106519,Hyderabad,Google Ads,5,1735.0,38,13.1,0.0,0.74
+106521,Chennai,Paid Social,1,115.0,32,31.5,1.0,0.852
+106524,Bengaluru,Influencer,4,4230.0,5,15.0,0.0,0.258
+106526,Hyderabad,Organic,8,4644.0,0,15.7,0.0,0.142
+106528,Hyderabad,Paid Social,19,10951.0,42,17.9,0.26,0.776
+106529,Kolkata,Organic,1,364.0,35,23.7,1.0,0.911
+106535,Delhi NCR,Influencer,1,541.0,47,15.6,0.0,0.867
+106538,Chennai,Referral,2,1229.0,31,14.4,0.0,0.724
+106540,Mumbai,Influencer,1,355.0,24,15.9,0.0,0.597
+106545,Bengaluru,Influencer,11,4795.0,26,13.6,0.0,0.517
+106550,Delhi NCR,Organic,8,3967.0,21,14.0,0.0,0.387
+106551,Mumbai,Organic,1,410.0,47,9.6,0.0,0.865
+106553,Bengaluru,Paid Social,1,179.0,48,13.9,0.0,0.855
+106555,Pune,Organic,28,16089.0,1,16.2,0.07,0.093
+106559,Mumbai,Paid Social,5,790.0,84,16.1,0.2,0.974
+106560,Kolkata,Google Ads,1,205.0,36,17.8,0.0,0.774
+106563,Chandigarh Tricity,Organic,3,601.0,75,18.9,0.33,0.974
+106565,Pune,Referral,4,2409.0,7,19.1,0.25,0.341
+106569,Jaipur,Paid Social,5,1805.0,0,22.1,0.8,0.356
+106570,Hyderabad,Google Ads,8,4828.0,28,15.4,0.12,0.582
+106571,Mumbai,Google Ads,7,2872.0,67,16.7,0.14,0.951
+106573,Delhi NCR,Referral,2,2148.0,42,15.9,0.0,0.824
+106574,Delhi NCR,Paid Social,8,5393.0,21,16.2,0.12,0.451
+106575,Pune,Organic,3,2222.0,79,22.2,0.67,0.986
+106581,Delhi NCR,Paid Social,4,4416.0,12,13.6,0.0,0.291
+106584,Bengaluru,Paid Social,4,2182.0,46,19.0,0.5,0.868
+106586,Bengaluru,Organic,19,8296.0,69,12.9,0.05,0.934
+106591,Delhi NCR,Google Ads,3,657.0,36,18.0,0.33,0.778
+106593,Bengaluru,Influencer,11,5031.0,70,14.8,0.09,0.95
+106594,Bengaluru,Organic,17,8002.0,0,15.6,0.12,0.139
+106600,Hyderabad,Influencer,3,2807.0,2,14.9,0.0,0.213
+106601,Kolkata,Organic,2,1394.0,21,18.9,0.5,0.588
+106602,Mumbai,Paid Social,4,1736.0,15,17.2,0.25,0.352
+106610,Mumbai,Organic,5,1272.0,4,16.0,0.2,0.241
+106612,Chandigarh Tricity,Google Ads,1,362.0,57,20.6,1.0,0.982
+106613,Bengaluru,Organic,7,2681.0,23,13.5,0.0,0.413
+106614,Kolkata,Referral,1,242.0,52,22.4,1.0,0.959
+106623,Ahmedabad,Organic,12,7710.0,2,20.2,0.5,0.348
+106625,Delhi NCR,Paid Social,5,1769.0,9,11.2,0.0,0.228
+106627,Kolkata,Influencer,7,3026.0,3,18.8,0.43,0.26
+106628,Hyderabad,Influencer,1,778.0,75,10.5,0.0,0.974
+106632,Bengaluru,Paid Social,1,928.0,30,19.0,0.0,0.621
+106635,Mumbai,Paid Social,21,7438.0,15,15.3,0.1,0.302
+106643,Pune,Influencer,4,2186.0,34,16.8,0.0,0.668
+106646,Chennai,Influencer,18,10523.0,18,16.8,0.17,0.342
+106651,Ahmedabad,Paid Social,1,735.0,56,17.3,0.0,0.924
+106657,Bengaluru,Referral,3,850.0,5,11.3,0.0,0.227
+106662,Pune,Organic,2,1173.0,37,17.4,0.0,0.708
+106664,Ahmedabad,Organic,1,99.0,51,18.9,0.0,0.882
+106667,Pune,Paid Social,1,350.0,15,17.3,0.0,0.369
+106668,Chandigarh Tricity,Google Ads,5,3432.0,34,18.1,0.2,0.788
+106673,Kolkata,Google Ads,1,740.0,53,18.2,0.0,0.898
+106679,Hyderabad,Influencer,7,1932.0,12,19.9,0.57,0.422
+106680,Bengaluru,Organic,3,2227.0,8,16.5,0.0,0.282
+106684,Mumbai,Referral,16,9196.0,21,16.2,0.06,0.401
+106687,Delhi NCR,Paid Social,3,1427.0,7,13.2,0.0,0.249
+106690,Chennai,Organic,1,94.0,9,13.9,0.0,0.324
+106693,Mumbai,Paid Social,3,2133.0,18,18.9,0.33,0.495
+106694,Bengaluru,Organic,10,5398.0,0,18.3,0.3,0.215
+106697,Chandigarh Tricity,Google Ads,9,5872.0,12,18.9,0.22,0.422
+106699,Pune,Paid Social,4,2021.0,38,20.4,0.5,0.798
+106702,Pune,Organic,6,4174.0,23,17.3,0.17,0.456
+106707,Bengaluru,Paid Social,2,1520.0,0,17.4,0.0,0.184
+106712,Bengaluru,Google Ads,2,651.0,26,12.9,0.0,0.635
+106713,Mumbai,Paid Social,2,1885.0,49,21.8,0.5,0.9
+106715,Delhi NCR,Referral,10,2706.0,7,13.8,0.0,0.157
+106717,Delhi NCR,Google Ads,9,3871.0,5,16.0,0.22,0.222
+106718,Jaipur,Organic,2,565.0,55,21.9,0.5,0.936
+106722,Chennai,Paid Social,1,671.0,5,18.4,0.0,0.292
+106726,Mumbai,Organic,2,772.0,21,14.8,0.0,0.466
+106739,Kolkata,Paid Social,3,1914.0,31,20.5,0.67,0.764
+106741,Delhi NCR,Paid Social,1,796.0,30,9.1,0.0,0.72
+106742,Delhi NCR,Organic,5,3561.0,2,17.4,0.4,0.248
+106743,Jaipur,Referral,5,1759.0,34,19.5,0.4,0.755
+106746,Mumbai,Influencer,1,595.0,61,21.5,1.0,0.979
+106755,Bengaluru,Google Ads,6,2941.0,65,14.2,0.0,0.934
+106761,Chandigarh Tricity,Organic,5,1987.0,18,19.1,0.2,0.435
+106763,Bengaluru,Google Ads,1,184.0,32,18.3,0.0,0.714
+106769,Hyderabad,Google Ads,3,329.0,35,12.6,0.0,0.734
+106772,Jaipur,Referral,1,277.0,8,19.6,0.0,0.326
+106774,Hyderabad,Paid Social,2,704.0,84,15.9,0.0,0.976
+106780,Pune,Google Ads,11,6454.0,35,13.9,0.18,0.712
+106782,Bengaluru,Google Ads,3,1177.0,0,14.5,0.0,0.211
+106786,Delhi NCR,Influencer,3,775.0,7,13.7,0.0,0.248
+106787,Bengaluru,Paid Social,6,5265.0,44,17.9,0.17,0.78
+106788,Bengaluru,Google Ads,1,165.0,53,23.8,1.0,0.97
+106793,Delhi NCR,Organic,1,1443.0,4,22.0,1.0,0.524
+106795,Ahmedabad,Organic,1,761.0,31,20.6,1.0,0.875
+106800,Delhi NCR,Organic,1,224.0,82,14.4,0.0,0.978
+106802,Delhi NCR,Google Ads,1,173.0,22,13.1,0.0,0.523
+106807,Kolkata,Influencer,2,555.0,60,14.3,0.0,0.927
+106814,Mumbai,Organic,3,2396.0,14,12.7,0.0,0.374
+106816,Bengaluru,Paid Social,2,1075.0,12,12.8,0.0,0.321
+106817,Bengaluru,Paid Social,13,4617.0,7,14.0,0.08,0.205
+106820,Jaipur,Organic,7,5014.0,12,17.1,0.14,0.281
+106827,Hyderabad,Influencer,1,511.0,73,20.0,0.0,0.967
+106828,Delhi NCR,Organic,4,1426.0,13,13.6,0.0,0.329
+106837,Kolkata,Paid Social,8,2932.0,62,16.9,0.12,0.916
+106839,Mumbai,Influencer,13,6274.0,26,15.4,0.0,0.455
+106844,Mumbai,Paid Social,6,2967.0,3,15.1,0.17,0.221
+106846,Mumbai,Paid Social,1,302.0,64,14.0,0.0,0.942
+106850,Bengaluru,Influencer,8,7755.0,1,15.8,0.12,0.194
+106851,Kolkata,Influencer,1,214.0,60,19.5,0.0,0.931
+106852,Bengaluru,Google Ads,4,1021.0,28,12.5,0.0,0.582
+106854,Delhi NCR,Google Ads,1,90.0,5,12.9,0.0,0.307
+106859,Delhi NCR,Paid Social,13,8002.0,7,15.8,0.15,0.213
+106860,Chandigarh Tricity,Organic,6,2037.0,5,23.6,0.83,0.391
+106862,Bengaluru,Paid Social,3,799.0,69,12.7,0.0,0.934
+106864,Pune,Influencer,1,136.0,9,20.1,1.0,0.618
+106867,Chennai,Organic,2,1410.0,7,13.6,0.0,0.324
+106869,Mumbai,Paid Social,5,2406.0,49,16.5,0.2,0.88
+106874,Pune,Google Ads,7,4932.0,48,15.6,0.29,0.881
+106877,Hyderabad,Organic,3,3308.0,3,17.6,0.67,0.414
+106878,Delhi NCR,Referral,3,618.0,74,16.7,0.33,0.973
+106887,Mumbai,Organic,6,4445.0,26,18.8,0.33,0.569
+106889,Delhi NCR,Organic,32,14029.0,1,17.2,0.19,0.138
+106891,Bengaluru,Google Ads,22,12216.0,2,15.5,0.09,0.21
+106893,Kolkata,Organic,1,172.0,9,19.4,0.0,0.331
+106894,Mumbai,Organic,7,3491.0,3,15.7,0.0,0.198
+106897,Delhi NCR,Organic,5,1288.0,78,14.4,0.2,0.97
+106902,Mumbai,Referral,43,22050.0,45,16.6,0.21,0.849
+106903,Kolkata,Influencer,1,878.0,72,23.0,1.0,0.991
+106906,Ahmedabad,Influencer,9,4049.0,29,20.5,0.44,0.633
+106915,Delhi NCR,Google Ads,3,1521.0,84,19.9,0.67,0.99
+106916,Chandigarh Tricity,Organic,3,2030.0,26,22.4,0.67,0.716
+106919,Bengaluru,Influencer,1,475.0,41,12.7,0.0,0.866
+106920,Pune,Paid Social,7,4024.0,18,13.5,0.0,0.372
+106924,Chandigarh Tricity,Organic,7,2457.0,88,23.8,0.57,0.99
+106925,Chandigarh Tricity,Organic,6,4099.0,10,21.5,0.5,0.364
+106933,Pune,Google Ads,12,5824.0,1,16.2,0.08,0.187
+106934,Ahmedabad,Influencer,2,962.0,29,18.7,0.5,0.791
+106937,Ahmedabad,Paid Social,12,8111.0,49,17.6,0.33,0.884
+106939,Mumbai,Organic,12,4831.0,63,15.5,0.08,0.913
+106943,Delhi NCR,Organic,3,1014.0,7,17.9,0.33,0.354
+106946,Bengaluru,Paid Social,5,2679.0,6,13.6,0.0,0.268
+106948,Delhi NCR,Organic,2,1409.0,3,11.9,0.0,0.289
+106951,Mumbai,Organic,5,4246.0,7,15.2,0.0,0.276
+106954,Hyderabad,Paid Social,11,4816.0,0,17.8,0.27,0.182
+106959,Kolkata,Organic,9,5566.0,10,16.4,0.11,0.243
+106965,Hyderabad,Paid Social,6,3658.0,26,15.0,0.0,0.442
+106973,Delhi NCR,Organic,4,2375.0,0,15.1,0.0,0.186
+106976,Chennai,Referral,3,841.0,85,14.3,0.0,0.982
+106983,Pune,Influencer,4,2679.0,69,16.3,0.0,0.943
+106987,Chennai,Google Ads,4,1694.0,22,16.1,0.25,0.585
+106990,Mumbai,Organic,2,888.0,55,17.3,0.0,0.879
+106991,Delhi NCR,Paid Social,3,1745.0,11,14.8,0.0,0.321
+106996,Mumbai,Organic,2,738.0,84,16.8,0.0,0.974
+106997,Chennai,Organic,1,318.0,89,24.0,1.0,0.996
+106999,Hyderabad,Organic,2,894.0,11,10.8,0.0,0.315
+107000,Delhi NCR,Google Ads,4,4034.0,25,13.0,0.0,0.548
+107002,Mumbai,Influencer,4,2262.0,5,14.4,0.0,0.22
+107006,Delhi NCR,Google Ads,1,112.0,83,19.2,0.0,0.99
+107008,Bengaluru,Google Ads,4,1724.0,15,13.6,0.0,0.35
+107012,Delhi NCR,Paid Social,4,2149.0,45,16.8,0.0,0.785
+107016,Kolkata,Referral,4,2107.0,21,18.2,0.25,0.483
+107019,Delhi NCR,Google Ads,3,2161.0,71,12.4,0.0,0.957
+107021,Chennai,Paid Social,23,10712.0,22,16.4,0.22,0.46
+107026,Mumbai,Organic,10,5862.0,0,15.9,0.1,0.167
+107029,Ahmedabad,Google Ads,2,474.0,74,22.3,1.0,0.99
+107030,Delhi NCR,Paid Social,2,1553.0,35,15.0,0.0,0.657
+107035,Hyderabad,Google Ads,4,2054.0,4,14.4,0.0,0.235
+107037,Delhi NCR,Influencer,5,1871.0,17,16.4,0.2,0.397
+107042,Bengaluru,Paid Social,1,426.0,47,20.2,1.0,0.939
+107049,Chandigarh Tricity,Paid Social,1,531.0,69,19.3,0.0,0.956
+107052,Mumbai,Influencer,4,2517.0,24,21.4,0.5,0.686
+107053,Pune,Organic,2,1057.0,4,20.1,0.5,0.345
+107054,Mumbai,Google Ads,2,929.0,20,16.9,0.0,0.511
+107055,Mumbai,Paid Social,2,1714.0,19,18.4,0.5,0.613
+107057,Mumbai,Paid Social,3,1738.0,11,17.0,0.33,0.363
+107061,Hyderabad,Google Ads,1,650.0,31,15.4,0.0,0.741
+107064,Delhi NCR,Paid Social,1,323.0,44,35.4,1.0,0.925
+107066,Delhi NCR,Referral,4,4580.0,3,14.6,0.0,0.207
+107071,Mumbai,Google Ads,12,5029.0,65,18.4,0.25,0.945
+107075,Pune,Google Ads,2,631.0,14,13.4,0.0,0.402
+107084,Chennai,Paid Social,12,7750.0,10,14.9,0.0,0.221
+107085,Mumbai,Referral,6,2658.0,40,18.0,0.0,0.669
+107086,Bengaluru,Organic,12,5271.0,56,12.3,0.0,0.874
+107088,Delhi NCR,Referral,4,3216.0,0,16.4,0.25,0.219
+107089,Mumbai,Organic,10,6778.0,6,15.7,0.1,0.155
+107091,Mumbai,Google Ads,34,15696.0,7,16.1,0.12,0.137
+107092,Delhi NCR,Influencer,8,2753.0,8,13.8,0.0,0.222
+107097,Mumbai,Google Ads,9,6049.0,35,15.8,0.22,0.698
+107098,Bengaluru,Paid Social,1,180.0,8,17.8,0.0,0.324
+107099,Bengaluru,Google Ads,8,2816.0,7,15.7,0.38,0.343
+107102,Chennai,Paid Social,4,2179.0,4,17.2,0.5,0.297
+107106,Mumbai,Paid Social,4,1832.0,49,14.8,0.0,0.821
+107110,Kolkata,Organic,7,5584.0,25,16.0,0.29,0.574
+107111,Hyderabad,Google Ads,14,7697.0,22,16.2,0.14,0.495
+107114,Bengaluru,Paid Social,10,4921.0,28,17.5,0.2,0.565
+107123,Delhi NCR,Google Ads,1,235.0,29,18.0,0.0,0.656
+107128,Bengaluru,Referral,5,1096.0,23,15.6,0.0,0.366
+107129,Bengaluru,Organic,14,5099.0,16,15.6,0.07,0.268
+107132,Chennai,Organic,5,2078.0,14,16.0,0.2,0.351
+107133,Mumbai,Paid Social,14,8914.0,21,17.7,0.14,0.312
+107138,Delhi NCR,Influencer,2,1349.0,52,23.9,0.5,0.913
+107142,Bengaluru,Paid Social,2,781.0,0,16.2,0.0,0.201
+107144,Bengaluru,Google Ads,4,2996.0,90,14.3,0.0,0.987
+107146,Chennai,Google Ads,4,3122.0,58,18.1,0.25,0.921
+107148,Mumbai,Organic,1,302.0,27,6.0,0.0,0.633
+107152,Pune,Referral,6,3750.0,71,15.2,0.17,0.959
+107153,Chandigarh Tricity,Organic,7,6431.0,29,22.2,0.29,0.633
+107155,Bengaluru,Organic,4,2401.0,2,12.9,0.0,0.187
+107160,Pune,Paid Social,7,3240.0,5,14.9,0.0,0.164
+107163,Chandigarh Tricity,Google Ads,1,605.0,9,17.1,0.0,0.384
+107166,Bengaluru,Google Ads,13,7018.0,0,16.5,0.23,0.166
+107171,Pune,Influencer,5,1888.0,83,18.7,0.4,0.983
+107172,Kolkata,Paid Social,8,1624.0,56,17.8,0.25,0.885
+107174,Ahmedabad,Paid Social,1,534.0,10,19.1,0.0,0.372
+107180,Hyderabad,Influencer,1,598.0,87,17.9,0.0,0.989
+107182,Hyderabad,Influencer,3,418.0,76,16.0,0.33,0.975
+107183,Pune,Organic,22,15268.0,7,17.2,0.23,0.167
+107187,Hyderabad,Influencer,2,435.0,28,14.4,0.0,0.577
+107188,Bengaluru,Paid Social,1,157.0,31,10.9,0.0,0.77
+107191,Bengaluru,Google Ads,15,4126.0,67,14.8,0.13,0.938
+107193,Delhi NCR,Organic,1,857.0,28,14.1,0.0,0.609
+107194,Kolkata,Paid Social,4,2364.0,41,22.9,0.5,0.805
+107198,Delhi NCR,Organic,3,802.0,9,12.4,0.0,0.297
+107199,Pune,Paid Social,3,876.0,14,14.6,0.0,0.329
+107201,Bengaluru,Google Ads,2,1694.0,86,12.4,0.0,0.982
+107202,Bengaluru,Google Ads,1,119.0,11,36.5,1.0,0.629
+107207,Bengaluru,Referral,5,2045.0,11,16.7,0.2,0.314
+107209,Hyderabad,Paid Social,9,9147.0,52,17.5,0.33,0.892
+107210,Delhi NCR,Paid Social,26,14421.0,8,14.4,0.04,0.133
+107219,Mumbai,Paid Social,2,676.0,82,15.4,0.0,0.976
+107220,Bengaluru,Paid Social,1,155.0,30,12.7,0.0,0.642
+107224,Chandigarh Tricity,Organic,2,1283.0,88,21.2,1.0,0.995
+107225,Chennai,Paid Social,5,1882.0,53,15.8,0.0,0.852
+107228,Delhi NCR,Organic,1,517.0,35,10.5,0.0,0.808
+107232,Delhi NCR,Referral,1,1373.0,12,8.4,0.0,0.399
+107233,Bengaluru,Google Ads,3,593.0,10,16.7,0.33,0.412
+107234,Hyderabad,Organic,2,1116.0,61,15.6,0.5,0.977
+107235,Pune,Paid Social,2,1795.0,73,16.8,0.0,0.964
+107244,Jaipur,Referral,3,1211.0,46,21.4,1.0,0.942
+107246,Bengaluru,Organic,3,2117.0,61,16.5,0.33,0.926
+107250,Delhi NCR,Google Ads,6,5238.0,29,14.5,0.0,0.57
+107253,Bengaluru,Influencer,2,562.0,14,20.4,0.5,0.537
+107256,Hyderabad,Organic,2,1273.0,4,15.6,0.5,0.347
+107259,Delhi NCR,Organic,5,2531.0,73,17.7,0.4,0.966
+107266,Mumbai,Organic,3,2704.0,69,18.3,0.33,0.971
+107267,Pune,Organic,2,1394.0,0,20.2,0.5,0.345
+107278,Mumbai,Google Ads,8,5478.0,1,16.2,0.0,0.165
+107279,Chandigarh Tricity,Paid Social,1,55.0,7,21.6,1.0,0.576
+107280,Ahmedabad,Paid Social,4,1919.0,23,21.5,0.25,0.562
+107283,Delhi NCR,Organic,2,907.0,5,17.2,0.0,0.228
+107285,Mumbai,Organic,4,2783.0,39,18.0,0.25,0.792
+107293,Mumbai,Organic,4,2591.0,77,13.8,0.0,0.962
+107294,Delhi NCR,Organic,10,4570.0,77,13.3,0.1,0.958
+107296,Bengaluru,Influencer,13,4515.0,45,14.9,0.15,0.804
+107300,Pune,Google Ads,21,10816.0,78,16.1,0.14,0.973
+107301,Bengaluru,Google Ads,1,218.0,48,18.7,0.0,0.875
+107302,Bengaluru,Paid Social,1,561.0,18,16.2,0.0,0.452
+107304,Bengaluru,Paid Social,16,11103.0,1,15.8,0.06,0.18
+107305,Pune,Organic,9,4439.0,11,18.0,0.11,0.325
+107306,Delhi NCR,Paid Social,2,2053.0,15,17.5,0.5,0.605
+107307,Mumbai,Google Ads,1,361.0,87,13.1,0.0,0.989
+107315,Ahmedabad,Organic,3,922.0,35,16.6,0.33,0.771
+107317,Hyderabad,Paid Social,5,1734.0,17,17.1,0.2,0.382
+107319,Delhi NCR,Paid Social,1,1515.0,31,19.0,0.0,0.637
+107320,Chandigarh Tricity,Paid Social,1,83.0,67,16.6,0.0,0.959
+107322,Mumbai,Organic,1,1219.0,70,16.2,0.0,0.96
+107328,Pune,Referral,39,21470.0,3,18.0,0.21,0.117
+107329,Chennai,Influencer,1,313.0,17,19.5,0.0,0.47
+107333,Chandigarh Tricity,Referral,1,390.0,33,22.3,1.0,0.888
+107335,Delhi NCR,Google Ads,5,2434.0,17,18.4,0.2,0.422
+107336,Pune,Paid Social,1,110.0,25,18.7,0.0,0.561
+107337,Delhi NCR,Influencer,1,302.0,16,34.1,1.0,0.723
+107341,Chandigarh Tricity,Organic,2,231.0,25,18.6,0.5,0.713
+107346,Mumbai,Paid Social,4,1784.0,59,18.3,0.25,0.911
+107348,Ahmedabad,Organic,34,17397.0,36,19.4,0.41,0.727
+107349,Jaipur,Organic,1,448.0,62,21.2,1.0,0.98
+107353,Ahmedabad,Google Ads,4,1964.0,0,22.0,1.0,0.446
+107355,Chandigarh Tricity,Paid Social,7,8782.0,63,19.6,0.57,0.959
+107356,Hyderabad,Referral,6,2387.0,19,15.5,0.0,0.439
+107358,Delhi NCR,Paid Social,6,2615.0,76,15.0,0.17,0.97
+107360,Delhi NCR,Organic,3,1244.0,59,11.1,0.0,0.914
+107361,Bengaluru,Organic,6,2900.0,81,12.3,0.0,0.973
+107382,Chennai,Paid Social,1,170.0,6,13.1,0.0,0.31
+107385,Pune,Referral,1,90.0,85,18.6,0.0,0.985
+107388,Ahmedabad,Organic,3,2074.0,0,18.3,0.33,0.269
+107396,Hyderabad,Paid Social,1,210.0,74,23.1,1.0,0.99
+107397,Mumbai,Organic,1,390.0,78,20.9,1.0,0.992
+107398,Hyderabad,Google Ads,14,8039.0,18,16.5,0.07,0.45
+107401,Chandigarh Tricity,Paid Social,1,1034.0,50,16.0,0.0,0.906
+107408,Chandigarh Tricity,Organic,1,80.0,90,24.9,1.0,0.997
+107414,Hyderabad,Referral,15,6546.0,9,15.5,0.13,0.233
+107420,Ahmedabad,Google Ads,1,316.0,46,21.7,1.0,0.963
+107424,Chennai,Referral,3,2746.0,69,14.5,0.0,0.972
+107428,Hyderabad,Paid Social,1,273.0,24,16.2,0.0,0.529
+107430,Ahmedabad,Influencer,3,1839.0,69,24.2,0.67,0.981
+107431,Delhi NCR,Referral,13,9882.0,5,14.1,0.08,0.151
+107432,Delhi NCR,Referral,10,5994.0,21,15.4,0.0,0.336
+107434,Delhi NCR,Organic,3,2400.0,3,22.5,0.67,0.342
+107435,Jaipur,Organic,1,621.0,38,21.7,1.0,0.916
+107438,Bengaluru,Organic,4,2014.0,2,16.6,0.0,0.186
+107440,Jaipur,Referral,2,885.0,54,23.4,1.0,0.967
+107448,Delhi NCR,Google Ads,10,4941.0,62,13.6,0.0,0.93
+107449,Hyderabad,Influencer,10,3971.0,21,13.8,0.1,0.494
+107458,Bengaluru,Paid Social,2,560.0,81,16.8,0.0,0.976
+107461,Chandigarh Tricity,Paid Social,2,2336.0,1,21.2,0.5,0.356
+107462,Delhi NCR,Referral,3,1381.0,36,13.6,0.33,0.764
+107465,Ahmedabad,Influencer,1,68.0,16,20.7,1.0,0.768
+107466,Bengaluru,Referral,12,3992.0,11,14.0,0.08,0.208
+107468,Chennai,Influencer,3,3648.0,77,16.0,0.33,0.983
+107472,Bengaluru,Influencer,19,11585.0,10,15.6,0.05,0.299
+107480,Delhi NCR,Referral,2,935.0,84,20.4,0.5,0.986
+107481,Ahmedabad,Paid Social,8,5148.0,82,20.6,0.38,0.986
+107482,Hyderabad,Referral,11,4134.0,15,18.5,0.18,0.291
+107483,Bengaluru,Organic,1,438.0,16,10.6,0.0,0.438
+107489,Bengaluru,Influencer,8,6217.0,52,14.6,0.12,0.874
+107490,Ahmedabad,Referral,2,1598.0,7,18.3,0.0,0.333
+107493,Pune,Paid Social,7,4445.0,40,15.4,0.0,0.711
+107501,Mumbai,Influencer,6,1858.0,13,17.2,0.0,0.309
+107504,Chennai,Google Ads,5,2091.0,4,21.6,0.6,0.372
+107506,Bengaluru,Influencer,13,6119.0,30,15.0,0.15,0.57
+107511,Hyderabad,Influencer,2,1376.0,27,13.6,0.0,0.64
+107512,Bengaluru,Paid Social,18,14467.0,3,13.9,0.06,0.184
+107515,Delhi NCR,Organic,1,518.0,57,12.9,0.0,0.946
+107516,Hyderabad,Influencer,1,359.0,87,18.7,0.0,0.988
+107517,Hyderabad,Organic,3,2047.0,24,14.2,0.0,0.577
+107520,Pune,Influencer,2,269.0,1,19.8,0.5,0.426
+107521,Jaipur,Google Ads,9,5172.0,68,19.4,0.33,0.97
+107525,Bengaluru,Google Ads,7,5491.0,11,11.9,0.14,0.313
+107532,Pune,Organic,2,694.0,14,14.3,0.0,0.373
+107536,Jaipur,Paid Social,3,1684.0,19,19.1,0.33,0.569
+107543,Hyderabad,Paid Social,2,538.0,85,17.1,0.0,0.976
+107545,Mumbai,Organic,3,1148.0,2,13.8,0.33,0.251
+107546,Bengaluru,Paid Social,4,1729.0,16,16.4,0.5,0.508
+107547,Chennai,Referral,1,235.0,16,16.4,0.0,0.39
+107556,Pune,Paid Social,3,1186.0,9,13.8,0.0,0.25
+107557,Chandigarh Tricity,Google Ads,3,1991.0,56,18.1,0.33,0.943
+107561,Hyderabad,Influencer,10,3903.0,3,16.8,0.3,0.246
+107566,Delhi NCR,Influencer,2,1270.0,36,15.6,0.5,0.842
+107567,Jaipur,Organic,2,986.0,46,21.0,0.5,0.903
+107575,Jaipur,Paid Social,1,384.0,66,17.3,0.0,0.957
+107578,Pune,Google Ads,10,6783.0,88,15.5,0.2,0.987
+107579,Hyderabad,Influencer,1,797.0,84,26.6,1.0,0.995
+107581,Delhi NCR,Google Ads,2,759.0,63,14.8,0.5,0.972
+107584,Mumbai,Organic,10,5031.0,13,16.6,0.2,0.359
+107586,Bengaluru,Paid Social,2,919.0,52,16.1,0.0,0.842
+107588,Bengaluru,Organic,4,3484.0,77,14.2,0.0,0.96
+107593,Delhi NCR,Google Ads,1,169.0,40,14.3,0.0,0.796
+107595,Pune,Paid Social,8,5187.0,42,16.9,0.25,0.762
+107596,Bengaluru,Organic,26,17096.0,21,14.2,0.08,0.427
+107597,Bengaluru,Influencer,2,1931.0,24,12.3,0.0,0.595
+107599,Hyderabad,Paid Social,6,3231.0,90,14.3,0.0,0.982
+107600,Chandigarh Tricity,Google Ads,5,6391.0,7,19.3,0.4,0.456
+107608,Jaipur,Organic,1,435.0,10,24.9,1.0,0.66
+107609,Mumbai,Paid Social,12,7298.0,78,16.3,0.17,0.959
+107619,Chandigarh Tricity,Organic,1,239.0,43,24.6,1.0,0.934
+107635,Bengaluru,Paid Social,12,5834.0,84,15.6,0.17,0.972
+107637,Delhi NCR,Google Ads,1,802.0,36,19.1,0.0,0.788
+107642,Mumbai,Influencer,3,1779.0,14,14.4,0.0,0.4
+107643,Chennai,Referral,3,2584.0,19,15.4,0.0,0.426
+107645,Bengaluru,Organic,4,1836.0,9,13.0,0.0,0.241
+107647,Hyderabad,Influencer,1,1208.0,21,20.9,1.0,0.793
+107658,Mumbai,Influencer,1,529.0,24,19.9,0.0,0.584
+107664,Delhi NCR,Organic,5,1811.0,6,14.1,0.0,0.2
+107665,Bengaluru,Organic,7,4916.0,82,14.5,0.0,0.979
+107666,Chennai,Organic,14,8177.0,72,20.4,0.36,0.963
+107669,Mumbai,Google Ads,6,1280.0,73,15.2,0.17,0.957
+107677,Bengaluru,Organic,2,645.0,0,16.4,0.5,0.293
+107679,Bengaluru,Influencer,1,1201.0,83,12.2,0.0,0.984
+107681,Hyderabad,Influencer,2,232.0,7,12.1,0.0,0.33
+107684,Bengaluru,Referral,27,11457.0,22,15.9,0.11,0.331
+107692,Pune,Paid Social,1,676.0,89,19.8,0.0,0.987
+107695,Mumbai,Organic,8,3112.0,38,16.9,0.12,0.698
+107705,Chennai,Organic,28,12928.0,9,17.1,0.11,0.189
+107706,Delhi NCR,Google Ads,8,7810.0,30,14.8,0.12,0.649
+107710,Chandigarh Tricity,Organic,1,1145.0,69,18.6,0.0,0.967
+107712,Pune,Paid Social,15,7159.0,65,15.9,0.13,0.925
+107713,Delhi NCR,Google Ads,1,69.0,68,11.1,0.0,0.963
+107715,Delhi NCR,Organic,13,11367.0,11,17.1,0.23,0.315
+107719,Bengaluru,Organic,6,1994.0,45,13.9,0.17,0.778
+107720,Hyderabad,Google Ads,2,1220.0,13,14.8,0.0,0.446
+107723,Delhi NCR,Google Ads,1,348.0,29,16.0,0.0,0.672
+107729,Mumbai,Organic,4,2658.0,16,15.2,0.25,0.494
+107730,Hyderabad,Paid Social,3,422.0,33,14.3,0.0,0.662
+107733,Chennai,Organic,1,161.0,68,15.7,0.0,0.951
+107738,Bengaluru,Paid Social,2,182.0,67,17.6,0.5,0.96
+107739,Mumbai,Google Ads,3,1950.0,5,18.5,0.33,0.335
+107742,Chennai,Influencer,2,750.0,39,22.4,0.5,0.847
+107745,Mumbai,Google Ads,1,1166.0,8,12.8,0.0,0.315
+107747,Hyderabad,Google Ads,3,1040.0,13,15.9,0.0,0.435
+107752,Jaipur,Paid Social,2,966.0,82,16.8,0.0,0.974
+107761,Hyderabad,Influencer,1,290.0,28,12.4,0.0,0.657
+107763,Chennai,Paid Social,1,854.0,58,17.5,0.0,0.91
+107774,Chandigarh Tricity,Influencer,2,1700.0,84,21.6,0.5,0.989
+107779,Bengaluru,Organic,9,7017.0,72,15.0,0.11,0.961
+107783,Chandigarh Tricity,Paid Social,1,598.0,3,20.7,1.0,0.579
+107791,Hyderabad,Influencer,9,4353.0,2,14.9,0.0,0.177
+107794,Jaipur,Google Ads,3,953.0,76,20.2,0.67,0.986
+107799,Pune,Referral,2,1521.0,6,22.0,0.5,0.4
+107805,Delhi NCR,Influencer,2,554.0,4,19.2,0.5,0.378
+107812,Mumbai,Referral,3,1995.0,9,20.9,0.33,0.366
+107813,Pune,Referral,43,19322.0,4,17.5,0.16,0.123
+107814,Delhi NCR,Google Ads,3,1950.0,51,13.3,0.0,0.863
+107816,Ahmedabad,Referral,7,5058.0,0,20.9,0.57,0.259
+107821,Delhi NCR,Influencer,17,7142.0,61,14.1,0.12,0.906
+107829,Chandigarh Tricity,Organic,3,1168.0,2,19.2,0.33,0.332
+107832,Mumbai,Organic,14,4394.0,0,14.8,0.07,0.117
+107833,Mumbai,Referral,4,1818.0,79,16.3,0.0,0.97
+107837,Kolkata,Referral,1,525.0,85,22.6,1.0,0.995
+107840,Bengaluru,Google Ads,1,246.0,27,15.0,0.0,0.621
+107841,Bengaluru,Paid Social,12,5538.0,19,14.3,0.0,0.366
+107845,Kolkata,Google Ads,9,3759.0,11,21.2,0.44,0.392
+107847,Delhi NCR,Organic,1,205.0,15,20.2,1.0,0.642
+107850,Kolkata,Influencer,1,1295.0,47,22.1,1.0,0.955
+107853,Delhi NCR,Organic,4,961.0,18,13.7,0.25,0.459
+107856,Bengaluru,Paid Social,3,3085.0,22,12.4,0.0,0.486
+107859,Chandigarh Tricity,Organic,7,3979.0,90,19.6,0.43,0.991
+107865,Delhi NCR,Organic,9,4895.0,13,14.7,0.11,0.333
+107868,Delhi NCR,Organic,7,6872.0,66,14.5,0.14,0.943
+107881,Hyderabad,Organic,1,552.0,26,24.0,1.0,0.816
+107882,Ahmedabad,Google Ads,1,429.0,79,23.9,1.0,0.994
+107883,Delhi NCR,Organic,2,816.0,19,14.2,0.0,0.463
+107885,Delhi NCR,Paid Social,6,2854.0,3,15.9,0.17,0.175
+107886,Hyderabad,Google Ads,4,2840.0,8,15.5,0.25,0.411
+107888,Jaipur,Paid Social,5,1667.0,83,22.9,0.4,0.982
+107890,Delhi NCR,Influencer,10,5139.0,1,15.2,0.1,0.184
+107892,Kolkata,Influencer,1,461.0,11,19.0,0.0,0.372
+107894,Chennai,Google Ads,2,2458.0,51,22.2,0.5,0.935
+107908,Bengaluru,Referral,3,1182.0,11,14.1,0.0,0.284
+107912,Chennai,Organic,2,1480.0,12,14.0,0.0,0.363
+107916,Hyderabad,Referral,7,3346.0,0,15.7,0.14,0.198
+107922,Pune,Influencer,2,297.0,11,15.1,0.0,0.327
+107923,Chennai,Influencer,7,4814.0,35,15.0,0.0,0.655
+107928,Chandigarh Tricity,Influencer,5,1497.0,6,21.3,0.2,0.348
+107930,Mumbai,Google Ads,3,1646.0,48,19.0,0.0,0.83
+107934,Pune,Organic,2,1317.0,63,21.8,0.5,0.955
+107937,Ahmedabad,Organic,1,180.0,22,15.9,0.0,0.57
+107938,Kolkata,Google Ads,1,2019.0,52,19.8,0.0,0.896
+107943,Bengaluru,Organic,5,1721.0,0,15.8,0.4,0.236
+107945,Delhi NCR,Referral,37,23565.0,0,15.6,0.08,0.1
+107946,Hyderabad,Organic,2,1403.0,28,20.9,0.5,0.726
+107948,Hyderabad,Referral,28,11931.0,18,15.2,0.07,0.362
+107952,Delhi NCR,Paid Social,2,1425.0,70,19.7,0.5,0.989
+107953,Mumbai,Organic,42,25692.0,3,16.2,0.14,0.16
+107965,Mumbai,Google Ads,2,654.0,70,18.6,0.5,0.975
+107968,Bengaluru,Organic,3,1606.0,27,14.4,0.33,0.646
+107970,Pune,Organic,1,184.0,79,20.4,1.0,0.993
+107971,Mumbai,Google Ads,9,3952.0,11,15.3,0.0,0.216
+107980,Delhi NCR,Referral,7,3335.0,56,13.7,0.14,0.885
+107982,Hyderabad,Influencer,7,3812.0,48,20.4,0.43,0.868
+107983,Pune,Organic,1,266.0,18,10.2,0.0,0.429
+107984,Delhi NCR,Influencer,4,1485.0,64,13.8,0.0,0.937
+107985,Chennai,Organic,11,7160.0,77,16.8,0.27,0.97
+107989,Pune,Paid Social,2,522.0,76,16.7,0.0,0.987
+107995,Chandigarh Tricity,Paid Social,3,1178.0,83,19.7,0.33,0.983
+107997,Hyderabad,Paid Social,19,11229.0,0,15.4,0.05,0.141
+107999,Pune,Influencer,10,4317.0,44,19.3,0.3,0.855
+108004,Hyderabad,Influencer,7,4071.0,14,15.9,0.14,0.383
+108012,Pune,Google Ads,3,2058.0,14,17.3,0.33,0.488
+108015,Pune,Paid Social,7,3545.0,28,16.3,0.14,0.566
+108019,Delhi NCR,Paid Social,2,1448.0,40,18.8,0.5,0.846
+108026,Bengaluru,Referral,25,13921.0,6,14.2,0.08,0.164
+108027,Bengaluru,Organic,2,1033.0,17,17.8,0.5,0.564
+108034,Hyderabad,Google Ads,14,8015.0,88,14.9,0.07,0.981
+108041,Chennai,Referral,5,1700.0,61,16.1,0.0,0.898
+108042,Kolkata,Paid Social,1,694.0,16,15.9,0.0,0.467
+108045,Pune,Google Ads,1,205.0,36,16.2,0.0,0.753
+108046,Delhi NCR,Influencer,3,630.0,64,14.9,0.0,0.925
+108048,Kolkata,Google Ads,2,1974.0,11,22.9,1.0,0.677
+108049,Chandigarh Tricity,Influencer,1,175.0,14,23.4,1.0,0.723
+108059,Delhi NCR,Google Ads,1,229.0,67,21.5,1.0,0.989
+108060,Kolkata,Google Ads,4,1964.0,18,18.9,0.25,0.516
+108070,Mumbai,Paid Social,20,13923.0,88,17.7,0.15,0.987
+108072,Delhi NCR,Google Ads,1,511.0,5,9.1,0.0,0.302
+108080,Delhi NCR,Paid Social,13,8432.0,2,15.2,0.08,0.149
+108085,Delhi NCR,Referral,14,5042.0,13,16.9,0.07,0.27
+108089,Chennai,Referral,5,1947.0,40,14.8,0.0,0.754
+108094,Delhi NCR,Influencer,5,1899.0,57,16.4,0.0,0.887
+108101,Bengaluru,Influencer,22,8688.0,53,14.3,0.09,0.843
+108103,Bengaluru,Paid Social,3,2733.0,9,19.6,0.33,0.338
+108104,Kolkata,Google Ads,2,648.0,7,16.2,0.0,0.29
+108109,Chennai,Influencer,5,2295.0,28,16.0,0.2,0.631
+108112,Pune,Influencer,7,3414.0,51,17.3,0.29,0.868
+108115,Hyderabad,Referral,2,619.0,83,17.2,0.0,0.979
+108119,Kolkata,Organic,9,5837.0,40,16.3,0.33,0.751
+108121,Bengaluru,Paid Social,1,435.0,25,13.8,0.0,0.572
+108122,Bengaluru,Referral,2,935.0,39,11.8,0.0,0.75
+108124,Mumbai,Organic,6,1334.0,2,15.0,0.0,0.193
+108126,Hyderabad,Paid Social,6,1743.0,13,14.5,0.0,0.253
+108128,Bengaluru,Influencer,13,6290.0,55,14.0,0.0,0.879
+108130,Mumbai,Organic,9,3487.0,12,17.0,0.0,0.208
+108135,Delhi NCR,Google Ads,5,1951.0,13,17.7,0.2,0.357
+108138,Pune,Paid Social,10,4083.0,2,15.7,0.1,0.177
+108140,Pune,Paid Social,2,3092.0,12,17.3,0.5,0.481
+108143,Kolkata,Referral,11,4406.0,16,16.7,0.18,0.24
+108144,Chandigarh Tricity,Organic,2,1088.0,82,28.0,1.0,0.992
+108146,Hyderabad,Organic,15,7517.0,41,17.3,0.4,0.752
+108150,Chennai,Google Ads,7,3594.0,78,16.4,0.14,0.976
+108152,Hyderabad,Referral,23,10343.0,81,14.5,0.04,0.972
+108154,Bengaluru,Paid Social,9,4644.0,88,14.5,0.22,0.987
+108155,Kolkata,Organic,5,3243.0,22,19.0,0.4,0.516
+108156,Chandigarh Tricity,Influencer,2,901.0,24,14.6,0.0,0.554
+108159,Chennai,Organic,2,1504.0,67,18.1,0.5,0.972
+108161,Hyderabad,Google Ads,7,3196.0,19,17.2,0.14,0.409
+108162,Mumbai,Influencer,5,2495.0,27,17.1,0.2,0.59
+108166,Delhi NCR,Google Ads,4,1091.0,36,16.8,0.0,0.68
+108167,Bengaluru,Paid Social,1,210.0,50,25.1,1.0,0.959
+108168,Delhi NCR,Google Ads,11,6424.0,7,17.9,0.27,0.275
+108170,Kolkata,Organic,10,5093.0,12,19.5,0.4,0.277
+108171,Hyderabad,Influencer,3,2466.0,22,15.0,0.0,0.505
+108174,Ahmedabad,Organic,1,634.0,46,20.0,0.0,0.872
+108191,Chandigarh Tricity,Influencer,5,1650.0,53,20.8,0.6,0.933
+108195,Jaipur,Referral,18,12146.0,9,20.5,0.5,0.305
+108196,Delhi NCR,Paid Social,2,911.0,65,20.8,0.5,0.958
+108197,Hyderabad,Organic,22,13282.0,19,15.6,0.09,0.351
+108202,Pune,Organic,2,621.0,41,19.2,0.5,0.862
+108210,Kolkata,Paid Social,1,407.0,44,15.3,0.0,0.841
+108214,Kolkata,Organic,2,1337.0,89,15.1,0.0,0.988
+108215,Jaipur,Google Ads,2,464.0,7,20.4,0.5,0.496
+108218,Delhi NCR,Organic,1,139.0,20,11.7,0.0,0.494
+108229,Hyderabad,Google Ads,1,704.0,9,18.5,0.0,0.401
+108232,Delhi NCR,Referral,11,5155.0,11,16.4,0.09,0.216
+108248,Pune,Google Ads,1,200.0,84,18.7,0.0,0.987
+108249,Delhi NCR,Organic,9,3793.0,9,15.7,0.11,0.272
+108254,Kolkata,Paid Social,1,396.0,19,16.3,0.0,0.437
+108258,Chennai,Influencer,15,6161.0,11,16.4,0.13,0.186
+108265,Delhi NCR,Google Ads,11,5867.0,2,15.0,0.09,0.154
+108266,Bengaluru,Google Ads,5,2953.0,74,17.0,0.4,0.975
+108268,Kolkata,Influencer,2,1454.0,67,16.2,0.0,0.949
+108272,Mumbai,Paid Social,3,1633.0,68,16.6,0.0,0.932
+108274,Mumbai,Paid Social,2,383.0,47,17.6,0.0,0.792
+108276,Mumbai,Paid Social,4,3172.0,5,16.3,0.25,0.226
+108279,Mumbai,Influencer,4,1057.0,27,16.0,0.25,0.631
+108281,Bengaluru,Referral,4,1618.0,81,14.2,0.0,0.974
+108282,Hyderabad,Google Ads,2,696.0,1,20.2,0.5,0.392
+108283,Bengaluru,Referral,6,2913.0,1,14.7,0.0,0.173
+108286,Mumbai,Organic,4,1698.0,0,17.1,0.0,0.146
+108290,Mumbai,Influencer,5,4251.0,33,20.5,0.6,0.786
+108291,Mumbai,Referral,6,3688.0,83,17.7,0.17,0.98
+108292,Chennai,Referral,8,2278.0,16,16.0,0.12,0.32
+108294,Mumbai,Paid Social,6,4522.0,30,17.1,0.33,0.657
+108306,Delhi NCR,Google Ads,9,3630.0,5,16.4,0.0,0.209
+108309,Chennai,Organic,2,703.0,48,13.9,0.0,0.913
+108315,Delhi NCR,Influencer,7,3052.0,18,16.6,0.14,0.404
+108317,Mumbai,Paid Social,1,196.0,18,15.9,0.0,0.454
+108320,Mumbai,Influencer,10,5835.0,90,15.7,0.1,0.986
+108321,Mumbai,Organic,1,814.0,71,17.6,0.0,0.966
+108325,Hyderabad,Google Ads,3,2672.0,4,16.0,0.0,0.267
+108328,Chennai,Referral,5,1805.0,2,15.6,0.0,0.2
+108330,Mumbai,Google Ads,8,4180.0,13,14.0,0.0,0.337
+108336,Chandigarh Tricity,Paid Social,2,712.0,70,21.0,0.5,0.97
+108339,Delhi NCR,Influencer,1,193.0,23,15.6,0.0,0.536
+108340,Bengaluru,Influencer,1,805.0,70,12.8,0.0,0.974
+108343,Ahmedabad,Influencer,2,574.0,40,14.8,0.0,0.793
+108345,Pune,Organic,4,1900.0,8,16.9,0.25,0.31
+108351,Chennai,Referral,1,637.0,5,19.4,0.0,0.27
+108352,Bengaluru,Organic,11,9294.0,6,16.2,0.0,0.167
+108355,Mumbai,Influencer,51,29806.0,4,15.6,0.08,0.157
+108358,Delhi NCR,Paid Social,1,1071.0,42,13.7,0.0,0.767
+108361,Ahmedabad,Organic,18,8817.0,2,18.8,0.33,0.235
+108367,Bengaluru,Paid Social,6,2374.0,9,14.3,0.17,0.308
+108368,Mumbai,Influencer,4,1966.0,61,14.8,0.0,0.917
+108373,Hyderabad,Google Ads,1,138.0,8,22.4,1.0,0.621
+108376,Mumbai,Paid Social,7,2350.0,55,17.5,0.43,0.91
+108378,Chandigarh Tricity,Google Ads,4,2272.0,14,23.8,0.5,0.569
+108380,Jaipur,Organic,2,898.0,3,23.7,1.0,0.457
+108381,Chandigarh Tricity,Google Ads,6,2831.0,17,19.4,0.5,0.557
+108385,Kolkata,Google Ads,1,1578.0,9,19.5,0.0,0.364
+108386,Bengaluru,Influencer,2,1650.0,1,19.8,0.5,0.381
+108395,Delhi NCR,Paid Social,5,1889.0,36,13.9,0.0,0.635
+108399,Chandigarh Tricity,Influencer,4,1431.0,69,17.2,0.0,0.947
+108410,Bengaluru,Influencer,1,328.0,59,16.4,0.0,0.931
+108411,Delhi NCR,Organic,9,3001.0,7,16.1,0.22,0.25
+108412,Bengaluru,Organic,1,522.0,5,10.1,0.0,0.281
+108418,Ahmedabad,Influencer,1,48.0,16,17.7,0.0,0.511
+108423,Jaipur,Google Ads,2,1180.0,11,14.4,0.0,0.48
+108425,Chandigarh Tricity,Paid Social,1,597.0,23,19.2,0.0,0.576
+108428,Mumbai,Influencer,4,2612.0,14,16.0,0.0,0.406
+108429,Kolkata,Referral,1,206.0,22,24.7,1.0,0.782
+108438,Pune,Referral,5,2525.0,69,15.4,0.0,0.942
+108445,Bengaluru,Influencer,2,1009.0,14,13.9,0.0,0.366
+108449,Bengaluru,Paid Social,4,2521.0,63,13.1,0.0,0.902
+108450,Delhi NCR,Influencer,2,461.0,7,14.8,0.0,0.287
+108451,Delhi NCR,Organic,5,4271.0,86,14.9,0.2,0.984
+108453,Kolkata,Influencer,3,2032.0,21,18.2,0.33,0.579
+108457,Hyderabad,Paid Social,5,1517.0,20,15.5,0.0,0.406
+108458,Delhi NCR,Referral,9,3935.0,7,15.7,0.0,0.251
+108468,Mumbai,Organic,5,1751.0,73,16.4,0.0,0.951
+108469,Chennai,Referral,36,16370.0,2,17.0,0.17,0.141
+108470,Chennai,Organic,1,174.0,11,16.9,0.0,0.35
+108471,Chennai,Paid Social,3,635.0,31,18.1,0.0,0.636
+108472,Bengaluru,Organic,18,9709.0,2,14.4,0.06,0.178
+108473,Mumbai,Google Ads,2,1099.0,82,16.2,0.5,0.986
+108477,Mumbai,Influencer,1,178.0,87,21.7,1.0,0.996
+108479,Mumbai,Referral,1,1172.0,3,20.9,1.0,0.531
+108493,Hyderabad,Organic,6,2890.0,0,16.9,0.17,0.168
+108494,Bengaluru,Influencer,1,1925.0,78,17.1,0.0,0.978
+108495,Pune,Google Ads,1,188.0,79,9.1,0.0,0.979
+108497,Chennai,Organic,11,4102.0,9,17.7,0.36,0.271
+108506,Mumbai,Paid Social,3,2072.0,84,13.1,0.0,0.974
+108508,Bengaluru,Influencer,9,3276.0,53,15.0,0.0,0.826
+108509,Pune,Organic,4,1766.0,8,12.3,0.0,0.269
+108510,Delhi NCR,Paid Social,2,1654.0,14,18.0,0.0,0.335
+108514,Mumbai,Paid Social,9,3408.0,15,15.0,0.0,0.289
+108516,Bengaluru,Paid Social,2,459.0,14,23.7,0.5,0.475
+108519,Jaipur,Referral,1,364.0,73,22.1,1.0,0.99
+108523,Delhi NCR,Paid Social,4,935.0,10,19.8,0.25,0.284
+108524,Bengaluru,Influencer,5,2516.0,83,15.9,0.0,0.98
+108527,Chandigarh Tricity,Paid Social,1,263.0,78,14.1,0.0,0.979
+108533,Delhi NCR,Paid Social,1,1209.0,19,10.9,0.0,0.496
+108534,Delhi NCR,Paid Social,10,4357.0,4,19.0,0.3,0.178
+108535,Bengaluru,Paid Social,9,3062.0,52,15.2,0.11,0.845
+108546,Mumbai,Referral,8,3304.0,12,16.2,0.12,0.28
+108550,Chennai,Paid Social,13,10935.0,6,16.3,0.23,0.274
+108553,Hyderabad,Google Ads,1,984.0,2,14.0,0.0,0.29
+108554,Chennai,Google Ads,9,2666.0,6,17.9,0.11,0.219
+108560,Mumbai,Referral,3,1787.0,5,15.2,0.0,0.26
+108561,Delhi NCR,Referral,15,9499.0,42,14.8,0.07,0.756
+108563,Bengaluru,Organic,26,15321.0,0,15.0,0.15,0.139
+108564,Bengaluru,Paid Social,5,3008.0,38,17.3,0.2,0.766
+108568,Mumbai,Referral,4,2649.0,8,13.3,0.0,0.254
+108574,Bengaluru,Organic,8,3079.0,39,15.9,0.12,0.733
+108575,Chennai,Organic,1,751.0,9,19.6,0.0,0.318
+108576,Ahmedabad,Organic,2,784.0,78,20.1,0.5,0.985
+108577,Mumbai,Paid Social,2,712.0,13,12.4,0.0,0.366
+108580,Delhi NCR,Influencer,5,2311.0,5,15.6,0.0,0.228
+108581,Chennai,Influencer,10,5872.0,8,16.7,0.3,0.323
+108582,Jaipur,Paid Social,17,7160.0,4,21.1,0.65,0.32
+108585,Delhi NCR,Organic,34,20210.0,18,15.5,0.12,0.359
+108586,Jaipur,Paid Social,9,4054.0,26,18.5,0.22,0.57
+108593,Kolkata,Referral,9,2108.0,36,20.7,0.22,0.694
+108600,Delhi NCR,Paid Social,1,497.0,68,14.7,0.0,0.955
+108602,Mumbai,Paid Social,33,20678.0,7,15.5,0.03,0.165
+108603,Pune,Paid Social,1,439.0,15,13.9,0.0,0.404
+108610,Mumbai,Organic,11,6656.0,63,17.9,0.18,0.93
+108611,Hyderabad,Paid Social,1,1511.0,77,11.5,0.0,0.982
+108612,Mumbai,Paid Social,1,1152.0,7,11.7,0.0,0.353
+108613,Mumbai,Google Ads,2,733.0,31,18.4,0.5,0.782
+108614,Pune,Influencer,9,6029.0,6,17.4,0.11,0.203
+108615,Kolkata,Referral,1,4353.0,46,20.3,1.0,0.963
+108617,Bengaluru,Organic,3,1167.0,13,12.0,0.0,0.344
+108619,Kolkata,Organic,1,430.0,21,16.8,0.0,0.533
+108621,Bengaluru,Referral,3,1492.0,3,14.9,0.0,0.208
+108622,Hyderabad,Google Ads,10,4293.0,6,13.2,0.0,0.19
+108624,Mumbai,Referral,5,3126.0,14,14.8,0.0,0.339
+108625,Mumbai,Paid Social,14,9139.0,7,16.8,0.07,0.165
+108628,Chennai,Google Ads,14,8375.0,24,15.7,0.0,0.498
+108630,Delhi NCR,Google Ads,2,1341.0,81,14.3,0.0,0.978
+108640,Hyderabad,Organic,1,158.0,23,19.6,0.0,0.535
+108641,Delhi NCR,Referral,7,3600.0,46,14.4,0.0,0.779
+108644,Bengaluru,Organic,7,5911.0,14,13.4,0.0,0.407
+108648,Mumbai,Influencer,2,1173.0,47,21.0,1.0,0.952
+108653,Hyderabad,Paid Social,6,1882.0,9,14.6,0.0,0.262
+108654,Mumbai,Organic,5,4740.0,22,17.6,0.2,0.551
+108656,Mumbai,Google Ads,16,7514.0,35,15.2,0.19,0.642
+108661,Mumbai,Influencer,3,2399.0,74,22.4,0.67,0.982
+108662,Delhi NCR,Organic,1,52.0,4,15.4,0.0,0.225
+108665,Delhi NCR,Organic,2,980.0,21,12.2,0.0,0.472
+108666,Kolkata,Paid Social,3,1167.0,70,25.0,0.67,0.969
+108675,Pune,Organic,4,1745.0,40,14.8,0.0,0.699
+108678,Bengaluru,Google Ads,5,2478.0,3,16.7,0.2,0.24
+108689,Pune,Google Ads,1,220.0,50,20.1,1.0,0.965
+108690,Mumbai,Referral,8,4639.0,35,16.1,0.25,0.703
+108691,Hyderabad,Paid Social,1,1071.0,69,11.8,0.0,0.961
+108695,Hyderabad,Referral,55,28393.0,3,15.0,0.05,0.145
+108699,Hyderabad,Influencer,16,11025.0,41,16.4,0.19,0.762
+108700,Pune,Organic,3,1350.0,16,19.5,0.33,0.454
+108713,Chandigarh Tricity,Paid Social,1,110.0,49,20.3,1.0,0.955
+108715,Delhi NCR,Referral,1,354.0,78,16.7,0.0,0.98
+108716,Kolkata,Referral,4,2196.0,26,14.4,0.0,0.509
+108717,Mumbai,Paid Social,1,870.0,10,9.4,0.0,0.408
+108719,Chennai,Google Ads,6,3012.0,54,13.9,0.17,0.904
+108723,Pune,Organic,1,542.0,4,16.5,0.0,0.264
+108727,Mumbai,Google Ads,5,3201.0,42,14.8,0.0,0.757
+108728,Pune,Organic,1,429.0,7,17.8,0.0,0.265
+108730,Chennai,Organic,4,8054.0,2,20.5,0.25,0.284
+108734,Chennai,Organic,10,5100.0,1,17.9,0.2,0.119
+108735,Kolkata,Referral,5,2088.0,10,19.4,0.4,0.383
+108739,Jaipur,Google Ads,1,3576.0,37,24.3,1.0,0.933
+108744,Bengaluru,Influencer,4,1610.0,10,10.4,0.0,0.296
+108745,Delhi NCR,Influencer,2,605.0,46,12.4,0.0,0.858
+108747,Mumbai,Organic,10,5379.0,41,18.8,0.3,0.785
+108748,Mumbai,Referral,28,16151.0,0,14.3,0.07,0.116
+108749,Ahmedabad,Google Ads,1,963.0,30,23.1,1.0,0.887
+108751,Hyderabad,Organic,4,2320.0,8,15.4,0.0,0.261
+108754,Bengaluru,Paid Social,5,2250.0,59,15.9,0.0,0.884
+108755,Delhi NCR,Paid Social,4,1955.0,45,14.2,0.0,0.765
+108757,Chandigarh Tricity,Organic,3,1800.0,13,17.6,0.33,0.46
+108758,Hyderabad,Organic,5,3007.0,18,15.6,0.0,0.346
+108759,Bengaluru,Influencer,7,3719.0,35,12.4,0.0,0.652
+108761,Pune,Paid Social,9,2992.0,21,16.8,0.11,0.456
+108768,Hyderabad,Organic,4,1213.0,20,11.8,0.0,0.423
+108770,Chennai,Organic,13,8669.0,19,19.8,0.38,0.403
+108774,Chennai,Organic,1,1319.0,3,17.7,0.0,0.262
+108777,Mumbai,Paid Social,2,429.0,9,18.5,0.5,0.411
+108781,Hyderabad,Google Ads,2,952.0,29,11.4,0.0,0.631
+108786,Delhi NCR,Influencer,4,1446.0,12,13.4,0.0,0.345
+108788,Hyderabad,Paid Social,5,3166.0,57,15.6,0.0,0.886
+108790,Hyderabad,Paid Social,8,3683.0,34,14.4,0.0,0.575
+108794,Pune,Google Ads,3,1274.0,80,16.8,0.0,0.973
+108801,Hyderabad,Google Ads,1,978.0,84,18.3,0.0,0.987
+108802,Bengaluru,Organic,4,2209.0,87,12.0,0.0,0.98
+108808,Chennai,Organic,1,354.0,68,13.6,0.0,0.958
+108809,Bengaluru,Google Ads,2,1054.0,32,14.0,0.0,0.7
+108811,Bengaluru,Organic,26,21032.0,25,14.4,0.0,0.318
+108817,Bengaluru,Influencer,4,2178.0,15,14.4,0.0,0.42
+108822,Bengaluru,Paid Social,7,5990.0,2,16.5,0.14,0.178
+108823,Delhi NCR,Referral,1,668.0,40,20.3,1.0,0.923
+108825,Jaipur,Google Ads,1,706.0,4,23.9,1.0,0.634
+108828,Bengaluru,Referral,10,7935.0,39,16.0,0.1,0.716
+108829,Delhi NCR,Google Ads,1,244.0,73,19.3,0.0,0.972
+108830,Jaipur,Paid Social,1,169.0,68,12.7,0.0,0.958
+108831,Bengaluru,Google Ads,27,17158.0,74,14.4,0.07,0.961
+108832,Bengaluru,Organic,8,8610.0,1,14.5,0.12,0.192
+108834,Hyderabad,Paid Social,5,3258.0,5,11.0,0.0,0.215
+108836,Pune,Google Ads,2,875.0,65,26.2,0.5,0.962
+108846,Jaipur,Paid Social,7,2811.0,1,21.3,0.71,0.291
+108847,Mumbai,Referral,3,531.0,0,17.3,0.0,0.19
+108853,Hyderabad,Organic,5,6627.0,77,14.2,0.0,0.97
+108859,Hyderabad,Influencer,5,2148.0,75,13.3,0.0,0.961
+108864,Jaipur,Influencer,8,3547.0,35,18.8,0.25,0.724
+108867,Pune,Paid Social,1,174.0,5,10.4,0.0,0.282
+108868,Pune,Paid Social,1,250.0,15,19.3,0.0,0.358
+108871,Pune,Paid Social,11,4762.0,21,20.3,0.36,0.404
+108872,Hyderabad,Paid Social,2,1740.0,23,21.4,0.5,0.725
+108874,Chennai,Referral,2,1113.0,85,14.4,0.0,0.994
+108875,Delhi NCR,Influencer,1,676.0,6,15.7,0.0,0.317
+108879,Kolkata,Organic,10,4342.0,67,17.9,0.3,0.938
+108882,Chandigarh Tricity,Paid Social,1,176.0,72,30.4,1.0,0.991
+108886,Ahmedabad,Referral,1,340.0,21,20.7,1.0,0.786
+108887,Pune,Organic,11,5723.0,21,15.8,0.0,0.363
+108889,Hyderabad,Organic,9,5093.0,20,17.3,0.11,0.448
+108895,Bengaluru,Organic,7,4344.0,0,14.9,0.14,0.159
+108897,Pune,Influencer,1,285.0,11,12.6,0.0,0.376
+108899,Mumbai,Influencer,5,2501.0,12,14.4,0.0,0.364
+108905,Delhi NCR,Organic,5,4298.0,28,15.9,0.2,0.63
+108906,Jaipur,Paid Social,4,1693.0,63,21.5,0.75,0.966
+108908,Mumbai,Paid Social,9,5896.0,13,14.7,0.0,0.355
+108913,Pune,Paid Social,10,6476.0,7,18.0,0.1,0.246
+108915,Delhi NCR,Paid Social,1,1318.0,18,20.5,1.0,0.749
+108920,Delhi NCR,Paid Social,2,1050.0,1,19.6,0.5,0.287
+108921,Delhi NCR,Paid Social,3,982.0,30,13.8,0.0,0.57
+108922,Mumbai,Paid Social,23,12669.0,2,16.0,0.13,0.167
+108925,Pune,Paid Social,1,123.0,45,19.5,0.0,0.838
+108926,Pune,Referral,12,6818.0,18,16.2,0.17,0.403
+108928,Delhi NCR,Referral,2,827.0,31,13.4,0.0,0.627
+108929,Pune,Organic,10,6049.0,18,15.0,0.0,0.347
+108932,Bengaluru,Paid Social,1,689.0,58,10.3,0.0,0.915
+108941,Hyderabad,Google Ads,20,8754.0,7,17.5,0.2,0.235
+108944,Delhi NCR,Influencer,8,4075.0,35,16.6,0.12,0.664
+108945,Delhi NCR,Referral,5,1525.0,46,17.8,0.2,0.839
+108948,Bengaluru,Organic,3,2494.0,45,19.4,0.33,0.876
+108949,Kolkata,Influencer,1,626.0,14,13.4,0.0,0.379
+108950,Kolkata,Google Ads,19,10992.0,0,20.5,0.42,0.193
+108956,Chennai,Referral,2,533.0,78,15.0,0.0,0.978
+108957,Delhi NCR,Referral,2,1894.0,10,18.3,0.0,0.331
+108962,Bengaluru,Organic,1,724.0,69,10.8,0.0,0.954
+108964,Chennai,Organic,8,2640.0,21,17.7,0.25,0.464
+108965,Hyderabad,Referral,3,781.0,13,12.4,0.0,0.369
+108968,Pune,Organic,30,14742.0,16,17.2,0.2,0.317
+108973,Hyderabad,Paid Social,2,1465.0,20,17.4,0.0,0.461
+108977,Pune,Paid Social,1,668.0,39,17.7,0.0,0.789
+108978,Pune,Referral,12,5854.0,20,18.1,0.08,0.391
+108979,Bengaluru,Influencer,23,12881.0,0,14.6,0.04,0.119
+108980,Delhi NCR,Google Ads,40,18215.0,50,15.7,0.18,0.867
+108981,Mumbai,Referral,5,6412.0,77,16.2,0.0,0.972
+108987,Chennai,Paid Social,28,18277.0,8,16.7,0.14,0.184
+108988,Ahmedabad,Organic,5,2233.0,49,18.6,0.2,0.847
+108992,Bengaluru,Google Ads,1,1305.0,65,17.9,0.0,0.959
+108993,Mumbai,Organic,2,869.0,1,21.9,0.5,0.313
+108994,Ahmedabad,Organic,6,2691.0,1,18.7,0.17,0.175
+109000,Pune,Influencer,1,301.0,8,14.5,0.0,0.464

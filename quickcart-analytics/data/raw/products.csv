@@ -1,0 +1,241 @@
+product_id,product_name,category,price,cost
+1,Tomato 250 g,Fruits & Vegetables,110.0,88.81
+2,Onion 250 g,Fruits & Vegetables,132.0,102.47
+3,Potato 250 g,Fruits & Vegetables,25.0,18.57
+4,Banana 250 g,Fruits & Vegetables,106.0,81.16
+5,Apple 250 g,Fruits & Vegetables,27.0,21.76
+6,Spinach 250 g,Fruits & Vegetables,45.0,33.7
+7,Coriander 250 g,Fruits & Vegetables,82.0,62.42
+8,Capsicum 250 g,Fruits & Vegetables,53.0,44.13
+9,Cucumber 250 g,Fruits & Vegetables,68.0,57.96
+10,Carrot 250 g,Fruits & Vegetables,123.0,96.46
+11,Tomato 500 g,Fruits & Vegetables,106.0,86.65
+12,Onion 500 g,Fruits & Vegetables,169.0,127.23
+13,Potato 500 g,Fruits & Vegetables,111.0,92.87
+14,Banana 500 g,Fruits & Vegetables,56.0,47.87
+15,Apple 500 g,Fruits & Vegetables,28.0,21.78
+16,Spinach 500 g,Fruits & Vegetables,103.0,76.62
+17,Coriander 500 g,Fruits & Vegetables,41.0,33.44
+18,Capsicum 500 g,Fruits & Vegetables,56.0,46.89
+19,Cucumber 500 g,Fruits & Vegetables,27.0,21.68
+20,Carrot 500 g,Fruits & Vegetables,33.0,25.73
+21,Tomato 1 kg,Fruits & Vegetables,52.0,39.52
+22,Onion 1 kg,Fruits & Vegetables,93.0,76.49
+23,Potato 1 kg,Fruits & Vegetables,125.0,95.43
+24,Banana 1 kg,Fruits & Vegetables,47.0,38.79
+25,Apple 1 kg,Fruits & Vegetables,90.0,75.89
+26,Spinach 1 kg,Fruits & Vegetables,31.0,26.63
+27,Coriander 1 kg,Fruits & Vegetables,113.0,88.16
+28,Capsicum 1 kg,Fruits & Vegetables,94.0,72.03
+29,Cucumber 1 kg,Fruits & Vegetables,55.0,43.55
+30,Carrot 1 kg,Fruits & Vegetables,27.0,22.85
+31,Toned Milk 250 g,Dairy & Bread,71.0,60.56
+32,Curd 250 g,Dairy & Bread,61.0,50.23
+33,Paneer 250 g,Dairy & Bread,68.0,57.44
+34,Butter 250 g,Dairy & Bread,60.0,52.18
+35,Brown Bread 250 g,Dairy & Bread,26.0,22.26
+36,Eggs 250 g,Dairy & Bread,35.0,30.07
+37,Cheese Slices 250 g,Dairy & Bread,95.0,83.28
+38,Lassi 250 g,Dairy & Bread,27.0,23.54
+39,Toned Milk 500 g,Dairy & Bread,40.0,33.35
+40,Curd 500 g,Dairy & Bread,60.0,49.3
+41,Paneer 500 g,Dairy & Bread,71.0,61.01
+42,Butter 500 g,Dairy & Bread,90.0,79.5
+43,Brown Bread 500 g,Dairy & Bread,26.0,23.17
+44,Eggs 500 g,Dairy & Bread,78.0,66.6
+45,Cheese Slices 500 g,Dairy & Bread,32.0,27.2
+46,Lassi 500 g,Dairy & Bread,32.0,26.57
+47,Toned Milk 1 kg,Dairy & Bread,50.0,43.09
+48,Curd 1 kg,Dairy & Bread,40.0,33.48
+49,Paneer 1 kg,Dairy & Bread,44.0,39.21
+50,Butter 1 kg,Dairy & Bread,30.0,24.11
+51,Brown Bread 1 kg,Dairy & Bread,104.0,86.32
+52,Eggs 1 kg,Dairy & Bread,38.0,30.52
+53,Potato Chips 250 g,Snacks & Munchies,123.0,83.6
+54,Namkeen Mix 250 g,Snacks & Munchies,42.0,31.16
+55,Chocolate Bar 250 g,Snacks & Munchies,14.0,9.15
+56,Biscuits 250 g,Snacks & Munchies,43.0,32.32
+57,Instant Noodles 250 g,Snacks & Munchies,27.0,18.87
+58,Popcorn 250 g,Snacks & Munchies,18.0,11.88
+59,Cookies 250 g,Snacks & Munchies,115.0,78.12
+60,Nachos 250 g,Snacks & Munchies,40.0,27.69
+61,Wafers 250 g,Snacks & Munchies,66.0,45.48
+62,Potato Chips 500 g,Snacks & Munchies,13.0,9.38
+63,Namkeen Mix 500 g,Snacks & Munchies,11.0,7.82
+64,Chocolate Bar 500 g,Snacks & Munchies,29.0,22.03
+65,Biscuits 500 g,Snacks & Munchies,14.0,9.77
+66,Instant Noodles 500 g,Snacks & Munchies,17.0,11.06
+67,Popcorn 500 g,Snacks & Munchies,65.0,47.54
+68,Cookies 500 g,Snacks & Munchies,67.0,52.05
+69,Nachos 500 g,Snacks & Munchies,219.0,156.03
+70,Wafers 500 g,Snacks & Munchies,124.0,95.28
+71,Potato Chips 1 kg,Snacks & Munchies,48.0,34.14
+72,Namkeen Mix 1 kg,Snacks & Munchies,205.0,143.49
+73,Chocolate Bar 1 kg,Snacks & Munchies,46.0,34.16
+74,Biscuits 1 kg,Snacks & Munchies,29.0,20.51
+75,Instant Noodles 1 kg,Snacks & Munchies,41.0,31.86
+76,Popcorn 1 kg,Snacks & Munchies,143.0,93.6
+77,Cookies 1 kg,Snacks & Munchies,16.0,11.24
+78,Nachos 1 kg,Snacks & Munchies,14.0,9.6
+79,Wafers 1 kg,Snacks & Munchies,25.0,17.19
+80,Potato Chips Pack of 2,Snacks & Munchies,104.0,69.93
+81,Cola 250 g,Beverages,21.0,14.11
+82,Orange Juice 250 g,Beverages,30.0,23.84
+83,Energy Drink 250 g,Beverages,79.0,59.1
+84,Cold Coffee 250 g,Beverages,180.0,123.63
+85,Green Tea 250 g,Beverages,39.0,26.0
+86,Mineral Water 250 g,Beverages,36.0,26.2
+87,Iced Tea 250 g,Beverages,32.0,21.41
+88,Soda 250 g,Beverages,25.0,19.84
+89,Cola 500 g,Beverages,55.0,36.36
+90,Orange Juice 500 g,Beverages,217.0,150.86
+91,Energy Drink 500 g,Beverages,216.0,145.78
+92,Cold Coffee 500 g,Beverages,71.0,53.66
+93,Green Tea 500 g,Beverages,152.0,107.52
+94,Mineral Water 500 g,Beverages,46.0,36.19
+95,Iced Tea 500 g,Beverages,141.0,107.62
+96,Soda 500 g,Beverages,248.0,190.03
+97,Cola 1 kg,Beverages,22.0,15.04
+98,Orange Juice 1 kg,Beverages,24.0,18.6
+99,Energy Drink 1 kg,Beverages,90.0,60.98
+100,Cold Coffee 1 kg,Beverages,27.0,20.43
+101,Green Tea 1 kg,Beverages,154.0,102.25
+102,Mineral Water 1 kg,Beverages,67.0,52.25
+103,Iced Tea 1 kg,Beverages,16.0,12.29
+104,Soda 1 kg,Beverages,22.0,15.51
+105,Frozen Peas 250 g,Ready-to-Eat & Frozen,52.0,39.48
+106,Paratha 250 g,Ready-to-Eat & Frozen,180.0,135.05
+107,Veg Momos 250 g,Ready-to-Eat & Frozen,62.0,44.86
+108,Ready Biryani 250 g,Ready-to-Eat & Frozen,189.0,138.22
+109,Ice Cream Tub 250 g,Ready-to-Eat & Frozen,53.0,42.67
+110,Frozen Fries 250 g,Ready-to-Eat & Frozen,299.0,230.91
+111,Pasta Meal 250 g,Ready-to-Eat & Frozen,77.0,58.63
+112,Frozen Peas 500 g,Ready-to-Eat & Frozen,168.0,118.49
+113,Paratha 500 g,Ready-to-Eat & Frozen,74.0,52.47
+114,Veg Momos 500 g,Ready-to-Eat & Frozen,42.0,31.64
+115,Ready Biryani 500 g,Ready-to-Eat & Frozen,158.0,127.55
+116,Ice Cream Tub 500 g,Ready-to-Eat & Frozen,54.0,41.56
+117,Frozen Fries 500 g,Ready-to-Eat & Frozen,325.0,243.25
+118,Pasta Meal 500 g,Ready-to-Eat & Frozen,303.0,219.21
+119,Frozen Peas 1 kg,Ready-to-Eat & Frozen,110.0,79.84
+120,Paratha 1 kg,Ready-to-Eat & Frozen,42.0,33.89
+121,Veg Momos 1 kg,Ready-to-Eat & Frozen,242.0,175.3
+122,Ready Biryani 1 kg,Ready-to-Eat & Frozen,66.0,49.92
+123,Ice Cream Tub 1 kg,Ready-to-Eat & Frozen,149.0,106.66
+124,Frozen Fries 1 kg,Ready-to-Eat & Frozen,148.0,114.03
+125,Wheat Atta 250 g,"Staples (Atta, Rice, Oil)",150.0,134.39
+126,Basmati Rice 250 g,"Staples (Atta, Rice, Oil)",298.0,256.46
+127,Sunflower Oil 250 g,"Staples (Atta, Rice, Oil)",183.0,166.56
+128,Toor Dal 250 g,"Staples (Atta, Rice, Oil)",107.0,93.12
+129,Sugar 250 g,"Staples (Atta, Rice, Oil)",446.0,411.02
+130,Salt 250 g,"Staples (Atta, Rice, Oil)",71.0,62.65
+131,Poha 250 g,"Staples (Atta, Rice, Oil)",86.0,74.31
+132,Mustard Oil 250 g,"Staples (Atta, Rice, Oil)",129.0,118.49
+133,Wheat Atta 500 g,"Staples (Atta, Rice, Oil)",576.0,528.05
+134,Basmati Rice 500 g,"Staples (Atta, Rice, Oil)",121.0,111.04
+135,Sunflower Oil 500 g,"Staples (Atta, Rice, Oil)",80.0,74.26
+136,Toor Dal 500 g,"Staples (Atta, Rice, Oil)",69.0,63.21
+137,Sugar 500 g,"Staples (Atta, Rice, Oil)",68.0,60.02
+138,Salt 500 g,"Staples (Atta, Rice, Oil)",319.0,286.62
+139,Poha 500 g,"Staples (Atta, Rice, Oil)",131.0,116.54
+140,Mustard Oil 500 g,"Staples (Atta, Rice, Oil)",515.0,443.88
+141,Wheat Atta 1 kg,"Staples (Atta, Rice, Oil)",67.0,61.34
+142,Basmati Rice 1 kg,"Staples (Atta, Rice, Oil)",107.0,97.38
+143,Sunflower Oil 1 kg,"Staples (Atta, Rice, Oil)",244.0,218.79
+144,Toor Dal 1 kg,"Staples (Atta, Rice, Oil)",68.0,61.21
+145,Sugar 1 kg,"Staples (Atta, Rice, Oil)",217.0,200.04
+146,Salt 1 kg,"Staples (Atta, Rice, Oil)",465.0,430.52
+147,Shampoo 250 g,Personal Care,490.0,344.54
+148,Face Wash 250 g,Personal Care,393.0,222.65
+149,Body Lotion 250 g,Personal Care,568.0,331.52
+150,Toothpaste 250 g,Personal Care,330.0,201.56
+151,Deodorant 250 g,Personal Care,330.0,230.05
+152,Soap 250 g,Personal Care,171.0,108.17
+153,Sunscreen 250 g,Personal Care,408.0,261.66
+154,Hair Oil 250 g,Personal Care,113.0,69.07
+155,Shampoo 500 g,Personal Care,82.0,57.09
+156,Face Wash 500 g,Personal Care,146.0,94.77
+157,Body Lotion 500 g,Personal Care,75.0,49.31
+158,Toothpaste 500 g,Personal Care,108.0,71.75
+159,Deodorant 500 g,Personal Care,112.0,67.58
+160,Soap 500 g,Personal Care,89.0,49.72
+161,Sunscreen 500 g,Personal Care,478.0,305.08
+162,Hair Oil 500 g,Personal Care,97.0,61.01
+163,Shampoo 1 kg,Personal Care,398.0,242.41
+164,Face Wash 1 kg,Personal Care,353.0,222.19
+165,Body Lotion 1 kg,Personal Care,222.0,148.97
+166,Toothpaste 1 kg,Personal Care,293.0,200.88
+167,Deodorant 1 kg,Personal Care,263.0,150.88
+168,Soap 1 kg,Personal Care,57.0,35.09
+169,Sunscreen 1 kg,Personal Care,52.0,31.02
+170,Hair Oil 1 kg,Personal Care,50.0,28.04
+171,Detergent 250 g,Household & Cleaning,44.0,27.57
+172,Dishwash Gel 250 g,Household & Cleaning,262.0,179.47
+173,Floor Cleaner 250 g,Household & Cleaning,250.0,163.2
+174,Tissue Roll 250 g,Household & Cleaning,389.0,287.65
+175,Garbage Bags 250 g,Household & Cleaning,148.0,113.19
+176,Air Freshener 250 g,Household & Cleaning,159.0,119.66
+177,Sponge Pack 250 g,Household & Cleaning,139.0,95.69
+178,Detergent 500 g,Household & Cleaning,106.0,73.82
+179,Dishwash Gel 500 g,Household & Cleaning,237.0,154.55
+180,Floor Cleaner 500 g,Household & Cleaning,114.0,77.98
+181,Tissue Roll 500 g,Household & Cleaning,374.0,284.56
+182,Garbage Bags 500 g,Household & Cleaning,41.0,31.4
+183,Air Freshener 500 g,Household & Cleaning,178.0,126.92
+184,Sponge Pack 500 g,Household & Cleaning,244.0,164.12
+185,Detergent 1 kg,Household & Cleaning,74.0,47.08
+186,Dishwash Gel 1 kg,Household & Cleaning,237.0,174.6
+187,Floor Cleaner 1 kg,Household & Cleaning,80.0,58.38
+188,Tissue Roll 1 kg,Household & Cleaning,46.0,34.79
+189,Garbage Bags 1 kg,Household & Cleaning,379.0,269.07
+190,Air Freshener 1 kg,Household & Cleaning,85.0,56.38
+191,Sponge Pack 1 kg,Household & Cleaning,134.0,84.45
+192,Detergent Pack of 2,Household & Cleaning,248.0,174.42
+193,Pain Relief Gel 250 g,Pharmacy & Wellness,86.0,56.07
+194,ORS Sachets 250 g,Pharmacy & Wellness,226.0,148.55
+195,Vitamin C 250 g,Pharmacy & Wellness,42.0,28.24
+196,Bandage Pack 250 g,Pharmacy & Wellness,180.0,140.71
+197,Hand Sanitizer 250 g,Pharmacy & Wellness,157.0,109.44
+198,Cough Syrup 250 g,Pharmacy & Wellness,31.0,22.69
+199,Pain Relief Gel 500 g,Pharmacy & Wellness,306.0,231.24
+200,ORS Sachets 500 g,Pharmacy & Wellness,109.0,79.97
+201,Vitamin C 500 g,Pharmacy & Wellness,70.0,46.36
+202,Bandage Pack 500 g,Pharmacy & Wellness,270.0,211.52
+203,Hand Sanitizer 500 g,Pharmacy & Wellness,496.0,331.39
+204,Cough Syrup 500 g,Pharmacy & Wellness,67.0,45.19
+205,Pain Relief Gel 1 kg,Pharmacy & Wellness,40.0,26.01
+206,ORS Sachets 1 kg,Pharmacy & Wellness,195.0,136.98
+207,Vitamin C 1 kg,Pharmacy & Wellness,39.0,25.95
+208,Bandage Pack 1 kg,Pharmacy & Wellness,33.0,25.21
+209,Hand Sanitizer 1 kg,Pharmacy & Wellness,45.0,30.76
+210,Cough Syrup 1 kg,Pharmacy & Wellness,52.0,34.5
+211,Baby Diapers 250 g,Baby & Pet Care,392.0,319.46
+212,Baby Wipes 250 g,Baby & Pet Care,81.0,65.83
+213,Dog Food 250 g,Baby & Pet Care,347.0,245.6
+214,Cat Litter 250 g,Baby & Pet Care,143.0,100.25
+215,Baby Lotion 250 g,Baby & Pet Care,92.0,65.12
+216,Pet Treats 250 g,Baby & Pet Care,756.0,538.2
+217,Baby Diapers 500 g,Baby & Pet Care,433.0,304.26
+218,Baby Wipes 500 g,Baby & Pet Care,88.0,69.67
+219,Dog Food 500 g,Baby & Pet Care,108.0,80.93
+220,Cat Litter 500 g,Baby & Pet Care,486.0,355.65
+221,Baby Lotion 500 g,Baby & Pet Care,628.0,501.31
+222,Pet Treats 500 g,Baby & Pet Care,473.0,375.08
+223,Baby Diapers 1 kg,Baby & Pet Care,154.0,110.97
+224,Baby Wipes 1 kg,Baby & Pet Care,858.0,630.1
+225,Dog Food 1 kg,Baby & Pet Care,91.0,66.77
+226,Cat Litter 1 kg,Baby & Pet Care,89.0,61.96
+227,USB-C Cable 250 g,Electronics & Accessories,940.0,807.67
+228,Earphones 250 g,Electronics & Accessories,189.0,162.16
+229,Power Bank 250 g,Electronics & Accessories,1898.0,1565.8
+230,LED Bulb 250 g,Electronics & Accessories,1141.0,916.94
+231,AA Batteries 250 g,Electronics & Accessories,659.0,568.44
+232,Phone Charger 250 g,Electronics & Accessories,1738.0,1466.59
+233,USB-C Cable 500 g,Electronics & Accessories,668.0,531.75
+234,Earphones 500 g,Electronics & Accessories,804.0,616.77
+235,Power Bank 500 g,Electronics & Accessories,219.0,179.36
+236,LED Bulb 500 g,Electronics & Accessories,425.0,349.82
+237,AA Batteries 500 g,Electronics & Accessories,203.0,175.37
+238,Phone Charger 500 g,Electronics & Accessories,307.0,258.93
+239,USB-C Cable 1 kg,Electronics & Accessories,453.0,365.43
+240,Earphones 1 kg,Electronics & Accessories,774.0,642.87

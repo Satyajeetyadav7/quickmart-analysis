@@ -1,0 +1,6 @@
+channel,customers,avg_orders_90d,avg_gross_profit_90d,retained_after_day30_pct,cac_inr,ltv90_to_cac
+Referral,1018,4.77,428.0,52.8,120.0,3.57
+Organic,2070,4.04,349.0,49.6,0.0,
+Google Ads,1451,3.62,277.0,48.1,260.0,1.06
+Paid Social,1783,3.25,225.0,46.2,210.0,1.07
+Influencer,1041,2.95,170.0,42.7,310.0,0.55

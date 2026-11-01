@@ -1,0 +1,29 @@
+feature,importance,label
+recency_days,0.27571927558777765,Days since last order
+late_share,0.022859725850479795,Share of late deliveries
+orders_last_90d,0.007100883501129962,Orders in last 90d
+tenure_days,0.0038214212333792076,Customer tenure (days)
+frequency,0.003058264111068598,Order count
+monetary,0.0015189174909740367,Lifetime spend
+orders_last_30d,0.0013042942264227086,Orders in last 30d
+avg_discount_pct,0.0007184243740643081,Avg discount used
+acquisition_channel_Google Ads,0.0005864568962985484,acquisition_channel_Google Ads
+cancel_rate,0.0004254894478850302,Cancellation rate
+avg_gap_days,0.00027790660130890823,Avg days between orders
+age_group_18-24,0.0002743843376675326,age_group_18-24
+city_tier_Tier 1,0.0001141213419823206,city_tier_Tier 1
+city_tier_Tier 2,0.0001141213419823206,city_tier_Tier 2
+age_group_25-34,2.1133581848498116e-05,age_group_25-34
+device_Web,1.5732777598298497e-05,device_Web
+device_iOS,6.69230091858708e-06,device_iOS
+device_Android,1.0566790922927894e-06,device_Android
+age_group_45+,-1.6437230326804553e-05,age_group_45+
+acquisition_channel_Influencer,-6.105256978501394e-05,acquisition_channel_Influencer
+acquisition_channel_Organic,-7.3263083741959e-05,acquisition_channel_Organic
+aov,-7.901611435625621e-05,Avg order value
+recency_vs_gap,-0.00013173266018979836,Recency / usual gap
+acquisition_channel_Referral,-0.00021591476122000407,acquisition_channel_Referral
+age_group_35-44,-0.0005576917432270845,age_group_35-44
+avg_rating,-0.0007029264140422375,Avg rating given
+avg_delivery_min,-0.0009567642138015531,Avg delivery time
+acquisition_channel_Paid Social,-0.0009632216971441343,acquisition_channel_Paid Social

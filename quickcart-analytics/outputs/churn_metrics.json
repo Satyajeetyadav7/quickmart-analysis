@@ -1,0 +1,23 @@
+{
+  "horizon_days": 60,
+  "train_snapshot": "2026-06-30",
+  "test_snapshot": "2026-08-31",
+  "score_snapshot": "2026-10-31",
+  "n_train": 2545,
+  "n_test": 2649,
+  "selected_model": "logistic_regression",
+  "logistic_regression": {
+    "roc_auc": 0.836,
+    "pr_auc": 0.886,
+    "churn_base_rate": 0.585,
+    "top_decile_churn_rate": 0.981,
+    "top_decile_lift": 1.68
+  },
+  "gradient_boosting": {
+    "roc_auc": 0.825,
+    "pr_auc": 0.876,
+    "churn_base_rate": 0.585,
+    "top_decile_churn_rate": 0.985,
+    "top_decile_lift": 1.68
+  }
+}
